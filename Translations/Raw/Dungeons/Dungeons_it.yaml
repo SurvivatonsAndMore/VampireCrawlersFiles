@@ -14,226 +14,181 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: it
-  m_SharedData: {fileID: 11400000, guid: 0db52a9ea80c8f94cba6fe01899d711c, type: 2}
+  m_SharedData: {fileID: 11400000, guid: 66f793f3476289c41a7ac1be912ce20a, type: 2}
   m_Metadata:
     m_Items:
-      Array:
-      - rid: 1186001538324365346
+    - rid: 1186001538324365346
   m_TableData:
   - m_Id: 11823947247616
     m_Localized: '{GlobalKeywords.Village}'
     m_Metadata:
       m_Items:
-        Array:
-        - rid: 1186001538324365346
+      - rid: 1186001538324365346
   - m_Id: 11824022745088
     m_Localized: Il villaggio di Gorton, una sonnolenta cittadina di provincia. Non lasciarti ingannare dal suo aspetto tranquillo. È un crogiolo di eroi ed eroine! Il punto di partenza di ogni avventuriero.
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 11824022745089
     m_Localized: Foresta folle
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 11824022745090
     m_Localized: In passato era un rifugio fiorente, ma ora è solo una discarica di malvagità. Si racconta che un vampiro sia la causa di tutta questa nequizia, ma ci abbiamo trovato solo caos e pollo arrosto.
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 12266632501878784
     m_Localized: Foresta furibonda
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 12266632527044608
     m_Localized: Più ci si addentra nella foresta, più i suoi mostri diventano inquietanti. Dev'esserci qualcosa nell'aria che li porta alla follia... forse la magia oscura, forse la qualità del pollo.
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 12266632527044609
     m_Localized: Bosco del berserkr
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 12266632527044610
     m_Localized: Una volta che ci si addentra nell'abisso, non si può più uscire. Si può udire un pianto sommesso tra gli alberi, accompagnato dal frullio di migliaia di ali.
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 11824022745091
     m_Localized: Biblioteca intarsiata
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 11824022745092
     m_Localized: Il Futile Scriba era condannato per l'eternità a sapere tutto e a non capire nulla. La sua biblioteca infinita potrebbe donarci conoscenza... o dannazione. Un maschera di pietra mormora incessantemente al suo interno.
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 40868002012160000
     m_Localized: Ala ovest della biblioteca
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 40868002045714432
     m_Localized: Nessun intruso sano di mente oserebbe emettere suoni più forti di un sussurro in un tale labirinto di librerie e tomi maledetti. Creature disumane infestano i corridoi in cerca di immemorabile vendetta.
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 40868002045714433
     m_Localized: Sancta sanctorum della biblioteca
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 40868002045714434
     m_Localized: Un tempo sede di alcuni tra i maghi più talentosi e illustri del mondo, ora non restano altro che magia oscura, nefandi famigli e coloro che cercano di imbrigliare entrambi.
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 11824022745093
     m_Localized: Caseificio
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 11824022745094
     m_Localized: Il luogo di nascita della Magia Lattea, dove il caos è denso come il burro. Qui non è solo il sangue a cagliare. Una sorpresa cremosa attende l'eroe che oserà mettere piede in questa fabbrica sconquassata.
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 40868002045714435
     m_Localized: Lattificio
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 40868002045714436
     m_Localized: Ai tempi andati, degli ufficiali corrotti s'intascavano di nascosto il gran... cioè, LA grana. Ora non è altro che un garbuglio di tubazioni infestate da colossali golem che un tempo proteggevano questo luogo.
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 40868002045714437
     m_Localized: Cremeria
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 40868002045714438
     m_Localized: L'epicentro del complesso caseario, luogo in cui molti avventurieri amanti dei formaggi hanno perso la vita (e il punto vita). Attenzione, brulica di creature dipendenti dal latte e dalla grezza magia lattea.
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 11824022745095
     m_Localized: Torre dell'uccello
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 11824022745096
     m_Localized: Un edificio di scienza e stregoneria dove l'orrore fu reso manifesto nel nome del progresso. I suoi innumerevoli manufatti ed esperimenti potrebbero condurci a ciò che cerchiamo.
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 11824022745097
     m_Localized: Cappella magna
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 11824022745098
     m_Localized: Nessuno si aspettava che i presuntuosi governatori si sarebbero abbassati a tanto. Questo coacervo di purezza corrotta è il luogo perfetto dove trovare un vampiro. Probabilmente.
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 40868002045714439
     m_Localized: Cappella ultima
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 40868002045714440
     m_Localized: Qui si trova la stanza del trono fluttuante. Dove il burattinaio di tutti gli abomini di queste terre manovra i suoi fili. Una rocca perfetta per chi, credendosi un dio, si crogiola nella putrefazione.
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 5409240946401281
     m_Localized: Ponte ponente
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 5409240946401282
     m_Localized: Questo meraviglioso ponticello sembra perfettamente sicuro da attraversare. È comunque sempre meglio che dover nuotare.
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 5409240946401283
     m_Localized: Ponte pì
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 5409240946401284
     m_Localized: Questo ponte sembra ancora più piccolo e silenzioso dell'altro. Di sicuro stavolta sarà possibile attraversarlo in santa pace.
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 5409240946401285
     m_Localized: Tappetà Perugia
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 5409240946401286
     m_Localized: Un ponte dall'aspetto innocente e dal nome oscuro. Cosa mai potrà andar storto?
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 195993120258600960
     m_Localized: Moongolow
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 195993120304738304
     m_Localized: Prologo di Moongolow
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 195993120304738305
     m_Localized: Qualcosa attende sotto il pelo del mare rischiarato dalla luna...
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 195993120304738306
     m_Localized: Mistero al chiaro di luna
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 195993120304738307
     m_Localized: Camera sommersa
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 195993120304738308
     m_Localized: Cosa si cela sotto le onde? Un mero incontro con un PNG o forse un'anteprima preparata in fretta e furia che preannuncia futuri scenari?
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 195993120304738309
     m_Localized: Al di sotto della risacca, uno sconosciuto attende i Crawler più coraggiosi. Ma è bagnato fradicio, non dimenticare di portare un asciugamano.
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 195993120304738310
     m_Localized: Moongolow
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   - m_Id: 195993120304738311
     m_Localized: Quando la luna risplende alta, le rovine di una città inghiottita dal mare tornano in superficie, recando con sé misteri e ricchezze.
     m_Metadata:
-      m_Items:
-        Array: []
+      m_Items: []
   references:
     version: 2
     RefIds:
     - rid: 1186001538324365346
-      type:
-        class: SmartFormatTag
-        ns: UnityEngine.Localization.Metadata
-        asm: Unity.Localization
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
       data:
         m_Entries:
         m_SharedEntries:
