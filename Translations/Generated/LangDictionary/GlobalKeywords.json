@@ -140,18 +140,18 @@
     "zh-Hans": "恢复"
   },
   "STAT_HAND_SIZE": {
-    "en": "Hand",
-    "fr": "Main",
-    "it": "Mano",
-    "de": "Hand",
-    "es": "mano",
-    "pt-BR": "Mão",
-    "pl": "Ręka",
-    "ru": "Рука",
-    "ja": "手札",
-    "ko": "손패",
-    "zh-Hant": "手牌數",
-    "zh-Hans": "手牌"
+    "en": "Deal Count",
+    "fr": "Nombre de cartes",
+    "it": "Mano iniziale",
+    "de": "Starthand",
+    "es": "Mano inicial",
+    "pt-BR": "Contagem",
+    "pl": "Liczba rozdawanych kart",
+    "ru": "Раздача",
+    "ja": "ディール枚数",
+    "ko": "딜 카드 수",
+    "zh-Hant": "發牌數",
+    "zh-Hans": "发牌数"
   },
   "STAT_MANA": {
     "en": "Mana",

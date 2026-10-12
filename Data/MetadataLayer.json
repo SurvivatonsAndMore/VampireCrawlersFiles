@@ -9,8 +9,7 @@
     "_maximumValidPathSegmentLength": 4,
     "_drawMainPathDebug": 0,
     "_drawPOIDebug": 0,
-    "_drawPathSegmentsDebug": 1,
-    "_progressDelay": 0
+    "_drawPathSegmentsDebug": 1
   },
   "MetaLayer_CappellaMagna_Shared": {
     "_shouldDrawDebug": 0,
@@ -22,8 +21,19 @@
     "_maximumValidPathSegmentLength": 4,
     "_drawMainPathDebug": 0,
     "_drawPOIDebug": 0,
-    "_drawPathSegmentsDebug": 1,
-    "_progressDelay": 0
+    "_drawPathSegmentsDebug": 1
+  },
+  "MetaLayer_GalloBelow_Shared": {
+    "_shouldDrawDebug": 1,
+    "_roomTag": "Tag_Room",
+    "_corridorTag": "Tag_Corridor",
+    "_prioritySpawnTag": "Tag_Spawn",
+    "_offPathDifficultyInitialScale": 0.75,
+    "_offPathDifficultyMaxScale": 0.9,
+    "_maximumValidPathSegmentLength": 7,
+    "_drawMainPathDebug": 1,
+    "_drawPOIDebug": 0,
+    "_drawPathSegmentsDebug": 1
   },
   "MetaLayer_GalloTower_Shared": {
     "_shouldDrawDebug": 1,
@@ -35,8 +45,7 @@
     "_maximumValidPathSegmentLength": 4,
     "_drawMainPathDebug": 1,
     "_drawPOIDebug": 0,
-    "_drawPathSegmentsDebug": 1,
-    "_progressDelay": 0
+    "_drawPathSegmentsDebug": 1
   },
   "MetadataLayer": {
     "_shouldDrawDebug": 1,
@@ -48,8 +57,7 @@
     "_maximumValidPathSegmentLength": 5,
     "_drawMainPathDebug": 1,
     "_drawPOIDebug": 1,
-    "_drawPathSegmentsDebug": 1,
-    "_progressDelay": 0
+    "_drawPathSegmentsDebug": 1
   },
   "MetadataLayer_TinyBridge_02_F1": {
     "_shouldDrawDebug": 1,
@@ -61,8 +69,7 @@
     "_maximumValidPathSegmentLength": 10,
     "_drawMainPathDebug": 1,
     "_drawPOIDebug": 1,
-    "_drawPathSegmentsDebug": 1,
-    "_progressDelay": 0
+    "_drawPathSegmentsDebug": 1
   },
   "MetadataLayer_TinyBridge_03_F1": {
     "_shouldDrawDebug": 1,
@@ -74,7 +81,6 @@
     "_maximumValidPathSegmentLength": 10,
     "_drawMainPathDebug": 1,
     "_drawPOIDebug": 1,
-    "_drawPathSegmentsDebug": 1,
-    "_progressDelay": 0
+    "_drawPathSegmentsDebug": 1
   }
 }

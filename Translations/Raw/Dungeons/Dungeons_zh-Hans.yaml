@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: zh-Hans
-  m_SharedData: {fileID: 11400000, guid: 66f793f3476289c41a7ac1be912ce20a, type: 2}
+  m_SharedData: {fileID: 11400000, guid: 9d3c47f862a53f74690dd26349005e02, type: 2}
   m_Metadata:
     m_Items:
     - rid: 1186001538324365355
@@ -57,7 +57,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 11824022745092
-    m_Localized: 身负诅咒的徒然学士不得不记住世间全部的知识，却不能理解一星半点。他的无尽书库或许能为我们提供一点参考……或是灾厄。这里有一个石质的面具，不断地轻声地低语着。
+    m_Localized: 身负诅咒的徒然学士记住了世间的知识，却不能理解一点。他的无尽书库或许能提供一点参考……或是灾厄。这里有一个石质的面具，不断轻声低语着。
     m_Metadata:
       m_Items: []
   - m_Id: 40868002012160000

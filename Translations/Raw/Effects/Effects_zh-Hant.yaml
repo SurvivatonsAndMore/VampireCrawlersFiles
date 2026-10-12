@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: zh-Hant
-  m_SharedData: {fileID: 11400000, guid: a828b62f32467474f8eb3d573f917d81, type: 2}
+  m_SharedData: {fileID: 11400000, guid: a39742c687742944b8f94a2610bab396, type: 2}
   m_Metadata:
     m_Items:
     - rid: 1186001538324365356
@@ -130,9 +130,10 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 203187388425
-    m_Localized: 捨棄一張手牌
+    m_Localized: 捨棄 {Plural:p:1 張手牌|{:N0} 張手牌}
     m_Metadata:
-      m_Items: []
+      m_Items:
+      - rid: 1186001538324365356
   - m_Id: 203187388426
     m_Localized: 獲得 {0:combo:%} 的經驗值{GlobalKeywords.Growth}
     m_Metadata:
@@ -505,7 +506,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 128589568952840206
-    m_Localized: '{:color(Keyword):{GlobalKeywords.Hand}}'
+    m_Localized: '{:color(Keyword):{GlobalKeywords.Handsize}}'
     m_Metadata:
       m_Items:
       - rid: 1186001538324365356
@@ -1474,7 +1475,7 @@ MonoBehaviour:
       m_Items:
       - rid: 1186001538324365356
   - m_Id: 191773626099249152
-    m_Localized: '{:color(Keyword):{GlobalKeywords.Hand} +}'
+    m_Localized: '{:color(Keyword):{GlobalKeywords.Handsize} +}'
     m_Metadata:
       m_Items:
       - rid: 1186001538324365356
@@ -1528,6 +1529,11 @@ MonoBehaviour:
     m_Localized: 觸發所有啟用中的冒險者能力。
     m_Metadata:
       m_Items: []
+  - m_Id: 248525045330030592
+    m_Localized: 將所有在場的{GlobalKeywords.Crawlers}召回{GlobalKeywords.Hand}。
+    m_Metadata:
+      m_Items:
+      - rid: 1186001538324365356
   references:
     version: 2
     RefIds:
@@ -1772,4 +1778,6 @@ MonoBehaviour:
         - id: 195294087462465536
         - id: 210570225151586304
         - id: 210600141054226432
+        - id: 203187388425
+        - id: 248525045330030592
 

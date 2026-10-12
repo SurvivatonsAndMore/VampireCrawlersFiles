@@ -1356,5 +1356,33 @@
     "ko": "수석 규정 준수 테스터",
     "zh-Hant": "資深合規測試員",
     "zh-Hans": "资深合规测试"
+  },
+  "CREDIT_LOCKIT_TURK": {
+    "en": "Turkish",
+    "fr": "Turkish",
+    "it": "Turkish",
+    "de": "Turkish",
+    "es": "Turkish",
+    "pt-BR": "Turkish",
+    "pl": "Turkish",
+    "ru": "Turkish",
+    "ja": "Turkish",
+    "ko": "Turkish",
+    "zh-Hant": "Turkish",
+    "zh-Hans": "Turkish"
+  },
+  "CREDIT_LOCKIT_UKRA": {
+    "en": "Ukrainian",
+    "fr": "Ukrainian",
+    "it": "Ukrainian",
+    "de": "Ukrainian",
+    "es": "Ukrainian",
+    "pt-BR": "Ukrainian",
+    "pl": "Ukrainian",
+    "ru": "Ukrainian",
+    "ja": "Ukrainian",
+    "ko": "Ukrainian",
+    "zh-Hant": "Ukrainian",
+    "zh-Hans": "Ukrainian"
   }
 }

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: it
-  m_SharedData: {fileID: 11400000, guid: a828b62f32467474f8eb3d573f917d81, type: 2}
+  m_SharedData: {fileID: 11400000, guid: a39742c687742944b8f94a2610bab396, type: 2}
   m_Metadata:
     m_Items:
     - rid: 1186001538324365344
@@ -130,9 +130,10 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 203187388425
-    m_Localized: Scarta una carta
+    m_Localized: Scarta {Plural:p:una carta|{:N0} carte}
     m_Metadata:
-      m_Items: []
+      m_Items:
+      - rid: 1186001538324365344
   - m_Id: 203187388426
     m_Localized: Guadagni {0:combo:%} PE di {GlobalKeywords.Growth}
     m_Metadata:
@@ -505,7 +506,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 128589568952840206
-    m_Localized: '{:color(Keyword):{GlobalKeywords.Hand}}'
+    m_Localized: '{:color(Keyword):{GlobalKeywords.Handsize}}'
     m_Metadata:
       m_Items:
       - rid: 1186001538324365344
@@ -1474,7 +1475,7 @@ MonoBehaviour:
       m_Items:
       - rid: 1186001538324365344
   - m_Id: 191773626099249152
-    m_Localized: '{:color(Keyword):{GlobalKeywords.Hand} +}'
+    m_Localized: '{:color(Keyword):{GlobalKeywords.Handsize} +}'
     m_Metadata:
       m_Items:
       - rid: 1186001538324365344
@@ -1528,6 +1529,11 @@ MonoBehaviour:
     m_Localized: Attivi tutte le abilità attive dei Crawler.
     m_Metadata:
       m_Items: []
+  - m_Id: 248525045330030592
+    m_Localized: Riporta tutti i {GlobalKeywords.Crawlers} attivi nella {GlobalKeywords.Hand}.
+    m_Metadata:
+      m_Items:
+      - rid: 1186001538324365344
   references:
     version: 2
     RefIds:
@@ -1772,4 +1778,6 @@ MonoBehaviour:
         - id: 195294087462465536
         - id: 210570225151586304
         - id: 210600141054226432
+        - id: 203187388425
+        - id: 248525045330030592
 

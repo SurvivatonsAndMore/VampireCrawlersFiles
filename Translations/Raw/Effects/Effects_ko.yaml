@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: ko
-  m_SharedData: {fileID: 11400000, guid: a828b62f32467474f8eb3d573f917d81, type: 2}
+  m_SharedData: {fileID: 11400000, guid: a39742c687742944b8f94a2610bab396, type: 2}
   m_Metadata:
     m_Items:
     - rid: -2
@@ -172,9 +172,10 @@ MonoBehaviour:
       - rid: -2
       - rid: 1496553099325603854
   - m_Id: 203187388425
-    m_Localized: 카드 1장 버림
+    m_Localized: '{Plural:p:카드 1장|카드 {:N0}장} 버림'
     m_Metadata:
-      m_Items: []
+      m_Items:
+      - rid: 1496553099325603854
   - m_Id: 203187388426
     m_Localized: '{GlobalKeywords.Growth} XP {0:combo:%} 획득'
     m_Metadata:
@@ -232,7 +233,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 203187388435
-    m_Localized: '{EnemyTypeToTarget}을 사용하는 적 {Count:p:1마리|{:N0}마리 }까지 행동 중지'
+    m_Localized: '{EnemyTypeToTarget}을/를 사용하는 적 {Count:p:1마리|{:N0}마리 }까지 행동 중지'
     m_Metadata:
       m_Items:
       - rid: -2
@@ -603,7 +604,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 128589568952840206
-    m_Localized: '{:color(Keyword):{GlobalKeywords.Hand}}'
+    m_Localized: '{:color(Keyword):{GlobalKeywords.Handsize}}'
     m_Metadata:
       m_Items:
       - rid: 1496553099325603854
@@ -1576,7 +1577,7 @@ MonoBehaviour:
       m_Items:
       - rid: 1496553099325603854
   - m_Id: 191773626099249152
-    m_Localized: '{:color(Keyword):{GlobalKeywords.Hand} +}'
+    m_Localized: '{:color(Keyword):{GlobalKeywords.Handsize} +}'
     m_Metadata:
       m_Items:
       - rid: 1496553099325603854
@@ -1630,6 +1631,11 @@ MonoBehaviour:
     m_Localized: 활성화된 크롤러의 능력을 모두 발동합니다.
     m_Metadata:
       m_Items: []
+  - m_Id: 248525045330030592
+    m_Localized: 활동 중인 {GlobalKeywords.Crawlers}를 모두 {GlobalKeywords.Hand}로 회수합니다.
+    m_Metadata:
+      m_Items:
+      - rid: 1496553099325603854
   references:
     version: 2
     RefIds:
@@ -1878,4 +1884,6 @@ MonoBehaviour:
         - id: 195294087462465536
         - id: 210570225151586304
         - id: 210600141054226432
+        - id: 203187388425
+        - id: 248525045330030592
 

@@ -403,6 +403,14 @@ MonoBehaviour:
     m_Key: CREDIT_SNR_COMP_TESTER
     m_Metadata:
       m_Items: []
+  - m_Id: 129434051939348480
+    m_Key: CREDIT_LOCKIT_TURK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129434051977097216
+    m_Key: CREDIT_LOCKIT_UKRA
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: pt-BR
-  m_SharedData: {fileID: 11400000, guid: 83b50ac424cee014c9500f6866afe6a5, type: 2}
+  m_SharedData: {fileID: 11400000, guid: 11ae249ee57de9f4f9d195b592932d3f, type: 2}
   m_Metadata:
     m_Items:
     - rid: 1186001538324365347
@@ -121,12 +121,12 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2192685012168706
-    m_Localized: Aumente {GlobalKeywords.Handsize} em {PowerUpValue:N0} {PowerUpValue:p:carta|cartas} por classe.
+    m_Localized: Aumente a {GlobalKeywords.Handsize} em {PowerUpValue:N0} {PowerUpValue:p:carta|cartas} por classe.
     m_Metadata:
       m_Items:
       - rid: 1186001538324365347
   - m_Id: 84069615760449543
-    m_Localized: Aumente {GlobalKeywords.Handsize}.
+    m_Localized: Aumente a {GlobalKeywords.Handsize}.
     m_Metadata:
       m_Items:
       - rid: 1186001538324365347

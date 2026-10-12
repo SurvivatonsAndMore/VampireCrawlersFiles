@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: es
-  m_SharedData: {fileID: 11400000, guid: 1c896247352f9d547bf32c3244fbc0f5, type: 2}
+  m_SharedData: {fileID: 11400000, guid: 561634ba162fa8a4d9b9a0312af362b4, type: 2}
   m_Metadata:
     m_Items:
     - rid: 1186001538324365336
@@ -320,9 +320,10 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5835578648657921
-    m_Localized: Mano
+    m_Localized: '{GlobalKeywords.Handsize}'
     m_Metadata:
-      m_Items: []
+      m_Items:
+      - rid: 1186001538324365336
   - m_Id: 5835578648657922
     m_Localized: '{GlobalKeywords.Duration}'
     m_Metadata:
@@ -1665,6 +1666,10 @@ MonoBehaviour:
     m_Localized: Predeterminado
     m_Metadata:
       m_Items: []
+  - m_Id: 233781552850350080
+    m_Localized: pantalla táctil
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:
@@ -1755,4 +1760,5 @@ MonoBehaviour:
         - id: 213505174802407424
         - id: 221060502124572672
         - id: 221133792419590146
+        - id: 5835578648657921
 

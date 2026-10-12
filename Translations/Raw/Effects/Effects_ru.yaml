@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: ru
-  m_SharedData: {fileID: 11400000, guid: a828b62f32467474f8eb3d573f917d81, type: 2}
+  m_SharedData: {fileID: 11400000, guid: a39742c687742944b8f94a2610bab396, type: 2}
   m_Metadata:
     m_Items:
     - rid: 7336426704161210480
@@ -130,9 +130,10 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 203187388425
-    m_Localized: Сбрасывает карту
+    m_Localized: Сбрасывает {Plural:p:карту|{:N0} карты|{:N0} карт}
     m_Metadata:
-      m_Items: []
+      m_Items:
+      - rid: 7336426704161210480
   - m_Id: 203187388426
     m_Localized: Даёт {0:combo:%} опыта ({GlobalKeywords.Growth})
     m_Metadata:
@@ -504,7 +505,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 128589568952840206
-    m_Localized: '{:color(Keyword):{GlobalKeywords.Hand}}'
+    m_Localized: '{:color(Keyword):{GlobalKeywords.Handsize}}'
     m_Metadata:
       m_Items:
       - rid: 7336426704161210480
@@ -1450,7 +1451,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 191773626099249152
-    m_Localized: '{:color(Keyword):{GlobalKeywords.Hand} +}'
+    m_Localized: '{:color(Keyword):{GlobalKeywords.Handsize} +}'
     m_Metadata:
       m_Items:
       - rid: 7336426704161210480
@@ -1501,6 +1502,10 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 219562269966544896
     m_Localized: Активируйте все способности активного бродяги.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 248525045330030592
+    m_Localized: Призывает всех активных бродяг обратно в раздачу.
     m_Metadata:
       m_Items: []
   references:
@@ -1722,4 +1727,5 @@ MonoBehaviour:
         - id: 195294087462465536
         - id: 210570225151586304
         - id: 210600141054226432
+        - id: 203187388425
 

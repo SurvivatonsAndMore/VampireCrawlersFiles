@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: pl
-  m_SharedData: {fileID: 11400000, guid: a828b62f32467474f8eb3d573f917d81, type: 2}
+  m_SharedData: {fileID: 11400000, guid: a39742c687742944b8f94a2610bab396, type: 2}
   m_Metadata:
     m_Items:
     - rid: -2
@@ -144,9 +144,10 @@ MonoBehaviour:
       m_Items:
       - rid: 1496553099325603849
   - m_Id: 203187388425
-    m_Localized: Odrzuć kartę
+    m_Localized: Odrzuć {Plural:p:1 kartę|{:N0} karty|{:N0} kart}
     m_Metadata:
-      m_Items: []
+      m_Items:
+      - rid: 1496553099325603849
   - m_Id: 203187388426
     m_Localized: Zdobywaj {0:combo:%} PD więcej
     m_Metadata:
@@ -356,7 +357,7 @@ MonoBehaviour:
       m_Items:
       - rid: 1496553099325603849
   - m_Id: 17343292777771008
-    m_Localized: Zwiększ liczbę kart na ręce o {0:combo:}.
+    m_Localized: Zwiększ liczbę rozdawanych kart o {0:combo:}.
     m_Metadata:
       m_Items:
       - rid: 1496553099325603849
@@ -410,7 +411,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 22481692522524675
-    m_Localized: Zwiększ liczbę kart na ręce o {ActionValue:N0}
+    m_Localized: Zwiększ liczbę rozdawanych kart o {ActionValue:N0}
     m_Metadata:
       m_Items:
       - rid: 1496553099325603849
@@ -559,7 +560,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 128589568952840206
-    m_Localized: '{:color(Keyword):{GlobalKeywords.Hand}}'
+    m_Localized: '{:color(Keyword):{GlobalKeywords.Handsize}}'
     m_Metadata:
       m_Items:
       - rid: 1496553099325603849
@@ -1514,7 +1515,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 191773626099249152
-    m_Localized: '{:color(Keyword):{GlobalKeywords.Hand} +}'
+    m_Localized: '{:color(Keyword):{GlobalKeywords.Handsize} +}'
     m_Metadata:
       m_Items:
       - rid: 1496553099325603849
@@ -1564,6 +1565,10 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 219562269966544896
     m_Localized: Uruchom wszystkie aktywne umiejętności odkrywcy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 248525045330030592
+    m_Localized: Przywołaj wszystkich aktywnych odkrywców z powrotem do ręki.
     m_Metadata:
       m_Items: []
   references:
@@ -1786,4 +1791,5 @@ MonoBehaviour:
         - id: 195294087462465536
         - id: 210570225151586304
         - id: 210600141054226432
+        - id: 203187388425
 

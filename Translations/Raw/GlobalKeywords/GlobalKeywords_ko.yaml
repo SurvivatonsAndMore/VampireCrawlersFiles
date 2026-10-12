@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: ko
-  m_SharedData: {fileID: 11400000, guid: 3495a8adc39f7d24d86e02f9ed26eb36, type: 2}
+  m_SharedData: {fileID: 11400000, guid: 5e6be74def1f30147ae3ba3fc18b9bb9, type: 2}
   m_Metadata:
     m_Items: []
   m_TableData:
@@ -59,7 +59,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 7344290303782914
-    m_Localized: 손패
+    m_Localized: 딜 카드 수
     m_Metadata:
       m_Items: []
   - m_Id: 7344290303782915

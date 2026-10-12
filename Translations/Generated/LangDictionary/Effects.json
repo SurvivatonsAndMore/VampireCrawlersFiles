@@ -392,18 +392,18 @@
     "zh-Hans": "治疗{0:combo:}"
   },
   "DISCARD_EFFECT": {
-    "en": "Discard a card",
-    "fr": "Défausse une carte",
-    "it": "Scarta una carta",
-    "de": "Karte abwerfen",
-    "es": "Descartas una carta",
-    "pt-BR": "Descarte uma carta",
-    "pl": "Odrzuć kartę",
-    "ru": "Сбрасывает карту",
-    "ja": "カードを1枚捨てる",
-    "ko": "카드 1장 버림",
-    "zh-Hant": "捨棄一張手牌",
-    "zh-Hans": "弃置一张牌"
+    "en": "Discard {Plural:p:a card|{:N0} cards}",
+    "fr": "Défausse {Plural:p:une carte|{:N0} cartes}",
+    "it": "Scarta {Plural:p:una carta|{:N0} carte}",
+    "de": "{Plural:p:Karte|{:N0} Karten} abwerfen",
+    "es": "Descartas {Plural:p:una carta|{:N0} cartas}",
+    "pt-BR": "Descarte {Plural:p:uma carta|{:N0} cartas}",
+    "pl": "Odrzuć {Plural:p:1 kartę|{:N0} karty|{:N0} kart}",
+    "ru": "Сбрасывает {Plural:p:карту|{:N0} карты|{:N0} карт}",
+    "ja": "{Plural:p:カードを1枚|カードを{:N0}枚}捨てる",
+    "ko": "{Plural:p:카드 1장|카드 {:N0}장} 버림",
+    "zh-Hant": "捨棄 {Plural:p:1 張手牌|{:N0} 張手牌}",
+    "zh-Hans": "弃置{Plural:p:1张卡牌|{:N0}张卡牌}"
   },
   "GROWTH_EFFECT": {
     "en": "Gain {0:combo:%} XP {GlobalKeywords.Growth}",
@@ -583,7 +583,7 @@
     "pl": "Zatrzymaj do {Count:p:1 wroga|{:N0} wrogów|{:N0} wrogów} za pomocą: {EnemyTypeToTarget}",
     "ru": "Останавливает до {Count:p:1 врага|{:N0} врагов}, используя {EnemyTypeToTarget}",
     "ja": "{EnemyTypeToTarget}で{Count:p:敵を1体|敵を{:N0}体}まで止める",
-    "ko": "{EnemyTypeToTarget}을 사용하는 적 {Count:p:1마리|{:N0}마리 }까지 행동 중지",
+    "ko": "{EnemyTypeToTarget}을/를 사용하는 적 {Count:p:1마리|{:N0}마리 }까지 행동 중지",
     "zh-Hant": "阻止最多 {Count:p:1 名敵人|{:N0} 名敵人}做出{EnemyTypeToTarget}",
     "zh-Hans": "阻止至多{Count:p:1个敌人|{:N0}个敌人}使用{EnemyTypeToTarget}"
   },
@@ -1149,12 +1149,12 @@
   },
   "DEAL_COUNT_EFFECT": {
     "en": "Increase {GlobalKeywords.Handsize} by {0:combo:}",
-    "fr": "Augmente la {GlobalKeywords.Handsize} de {0:combo:}",
+    "fr": "Augmente le {GlobalKeywords.Handsize} de {0:combo:}",
     "it": "Aumenta la {GlobalKeywords.Handsize} di {0:combo:}",
-    "de": "Max. {GlobalKeywords.Handsize} +{0:combo:} Karten",
+    "de": "Vergrößert die {GlobalKeywords.Handsize} um +{0:combo:}",
     "es": "Aumentas la {GlobalKeywords.Handsize} en {0:combo:}",
     "pt-BR": "Aumente o tamanho da {GlobalKeywords.Handsize} em {0:combo:}",
-    "pl": "Zwiększ liczbę kart na ręce o {0:combo:}.",
+    "pl": "Zwiększ liczbę rozdawanych kart o {0:combo:}.",
     "ru": "Повышает характеристику «{GlobalKeywords.Handsize}» на {0:combo:}",
     "ja": "{GlobalKeywords.Handsize}が{0:combo:}増加",
     "ko": "{GlobalKeywords.Handsize} {0:combo:} 증가",
@@ -1331,12 +1331,12 @@
   },
   "FCC_DEALCOUNT": {
     "en": "Increase {GlobalKeywords.Handsize} by {ActionValue:N0}",
-    "fr": "Augmente la {GlobalKeywords.Handsize} de {ActionValue:N0}",
+    "fr": "Augmente le {GlobalKeywords.Handsize} de {ActionValue:N0}",
     "it": "Aumenta la {GlobalKeywords.Handsize} di {ActionValue:N0}",
-    "de": "Du kannst +{ActionValue:N0} Karten in der {GlobalKeywords.Handsize} halten",
+    "de": "Vergrößert die {GlobalKeywords.Handsize} um +{ActionValue:N0}",
     "es": "Aumentas la {GlobalKeywords.Handsize} en {ActionValue:N0}",
     "pt-BR": "Aumente o tamanho da {GlobalKeywords.Handsize} em {ActionValue:N0}",
-    "pl": "Zwiększ liczbę kart na ręce o {ActionValue:N0}",
+    "pl": "Zwiększ liczbę rozdawanych kart o {ActionValue:N0}",
     "ru": "Повышает характеристику «{GlobalKeywords.Handsize}» на {ActionValue:N0}",
     "ja": "{GlobalKeywords.Handsize}が{ActionValue:N0}増加",
     "ko": "{GlobalKeywords.Handsize} {ActionValue:N0} 증가",
@@ -1820,18 +1820,18 @@
     "zh-Hans": "增加敌方力量，但会获得额外的经验值。"
   },
   "DEAL_COUNT_KEYWORD": {
-    "en": "{:color(Keyword):{GlobalKeywords.Hand}}",
-    "fr": "{:color(Keyword):{GlobalKeywords.Hand}}",
-    "it": "{:color(Keyword):{GlobalKeywords.Hand}}",
-    "de": "{:color(Keyword):{GlobalKeywords.Hand}}",
-    "es": "{:color(Keyword):Mano}",
-    "pt-BR": "{:color(Keyword):{GlobalKeywords.Hand}}",
-    "pl": "{:color(Keyword):{GlobalKeywords.Hand}}",
-    "ru": "{:color(Keyword):{GlobalKeywords.Hand}}",
-    "ja": "{:color(Keyword):{GlobalKeywords.Hand}}",
-    "ko": "{:color(Keyword):{GlobalKeywords.Hand}}",
-    "zh-Hant": "{:color(Keyword):{GlobalKeywords.Hand}}",
-    "zh-Hans": "{:color(Keyword):{GlobalKeywords.Hand}}"
+    "en": "{:color(Keyword):{GlobalKeywords.Handsize}}",
+    "fr": "{:color(Keyword):{GlobalKeywords.Handsize}}",
+    "it": "{:color(Keyword):{GlobalKeywords.Handsize}}",
+    "de": "{:color(Keyword):{GlobalKeywords.Handsize}}",
+    "es": "{:color(Keyword):Mano inicial}",
+    "pt-BR": "{:color(Keyword):{GlobalKeywords.Handsize}}",
+    "pl": "{:color(Keyword):{GlobalKeywords.Handsize}}",
+    "ru": "{:color(Keyword):{GlobalKeywords.Handsize}}",
+    "ja": "{:color(Keyword):{GlobalKeywords.Handsize}}",
+    "ko": "{:color(Keyword):{GlobalKeywords.Handsize}}",
+    "zh-Hant": "{:color(Keyword):{GlobalKeywords.Handsize}}",
+    "zh-Hans": "{:color(Keyword):{GlobalKeywords.Handsize}}"
   },
   "DEAL_COUNT_KEYWORD_DESC": {
     "en": "Increase number of cards dealt at the start of turn.",
@@ -3165,7 +3165,7 @@
   },
   "LEADER_KEYWORD_DESC": {
     "en": "Attacks deal extra damage while this card is in your {GlobalKeywords.Hand}.",
-    "fr": "Les attaques infligent des dégâts supplémentaires lorsque cette carte est dans votre {GlobalKeywords.Hand}.",
+    "fr": "Les attaques infligent plus de dégâts lorsque cette carte est dans votre {GlobalKeywords.Hand}.",
     "it": "Quando questa carta è nella tua {GlobalKeywords.Hand} gli attacchi infliggono danni aggiuntivi.",
     "de": "Solange diese Karte auf deiner {GlobalKeywords.Hand} ist, verursachen Angriffe Extraschaden.",
     "es": "Los ataques causan daño adicional mientras esta carta esté en tu {GlobalKeywords.Hand}.",
@@ -4872,18 +4872,18 @@
     "zh-Hans": "此牌在你的{GlobalKeywords.Hand}中时，打出卡牌会让你受伤。"
   },
   "DEAL_COUNT_KEYWORD_WITH_PLUS": {
-    "en": "{:color(Keyword):{GlobalKeywords.Hand} +}",
-    "fr": "{:color(Keyword):{GlobalKeywords.Hand} +}",
-    "it": "{:color(Keyword):{GlobalKeywords.Hand} +}",
-    "de": "{:color(Keyword):{GlobalKeywords.Hand} +}",
-    "es": "{:color(Keyword):Mano +}",
-    "pt-BR": "{:color(Keyword):{GlobalKeywords.Hand} +}",
-    "pl": "{:color(Keyword):{GlobalKeywords.Hand} +}",
-    "ru": "{:color(Keyword):{GlobalKeywords.Hand} +}",
-    "ja": "{:color(Keyword):{GlobalKeywords.Hand} +}",
-    "ko": "{:color(Keyword):{GlobalKeywords.Hand} +}",
-    "zh-Hant": "{:color(Keyword):{GlobalKeywords.Hand} +}",
-    "zh-Hans": "{:color(Keyword):{GlobalKeywords.Hand}+}"
+    "en": "{:color(Keyword):{GlobalKeywords.Handsize} +}",
+    "fr": "{:color(Keyword):{GlobalKeywords.Handsize} +}",
+    "it": "{:color(Keyword):{GlobalKeywords.Handsize} +}",
+    "de": "{:color(Keyword):{GlobalKeywords.Handsize} +}",
+    "es": "{:color(Keyword):Mano inicial +}",
+    "pt-BR": "{:color(Keyword):{GlobalKeywords.Handsize} +}",
+    "pl": "{:color(Keyword):{GlobalKeywords.Handsize} +}",
+    "ru": "{:color(Keyword):{GlobalKeywords.Handsize} +}",
+    "ja": "{:color(Keyword):{GlobalKeywords.Handsize} +}",
+    "ko": "{:color(Keyword):{GlobalKeywords.Handsize} +}",
+    "zh-Hant": "{:color(Keyword):{GlobalKeywords.Handsize} +}",
+    "zh-Hans": "{:color(Keyword):{GlobalKeywords.Handsize} +}"
   },
   "SPIKE_KEYWORD_DESC_NEW": {
     "en": "Deal {GlobalKeywords.Armor} as damage when played.",
@@ -5010,5 +5010,19 @@
     "ko": "활성화된 크롤러의 능력을 모두 발동합니다.",
     "zh-Hant": "觸發所有啟用中的冒險者能力。",
     "zh-Hans": "触发所有探索者主动能力。"
+  },
+  "RALLY_KEYWORD_DESC_NEW": {
+    "en": "Summon all active {GlobalKeywords.Crawlers} back to {GlobalKeywords.Hand}.",
+    "fr": "Renvoie tous les {GlobalKeywords.Crawlers} actifs vers votre {GlobalKeywords.Hand}.",
+    "it": "Riporta tutti i {GlobalKeywords.Crawlers} attivi nella {GlobalKeywords.Hand}.",
+    "de": "Ruft alle aktiven {GlobalKeywords.Crawlers} zurück auf die {GlobalKeywords.Hand}.",
+    "es": "Invocas todos los {GlobalKeywords.Crawlers} de vuelta a la {GlobalKeywords.Hand}.",
+    "pt-BR": "Retorna todos os {GlobalKeywords.Crawlers} ativos de volta para a {GlobalKeywords.Hand}.",
+    "pl": "Przywołaj wszystkich aktywnych odkrywców z powrotem do ręki.",
+    "ru": "Призывает всех активных бродяг обратно в раздачу.",
+    "ja": "すべてのアクティブな{GlobalKeywords.Crawlers}を{GlobalKeywords.Hand}に召喚し戻す。",
+    "ko": "활동 중인 {GlobalKeywords.Crawlers}를 모두 {GlobalKeywords.Hand}로 회수합니다.",
+    "zh-Hant": "將所有在場的{GlobalKeywords.Crawlers}召回{GlobalKeywords.Hand}。",
+    "zh-Hans": "将所有已激活的{GlobalKeywords.Crawlers}重新召唤到{GlobalKeywords.Hand}中。"
   }
 }

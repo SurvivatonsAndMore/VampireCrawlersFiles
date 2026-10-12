@@ -18,6 +18,7 @@
       "x": 16,
       "y": -16
     },
+    "cardChangedAnimTime": 0.75,
     "damageDetail": 0
   },
   "cardMovementConfig": {
@@ -207,8 +208,7 @@
     "shoulSpawnEnemyOnEverySubsequentShatter": 1,
     "enemyToSpawnOnBreak": "EnemyConfig_Trickster",
     "tricksterSong": "SongConfig_Enemy_Trickster",
-    "canTricksterReplaceBosses": 0,
-    "canTricksterReplaceAnythingOverkilled": 1
+    "tricksterReplacementSettings": 3
   },
   "drownerConfig": {
     "WaterIncreasePerWeaponDiscard": 1,
@@ -220,8 +220,7 @@
     "CanSpawnMultipleDrowners": 0,
     "DrownerEnemyConfig": "EnemyConfig_Drowner",
     "DrownerSong": null,
-    "CanDrownerReplaceBosses": 0,
-    "CanDrownerReplaceAnythingOverkilled": 1
+    "DrownerReplacementSettings": 3
   },
   "reaperConfig": {
     "IrreplaceableEnemies": [
@@ -399,7 +398,8 @@
     "cardCostCantAffordMat": "MainFont Material Grey",
     "cardDescriptionHighlightMat": "MainFont Material Orange",
     "cardDescriptionComboMat": "MainFont Material Orange Glow",
-    "cardDescriptionFccProjectionMat": "MainFont Material Orange Glow"
+    "cardDescriptionFccProjectionMat": "MainFont Material Orange Glow",
+    "cardDescriptionDisabledMat": null
   },
   "keywordTextConfig": {
     "font": "MainFont",
@@ -407,7 +407,7 @@
   },
   "handPileConfig": {
     "cardSpacing": 14,
-    "defaultCardReorderDelayTime": 0.2
+    "defaultCardReorderDelayTime": 0.5
   },
   "cardSortConfig": {
     "holdDurationToChangeSortMethod": 0.3
@@ -500,6 +500,8 @@
     "multiAttackSideOffset": 0.4,
     "multiAttackDoFlipX": 1,
     "areaDistanceDelayMultiplier": 0.05,
+    "critExplosionDelay": 0.2,
+    "critExplosionSpawnDelayJitter": 0.08,
     "enemyActionWaitTime": 0.15,
     "baseTimeMultiplier": 1.3,
     "accelerationMultiplier": 1,
@@ -718,14 +720,15 @@
   "weaponConfig": {
     "fireDelayRateOfChange": 0.815,
     "minFireDelayMultiplier": 0.1,
-    "canAreaDamagesCrit": 0,
     "luckKnockbackMultiplier": 0,
     "minMaxAreaSize": {
       "x": 0.1,
       "y": 10
     },
     "areaDamageMultiplier": 0.2,
-    "areaHitsAllPierceTargets": 1
+    "areaHitsAllPierceTargets": 1,
+    "critChainMalusMultiplier": 0.98,
+    "maxExplosionTriggersPerCast": 50
   },
   "metaUpgradeConfig": {
     "characterSlot2Cost": 5000,
@@ -1000,11 +1003,32 @@
     "_visualResetTime": 1.5
   },
   "fccPortraitConfig": {
-    "WildCostTypeIcon": "UnityReference(classID=213, <Not found>)",
+    "WildCostIconSprite": "UnityReference(classID=213, <Not found>)",
     "WildCostBackgroundColor": {
       "r": 0,
       "g": 0.227451,
       "b": 0.5764706,
+      "a": 1
+    },
+    "OnDrawIconSprite": "UnityReference(classID=213, <Not found>)",
+    "OnDrawBackgroundColor": {
+      "r": 0.09019608,
+      "g": 0.08235294,
+      "b": 0.1137255,
+      "a": 1
+    },
+    "OnDiscardIconSprite": "UnityReference(classID=213, <Not found>)",
+    "OnDiscardBackgroundColor": {
+      "r": 0.09019608,
+      "g": 0.08235294,
+      "b": 0.1137255,
+      "a": 1
+    },
+    "OnGoldGainedIconSprite": "UnityReference(classID=213, <Not found>)",
+    "OnGoldGainedBackgroundColor": {
+      "r": 0.09019608,
+      "g": 0.08235294,
+      "b": 0.1137255,
       "a": 1
     },
     "IconEmissiveColor": {
@@ -1171,5 +1195,86 @@
   "riskConfig": {
     "RiskHealthMultiplier": 1,
     "RiskDamageMultiplier": 0.5
+  },
+  "runModeConfig": {
+    "BaseHandSizeLimit": {
+      "_value": 4
+    },
+    "MaxHandSizeLimit": {
+      "_value": 7
+    },
+    "HandSizeDrawOffset": {
+      "_value": 0
+    }
+  },
+  "deathParadeConfig": {
+    "Drowner": {
+      "_assetId": "EnemyConfig_Drowner_Parade",
+      "_editorAssetGuid": "8139bbfb78b3f214eb3a283073b9a834"
+    },
+    "Ender": {
+      "_assetId": "EnemyConfig_EnderEliteP1_DeathParade",
+      "_editorAssetGuid": "f1cf63b8053fddf4ba977695c823df5b"
+    },
+    "RedDeath": {
+      "_assetId": "EnemyConfig_RedDeath_DeathParade",
+      "_editorAssetGuid": "8233dff0b178b9e4f81057080d3b69a0"
+    },
+    "Trickster": {
+      "_assetId": "EnemyConfig_Trickster_Parade",
+      "_editorAssetGuid": "40d84e579599d524393f43b9ab664023"
+    },
+    "ReaperReplacementSettings": 0,
+    "DrownerAchievement": {
+      "_assetId": "MetricAchievement_DrownerUnlocked_DeathParade",
+      "_editorAssetGuid": "da546d6900e48d54ab30074ec76be761"
+    },
+    "EnderAchievement": {
+      "_assetId": "MetricAchievement_EnderUnlocked_DeathParade",
+      "_editorAssetGuid": "5c44e928f15dd2a4f89daf993c2d7b73"
+    },
+    "TricksterAchievement": {
+      "_assetId": "MetricAchievement_TricksterUnlocked_DeathParade",
+      "_editorAssetGuid": "cc83eeb3541504a40a66c5c1ab490bf7"
+    },
+    "TraineeReaper": {
+      "_assetId": "EnemyConfig_TraineeRedReaper_Parade",
+      "_editorAssetGuid": "c5169af2c1596384485386ebc451715f"
+    },
+    "TraineeReaperAlternate": {
+      "_assetId": "EnemyConfig_TraineeRedReaper_Alt_Parade",
+      "_editorAssetGuid": "802729fb886c20f40a87b76264ee1d3a"
+    },
+    "RowSpawnChance": 0.5,
+    "KnockbackAdditionPerTurn": 5,
+    "DisarmAdditionPerTurn": 5,
+    "FreezeAdditionPerTurn": 5,
+    "InterruptChangeEachEnemyTurn": -1
+  },
+  "switchEffectConfig": {
+    "DelayBeforeSwitch": 0,
+    "MaxSwitchDiscardTime": 0.2,
+    "MaxSwitchDrawTime": 0.2,
+    "SpeedMultiplierWhenMaxReached": 2,
+    "CombineMultipleSwitches": 0,
+    "DrawPileOnly": 0
+  },
+  "afterlifeEffectConfig": {
+    "AfterlifeDuration": 1.5,
+    "DelayBeforeAfterlife": 0,
+    "MaxRandomDisposition": {
+      "x": 5,
+      "y": 0
+    },
+    "CardScale": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "ScaleDuration": 0.25,
+    "SinWaveCount": 1,
+    "SinWaveAmplitude": 6,
+    "FlightHeight": 35,
+    "DelayBetweenQueues": 0.3,
+    "FadeOutDelay": 0.5
   }
 }

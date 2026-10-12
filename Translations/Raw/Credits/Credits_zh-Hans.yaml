@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: zh-Hans
-  m_SharedData: {fileID: 11400000, guid: 7c64883436e17f340998bf9b0e891cdd, type: 2}
+  m_SharedData: {fileID: 11400000, guid: 8e002e0bbe4733747b9f626b74195e57, type: 2}
   m_Metadata:
     m_Items: []
   m_TableData:
@@ -400,6 +400,14 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 76192556637958209
     m_Localized: 资深合规测试
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129434051939348480
+    m_Localized: Turkish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129434051977097216
+    m_Localized: Ukrainian
     m_Metadata:
       m_Items: []
   references:

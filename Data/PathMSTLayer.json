@@ -1,7 +1,6 @@
 {
   "PathMSTLayer_CappellaMagna_01_F5": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_defaultTraversalCost": 0.5,
     "_roomPadding": 0,
     "_roomPaddingTraversalCost": 0.25,
@@ -21,7 +20,6 @@
   },
   "PathMSTLayer_CappellaMagna_Shared": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_defaultTraversalCost": 0.5,
     "_roomPadding": 0,
     "_roomPaddingTraversalCost": 0.25,
@@ -41,7 +39,6 @@
   },
   "PathMSTLayer_DairyPlant_Shared": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_defaultTraversalCost": 0.5,
     "_roomPadding": 0,
     "_roomPaddingTraversalCost": 0.25,
@@ -59,9 +56,27 @@
     "_drawExtraEdges": 1,
     "_drawPaths": 1
   },
+  "PathMSTLayer_GalloBelow_Shared": {
+    "_shouldDrawDebug": 1,
+    "_defaultTraversalCost": 0.5,
+    "_roomPadding": 0,
+    "_roomPaddingTraversalCost": 0.25,
+    "_travelledPathCostScale": 0.75,
+    "_drawWeights": 0,
+    "_okConnectionWeightScale": 1.5,
+    "_badConnectionWeightScale": 2,
+    "_maximumLength": 8,
+    "_middleZoneRadius": 4,
+    "_maxExtraEdgeSelectionChance": 0.85,
+    "_drawRooms": 0,
+    "_drawAllEdges": 0,
+    "_drawEdgesWeights": 0,
+    "_drawMST": 0,
+    "_drawExtraEdges": 1,
+    "_drawPaths": 1
+  },
   "PathMSTLayer_GalloTower_Shared_1-3": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_defaultTraversalCost": 0.5,
     "_roomPadding": 0,
     "_roomPaddingTraversalCost": 0.25,
@@ -81,7 +96,6 @@
   },
   "PathMSTLayer_GalloTower_Shared_4-6": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_defaultTraversalCost": 0.5,
     "_roomPadding": 0,
     "_roomPaddingTraversalCost": 0.25,
@@ -101,7 +115,6 @@
   },
   "PathMSTLayer_InlaidLibrary_Shared": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_defaultTraversalCost": 0.5,
     "_roomPadding": 0,
     "_roomPaddingTraversalCost": 0.25,
@@ -121,7 +134,6 @@
   },
   "PathMSTLayer_MadForest_Shared": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_defaultTraversalCost": 0.5,
     "_roomPadding": 0,
     "_roomPaddingTraversalCost": 0.25,
@@ -131,6 +143,25 @@
     "_badConnectionWeightScale": 2,
     "_maximumLength": 8,
     "_middleZoneRadius": 2.5,
+    "_maxExtraEdgeSelectionChance": 0.85,
+    "_drawRooms": 0,
+    "_drawAllEdges": 1,
+    "_drawEdgesWeights": 0,
+    "_drawMST": 1,
+    "_drawExtraEdges": 1,
+    "_drawPaths": 1
+  },
+  "PathMSTLayer_Soda_Shared": {
+    "_shouldDrawDebug": 1,
+    "_defaultTraversalCost": 0.5,
+    "_roomPadding": 0,
+    "_roomPaddingTraversalCost": 0.25,
+    "_travelledPathCostScale": 2,
+    "_drawWeights": 0,
+    "_okConnectionWeightScale": 1.5,
+    "_badConnectionWeightScale": 2,
+    "_maximumLength": 6,
+    "_middleZoneRadius": 4,
     "_maxExtraEdgeSelectionChance": 0.85,
     "_drawRooms": 0,
     "_drawAllEdges": 1,

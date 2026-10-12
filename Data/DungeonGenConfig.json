@@ -648,6 +648,7 @@
       }
     ],
     "_allowEndlessMode": 1,
+    "_forceHandSizeLimit": 0,
     "_endlessModeStatConfig": "EndlessStats_Default"
   },
   "DungeonGenConfig_CapellaMagna_02": {
@@ -1269,6 +1270,7 @@
       }
     ],
     "_allowEndlessMode": 1,
+    "_forceHandSizeLimit": 0,
     "_endlessModeStatConfig": "EndlessStats_Default"
   },
   "DungeonGenConfig_DairyPlant_01": {
@@ -2010,6 +2012,7 @@
       }
     ],
     "_allowEndlessMode": 1,
+    "_forceHandSizeLimit": 0,
     "_endlessModeStatConfig": "EndlessStats_Default"
   },
   "DungeonGenConfig_DairyPlant_02": {
@@ -2781,6 +2784,7 @@
       }
     ],
     "_allowEndlessMode": 1,
+    "_forceHandSizeLimit": 0,
     "_endlessModeStatConfig": "EndlessStats_Default"
   },
   "DungeonGenConfig_DairyPlant_03": {
@@ -3502,6 +3506,395 @@
       }
     ],
     "_allowEndlessMode": 1,
+    "_forceHandSizeLimit": 0,
+    "_endlessModeStatConfig": "EndlessStats_Default"
+  },
+  "DungeonGenConfig_GalloBelow": {
+    "_floors": [
+      {
+        "FloorLayer": "FloorLayerConfig_GalloBelow_01_F1",
+        "Difficulty": {
+          "MinMaxDifficulty": {
+            "x": 0,
+            "y": 0.33
+          },
+          "MinEnemyVariance": {
+            "m_Curve": [
+              {
+                "time": 0.0013275146,
+                "value": 0,
+                "inSlope": -0.03455909,
+                "outSlope": -0.048103437,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0,
+                "outWeight": 0.3384378
+              },
+              {
+                "time": 0.4,
+                "value": -0.3,
+                "inSlope": 3.296709e-07,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.45350617,
+                "outWeight": 0.2975143
+              },
+              {
+                "time": 1,
+                "value": -0.3,
+                "inSlope": 0,
+                "outSlope": -0.29,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.30492207,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MaxEnemyVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": 0,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 2,
+                "inWeight": 0,
+                "outWeight": 0.37652266
+              },
+              {
+                "time": 1,
+                "value": 0.1,
+                "inSlope": 0.0009822086,
+                "outSlope": 0.0009822086,
+                "tangentMode": 0,
+                "weightedMode": 1,
+                "inWeight": 0.48947954,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MinEncounterVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": 0,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 1,
+                "value": -0.13,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MaxEncounterVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": 0.1,
+                "inSlope": 0,
+                "outSlope": -0.020000003,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 1,
+                "value": 0.08,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          }
+        }
+      },
+      {
+        "FloorLayer": "FloorLayerConfig_GalloBelow_01_F2",
+        "Difficulty": {
+          "MinMaxDifficulty": {
+            "x": 0.33,
+            "y": 0.66
+          },
+          "MinEnemyVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": -0.2,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": -0.4,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MaxEnemyVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": 0,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.5,
+                "value": 0,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 2,
+                "inWeight": 0.12070876,
+                "outWeight": 0.37098563
+              },
+              {
+                "time": 1,
+                "value": 0.1,
+                "inSlope": 0.0009822086,
+                "outSlope": 0.0009822086,
+                "tangentMode": 0,
+                "weightedMode": 1,
+                "inWeight": 0.48947954,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MinEncounterVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": -0.15,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": -0.18,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MaxEncounterVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": 0.07,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": 0.07,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          }
+        }
+      },
+      {
+        "FloorLayer": "FloorLayerConfig_GalloBelow_01_F3",
+        "Difficulty": {
+          "MinMaxDifficulty": {
+            "x": 0.66,
+            "y": 1
+          },
+          "MinEnemyVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": -0.2,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": -0.4,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MaxEnemyVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": 0,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.5,
+                "value": 0,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 2,
+                "inWeight": 0.12070876,
+                "outWeight": 0.37098563
+              },
+              {
+                "time": 1,
+                "value": 0.1,
+                "inSlope": 0.0009822086,
+                "outSlope": 0.0009822086,
+                "tangentMode": 0,
+                "weightedMode": 1,
+                "inWeight": 0.48947954,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MinEncounterVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": -0.08,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": -0.1,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MaxEncounterVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": 0.1,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": 0,
+                "inSlope": 1.3065817e-08,
+                "outSlope": 1.3065817e-08,
+                "tangentMode": 0,
+                "weightedMode": 1,
+                "inWeight": 0.5614618,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          }
+        }
+      }
+    ],
+    "_allowEndlessMode": 1,
+    "_forceHandSizeLimit": 0,
     "_endlessModeStatConfig": "EndlessStats_Default"
   },
   "DungeonGenConfig_GalloTower": {
@@ -4390,6 +4783,7 @@
       }
     ],
     "_allowEndlessMode": 1,
+    "_forceHandSizeLimit": 0,
     "_endlessModeStatConfig": "EndlessStats_Default"
   },
   "DungeonGenConfig_InlaidLibrary_01": {
@@ -5131,6 +5525,7 @@
       }
     ],
     "_allowEndlessMode": 1,
+    "_forceHandSizeLimit": 0,
     "_endlessModeStatConfig": "EndlessStats_Default"
   },
   "DungeonGenConfig_InlaidLibrary_02": {
@@ -5902,6 +6297,7 @@
       }
     ],
     "_allowEndlessMode": 1,
+    "_forceHandSizeLimit": 0,
     "_endlessModeStatConfig": "EndlessStats_Default"
   },
   "DungeonGenConfig_InlaidLibrary_03": {
@@ -6613,6 +7009,7 @@
       }
     ],
     "_allowEndlessMode": 1,
+    "_forceHandSizeLimit": 0,
     "_endlessModeStatConfig": "EndlessStats_Default"
   },
   "DungeonGenConfig_MadForest_01": {
@@ -7197,6 +7594,7 @@
       }
     ],
     "_allowEndlessMode": 1,
+    "_forceHandSizeLimit": 0,
     "_endlessModeStatConfig": "EndlessStats_Default"
   },
   "DungeonGenConfig_MadForest_02": {
@@ -7968,6 +8366,7 @@
       }
     ],
     "_allowEndlessMode": 1,
+    "_forceHandSizeLimit": 0,
     "_endlessModeStatConfig": "EndlessStats_Default"
   },
   "DungeonGenConfig_MadForest_03": {
@@ -8679,6 +9078,7 @@
       }
     ],
     "_allowEndlessMode": 1,
+    "_forceHandSizeLimit": 0,
     "_endlessModeStatConfig": "EndlessStats_Default"
   },
   "DungeonGenConfig_Moongolow_teaser": {
@@ -8802,7 +9202,1706 @@
       }
     ],
     "_allowEndlessMode": 0,
+    "_forceHandSizeLimit": 0,
     "_endlessModeStatConfig": null
+  },
+  "DungeonGenConfig_Soda_01": {
+    "_floors": [
+      {
+        "FloorLayer": "FloorLayerConfig_Soda_01_F1",
+        "Difficulty": {
+          "MinMaxDifficulty": {
+            "x": 0,
+            "y": 0.2
+          },
+          "MinEnemyVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": 0,
+                "inSlope": 0,
+                "outSlope": -0.2,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": -0.2,
+                "inSlope": -0.2,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MaxEnemyVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": 0,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": 0.1,
+                "inSlope": 0.30800083,
+                "outSlope": 0.30800083,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0.081949055,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MinEncounterVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": -0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": -0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MaxEncounterVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": 0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": 0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          }
+        }
+      },
+      {
+        "FloorLayer": "FloorLayerConfig_Soda_01_F2",
+        "Difficulty": {
+          "MinMaxDifficulty": {
+            "x": 0.2,
+            "y": 0.4
+          },
+          "MinEnemyVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": 0,
+                "inSlope": 0,
+                "outSlope": -0.2,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": -0.2,
+                "inSlope": -0.2,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MaxEnemyVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": 0,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": 0.1,
+                "inSlope": 0.30800083,
+                "outSlope": 0.30800083,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0.081949055,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MinEncounterVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": -0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": -0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MaxEncounterVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": 0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": 0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          }
+        }
+      },
+      {
+        "FloorLayer": "FloorLayerConfig_Soda_01_F3",
+        "Difficulty": {
+          "MinMaxDifficulty": {
+            "x": 0.4,
+            "y": 0.6
+          },
+          "MinEnemyVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": 0,
+                "inSlope": 0,
+                "outSlope": -0.2,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": -0.2,
+                "inSlope": -0.2,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MaxEnemyVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": 0,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": 0.1,
+                "inSlope": 0.30800083,
+                "outSlope": 0.30800083,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0.081949055,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MinEncounterVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": -0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": -0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MaxEncounterVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": 0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": 0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          }
+        }
+      },
+      {
+        "FloorLayer": "FloorLayerConfig_Soda_01_F4",
+        "Difficulty": {
+          "MinMaxDifficulty": {
+            "x": 0.6,
+            "y": 0.8
+          },
+          "MinEnemyVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": 0,
+                "inSlope": 0,
+                "outSlope": -0.2,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": -0.2,
+                "inSlope": -0.2,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MaxEnemyVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": 0,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": 0.1,
+                "inSlope": 0.30800083,
+                "outSlope": 0.30800083,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0.081949055,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MinEncounterVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": -0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": -0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MaxEncounterVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": 0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": 0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          }
+        }
+      },
+      {
+        "FloorLayer": "FloorLayerConfig_Soda_01_F5",
+        "Difficulty": {
+          "MinMaxDifficulty": {
+            "x": 0.8,
+            "y": 1
+          },
+          "MinEnemyVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": 0,
+                "inSlope": 0,
+                "outSlope": -0.2,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": -0.2,
+                "inSlope": -0.2,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MaxEnemyVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": 0,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": 0.1,
+                "inSlope": 0.30800083,
+                "outSlope": 0.30800083,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0.081949055,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MinEncounterVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": -0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": -0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MaxEncounterVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": 0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": 0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          }
+        }
+      }
+    ],
+    "_allowEndlessMode": 1,
+    "_forceHandSizeLimit": 1,
+    "_endlessModeStatConfig": "EndlessStats_Default"
+  },
+  "DungeonGenConfig_Soda_02": {
+    "_floors": [
+      {
+        "FloorLayer": "FloorLayerConfig_Soda_02_F1",
+        "Difficulty": {
+          "MinMaxDifficulty": {
+            "x": 0,
+            "y": 0.15
+          },
+          "MinEnemyVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": -0.15,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.5,
+                "value": -0.15,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.75,
+                "value": 0,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 1,
+                "value": 0,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MaxEnemyVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": 0,
+                "inSlope": 0.001436475,
+                "outSlope": 0.001436475,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.9413067
+              },
+              {
+                "time": 0.2,
+                "value": 0.1125,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.4,
+                "value": 0.1125,
+                "inSlope": 0,
+                "outSlope": -1.0838429,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.16758943
+              },
+              {
+                "time": 1,
+                "value": 0,
+                "inSlope": 0.00033406395,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 1,
+                "outWeight": 0.33333334
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MinEncounterVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": -0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": -0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MaxEncounterVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": 0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": 0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          }
+        }
+      },
+      {
+        "FloorLayer": "FloorLayerConfig_Soda_02_F2",
+        "Difficulty": {
+          "MinMaxDifficulty": {
+            "x": 0,
+            "y": 0.3
+          },
+          "MinEnemyVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": -0.15,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.5,
+                "value": -0.15,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.75,
+                "value": 0,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 1,
+                "value": 0,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MaxEnemyVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": 0,
+                "inSlope": 0.001436475,
+                "outSlope": 0.001436475,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.9413067
+              },
+              {
+                "time": 0.2,
+                "value": 0.1125,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.4,
+                "value": 0.1125,
+                "inSlope": 0,
+                "outSlope": -1.0838429,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.16758943
+              },
+              {
+                "time": 1,
+                "value": 0,
+                "inSlope": 0.00033406395,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 1,
+                "outWeight": 0.33333334
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MinEncounterVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": -0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": -0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MaxEncounterVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": 0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": 0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          }
+        }
+      },
+      {
+        "FloorLayer": "FloorLayerConfig_Soda_02_F3",
+        "Difficulty": {
+          "MinMaxDifficulty": {
+            "x": 0.15,
+            "y": 0.45
+          },
+          "MinEnemyVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": -0.15,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.5,
+                "value": -0.15,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.75,
+                "value": 0,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 1,
+                "value": 0,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MaxEnemyVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": 0,
+                "inSlope": 0.001436475,
+                "outSlope": 0.001436475,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.9413067
+              },
+              {
+                "time": 0.2,
+                "value": 0.1125,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.4,
+                "value": 0.1125,
+                "inSlope": 0,
+                "outSlope": -1.0838429,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.16758943
+              },
+              {
+                "time": 1,
+                "value": 0,
+                "inSlope": 0.00033406395,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 1,
+                "outWeight": 0.33333334
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MinEncounterVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": -0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": -0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MaxEncounterVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": 0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": 0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          }
+        }
+      },
+      {
+        "FloorLayer": "FloorLayerConfig_Soda_02_F4",
+        "Difficulty": {
+          "MinMaxDifficulty": {
+            "x": 0.3,
+            "y": 0.6
+          },
+          "MinEnemyVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": -0.15,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.5,
+                "value": -0.15,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.75,
+                "value": 0,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 1,
+                "value": 0,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MaxEnemyVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": 0,
+                "inSlope": 0.001436475,
+                "outSlope": 0.001436475,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.9413067
+              },
+              {
+                "time": 0.2,
+                "value": 0.1125,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.4,
+                "value": 0.1125,
+                "inSlope": 0,
+                "outSlope": -1.0838429,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.16758943
+              },
+              {
+                "time": 1,
+                "value": 0,
+                "inSlope": 0.00033406395,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 1,
+                "outWeight": 0.33333334
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MinEncounterVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": -0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": -0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MaxEncounterVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": 0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": 0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          }
+        }
+      },
+      {
+        "FloorLayer": "FloorLayerConfig_Soda_02_F5",
+        "Difficulty": {
+          "MinMaxDifficulty": {
+            "x": 0.45,
+            "y": 0.75
+          },
+          "MinEnemyVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": -0.15,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.5,
+                "value": -0.15,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.75,
+                "value": 0,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 1,
+                "value": 0,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MaxEnemyVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": 0,
+                "inSlope": 0.001436475,
+                "outSlope": 0.001436475,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.9413067
+              },
+              {
+                "time": 0.2,
+                "value": 0.1125,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.4,
+                "value": 0.1125,
+                "inSlope": 0,
+                "outSlope": -1.0838429,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.16758943
+              },
+              {
+                "time": 1,
+                "value": 0,
+                "inSlope": 0.00033406395,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 1,
+                "outWeight": 0.33333334
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MinEncounterVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": -0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": -0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MaxEncounterVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": 0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": 0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          }
+        }
+      },
+      {
+        "FloorLayer": "FloorLayerConfig_Soda_02_F6",
+        "Difficulty": {
+          "MinMaxDifficulty": {
+            "x": 0.6,
+            "y": 0.9
+          },
+          "MinEnemyVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": -0.15,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.5,
+                "value": -0.15,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.75,
+                "value": 0,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 1,
+                "value": 0,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MaxEnemyVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": 0,
+                "inSlope": 0.001436475,
+                "outSlope": 0.001436475,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.9413067
+              },
+              {
+                "time": 0.2,
+                "value": 0.1125,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.4,
+                "value": 0.1125,
+                "inSlope": 0,
+                "outSlope": -1.0838429,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.16758943
+              },
+              {
+                "time": 1,
+                "value": 0,
+                "inSlope": 0.00033406395,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 1,
+                "outWeight": 0.33333334
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MinEncounterVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": -0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": -0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MaxEncounterVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": 0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": 0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          }
+        }
+      },
+      {
+        "FloorLayer": "FloorLayerConfig_Soda_02_F7",
+        "Difficulty": {
+          "MinMaxDifficulty": {
+            "x": 0.75,
+            "y": 1
+          },
+          "MinEnemyVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": -0.15,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.5,
+                "value": -0.15,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.75,
+                "value": 0,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 1,
+                "value": 0,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MaxEnemyVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": 0,
+                "inSlope": 0.001436475,
+                "outSlope": 0.001436475,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.9413067
+              },
+              {
+                "time": 0.2,
+                "value": 0.1125,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.33333334
+              },
+              {
+                "time": 0.4,
+                "value": 0.1125,
+                "inSlope": 0,
+                "outSlope": -1.0838429,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 0.33333334,
+                "outWeight": 0.16758943
+              },
+              {
+                "time": 1,
+                "value": 0,
+                "inSlope": 0.00033406395,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 3,
+                "inWeight": 1,
+                "outWeight": 0.33333334
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MinEncounterVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": -0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": -0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          },
+          "MaxEncounterVariance": {
+            "m_Curve": [
+              {
+                "time": 0,
+                "value": 0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              },
+              {
+                "time": 1,
+                "value": 0.05,
+                "inSlope": 0,
+                "outSlope": 0,
+                "tangentMode": 0,
+                "weightedMode": 0,
+                "inWeight": 0,
+                "outWeight": 0
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          }
+        }
+      }
+    ],
+    "_allowEndlessMode": 1,
+    "_forceHandSizeLimit": 1,
+    "_endlessModeStatConfig": "EndlessStats_Default"
   },
   "DungeonGenConfig_TinyBridge_01": {
     "_floors": [
@@ -8925,6 +11024,7 @@
       }
     ],
     "_allowEndlessMode": 1,
+    "_forceHandSizeLimit": 0,
     "_endlessModeStatConfig": "EndlessStats_Default"
   },
   "DungeonGenConfig_TinyBridge_02": {
@@ -9048,6 +11148,7 @@
       }
     ],
     "_allowEndlessMode": 1,
+    "_forceHandSizeLimit": 0,
     "_endlessModeStatConfig": "EndlessStats_Default"
   },
   "DungeonGenConfig_TinyBridge_03": {
@@ -9171,6 +11272,7 @@
       }
     ],
     "_allowEndlessMode": 1,
+    "_forceHandSizeLimit": 0,
     "_endlessModeStatConfig": "EndlessStats_Default"
   },
   "DungeonGenConfig_Tutorial": {
@@ -9294,6 +11396,7 @@
       }
     ],
     "_allowEndlessMode": 0,
+    "_forceHandSizeLimit": 0,
     "_endlessModeStatConfig": null
   },
   "DungeonGenerationConfig_Test_AllEvents": {
@@ -10470,6 +12573,7 @@
       }
     ],
     "_allowEndlessMode": 0,
+    "_forceHandSizeLimit": 0,
     "_endlessModeStatConfig": null
   },
   "DungeonGenerationConfig_Test_GeneratedEncounters": {
@@ -10593,6 +12697,7 @@
       }
     ],
     "_allowEndlessMode": 0,
+    "_forceHandSizeLimit": 0,
     "_endlessModeStatConfig": null
   },
   "DungeonGenerationConfig_Test_NavigationPlayground": {
@@ -10716,6 +12821,7 @@
       }
     ],
     "_allowEndlessMode": 0,
+    "_forceHandSizeLimit": 0,
     "_endlessModeStatConfig": null
   },
   "DungeonGenerationConfig_Test_NavigationPlaygroundMultiFloor": {
@@ -10956,12 +13062,7 @@
       }
     ],
     "_allowEndlessMode": 0,
-    "_endlessModeStatConfig": null
-  },
-  "DungeonGenerationRandom": {
-    "Random": {
-      "state": 2437915721
-    },
+    "_forceHandSizeLimit": 0,
     "_endlessModeStatConfig": null
   }
 }

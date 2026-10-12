@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: fr
-  m_SharedData: {fileID: 11400000, guid: 66f793f3476289c41a7ac1be912ce20a, type: 2}
+  m_SharedData: {fileID: 11400000, guid: 9d3c47f862a53f74690dd26349005e02, type: 2}
   m_Metadata:
     m_Items:
     - rid: 1186001538324365319
@@ -121,7 +121,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 40868002045714440
-    m_Localized: C'est ici que se trouve la salle flottante du trône, où les maîtres-poupées responsables des malheurs de ces terres tirent leurs ficelles. Un perchoir idéal pour ceux qui se prennent pour des dieux, mais qui croupissent dans la pourriture.
+    m_Localized: C'est ici que se trouve la salle flottante du trône, où les maîtres-poupées responsables des malheurs de ces terres tirent leurs ficelles. Un perchoir idéal pour ceux qui se prennent pour des dieux, mais qui croupissent dans la fange.
     m_Metadata:
       m_Items: []
   - m_Id: 5409240946401281

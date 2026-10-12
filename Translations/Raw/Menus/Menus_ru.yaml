@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: ru
-  m_SharedData: {fileID: 11400000, guid: 1c896247352f9d547bf32c3244fbc0f5, type: 2}
+  m_SharedData: {fileID: 11400000, guid: 561634ba162fa8a4d9b9a0312af362b4, type: 2}
   m_Metadata:
     m_Items:
     - rid: 7336426704161210481
@@ -1589,6 +1589,10 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 223975027587887104
     m_Localized: По умолчанию
+    m_Metadata:
+      m_Items: []
+  - m_Id: 233781552850350080
+    m_Localized: сенсорный экран
     m_Metadata:
       m_Items: []
   references:

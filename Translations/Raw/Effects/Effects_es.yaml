@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: es
-  m_SharedData: {fileID: 11400000, guid: a828b62f32467474f8eb3d573f917d81, type: 2}
+  m_SharedData: {fileID: 11400000, guid: a39742c687742944b8f94a2610bab396, type: 2}
   m_Metadata:
     m_Items:
     - rid: 1186001538324365335
@@ -130,9 +130,10 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 203187388425
-    m_Localized: Descartas una carta
+    m_Localized: Descartas {Plural:p:una carta|{:N0} cartas}
     m_Metadata:
-      m_Items: []
+      m_Items:
+      - rid: 1186001538324365335
   - m_Id: 203187388426
     m_Localized: 'Ganas un {0:combo: %} de {GlobalKeywords.Growth} de EXP'
     m_Metadata:
@@ -505,7 +506,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 128589568952840206
-    m_Localized: '{:color(Keyword):Mano}'
+    m_Localized: '{:color(Keyword):Mano inicial}'
     m_Metadata:
       m_Items:
       - rid: 1186001538324365335
@@ -1473,7 +1474,7 @@ MonoBehaviour:
       m_Items:
       - rid: 1186001538324365335
   - m_Id: 191773626099249152
-    m_Localized: '{:color(Keyword):Mano +}'
+    m_Localized: '{:color(Keyword):Mano inicial +}'
     m_Metadata:
       m_Items:
       - rid: 1186001538324365335
@@ -1527,6 +1528,11 @@ MonoBehaviour:
     m_Localized: Activas todas las habilidades de cruzamazmorras activas.
     m_Metadata:
       m_Items: []
+  - m_Id: 248525045330030592
+    m_Localized: Invocas todos los {GlobalKeywords.Crawlers} de vuelta a la {GlobalKeywords.Hand}.
+    m_Metadata:
+      m_Items:
+      - rid: 1186001538324365335
   references:
     version: 2
     RefIds:
@@ -1770,4 +1776,6 @@ MonoBehaviour:
         - id: 195294087462465536
         - id: 210570225151586304
         - id: 210600141054226432
+        - id: 203187388425
+        - id: 248525045330030592
 

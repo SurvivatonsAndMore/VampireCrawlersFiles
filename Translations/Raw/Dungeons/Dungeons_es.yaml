@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: es
-  m_SharedData: {fileID: 11400000, guid: 66f793f3476289c41a7ac1be912ce20a, type: 2}
+  m_SharedData: {fileID: 11400000, guid: 9d3c47f862a53f74690dd26349005e02, type: 2}
   m_Metadata:
     m_Items: []
   m_TableData:
@@ -55,7 +55,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 11824022745092
-    m_Localized: Al escriba inútil le echaron la maldición de saberlo todo y no entender nada. Puede que su archivo infinito nos proporcione información... o suponga nuestra perdición. En su interior, una máscara de piedra emite susurros sin cesar.
+    m_Localized: La maldición del escriba inútil hace que lo sepa todo y no entienda nada. Puede que su archivo infinito nos dé información... o suponga nuestra perdición. En su interior, una máscara de piedra emite susurros sin cesar.
     m_Metadata:
       m_Items: []
   - m_Id: 40868002012160000
@@ -63,7 +63,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 40868002045714432
-    m_Localized: Ningún intruso en sus cabales se atrevería a hablar sin susurrar en este laberinto de estanterías y tomos malditos. En sus pasillos acechan formas inhumanas que buscan venganza desde hace mucho.
+    m_Localized: Ningún intruso en sus cabales hablaría en voz alta en este laberinto de estanterías y tomos malditos. En sus pasillos acechan formas inhumanas que buscan venganza desde hace mucho.
     m_Metadata:
       m_Items: []
   - m_Id: 40868002045714433
@@ -79,7 +79,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 11824022745094
-    m_Localized: El lugar donde surgió la magia láctea es un hervidero de caos. Aquí sabrás de primera mano lo que es la mala leche. Una sorpresa cremosa le espera a quien tenga el coraje suficiente para adentrarse en esta factoría derrocada.
+    m_Localized: El lugar donde surgió la magia láctea es un hervidero de caos donde sabrás lo que es la mala leche. Una sorpresa cremosa le espera a quien se adentre en esta factoría derrocada.
     m_Metadata:
       m_Items: []
   - m_Id: 40868002045714435

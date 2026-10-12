@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: de
-  m_SharedData: {fileID: 11400000, guid: a828b62f32467474f8eb3d573f917d81, type: 2}
+  m_SharedData: {fileID: 11400000, guid: a39742c687742944b8f94a2610bab396, type: 2}
   m_Metadata:
     m_Items:
     - rid: 2833696724673101826
@@ -130,9 +130,10 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 203187388425
-    m_Localized: Karte abwerfen
+    m_Localized: '{Plural:p:Karte|{:N0} Karten} abwerfen'
     m_Metadata:
-      m_Items: []
+      m_Items:
+      - rid: 2833696724673101826
   - m_Id: 203187388426
     m_Localized: Du erhältst +{0:combo:%} EP-{GlobalKeywords.Growth}
     m_Metadata:
@@ -307,7 +308,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 17343292777771008
-    m_Localized: Max. {GlobalKeywords.Handsize} +{0:combo:} Karten
+    m_Localized: Vergrößert die {GlobalKeywords.Handsize} um +{0:combo:}
     m_Metadata:
       m_Items: []
   - m_Id: 17724878891331584
@@ -351,7 +352,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 22481692522524675
-    m_Localized: Du kannst +{ActionValue:N0} Karten in der {GlobalKeywords.Handsize} halten
+    m_Localized: Vergrößert die {GlobalKeywords.Handsize} um +{ActionValue:N0}
     m_Metadata:
       m_Items: []
   - m_Id: 22481692522524676
@@ -504,7 +505,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 128589568952840206
-    m_Localized: '{:color(Keyword):{GlobalKeywords.Hand}}'
+    m_Localized: '{:color(Keyword):{GlobalKeywords.Handsize}}'
     m_Metadata:
       m_Items:
       - rid: 2833696724673101826
@@ -1473,7 +1474,7 @@ MonoBehaviour:
       m_Items:
       - rid: 2833696724673101826
   - m_Id: 191773626099249152
-    m_Localized: '{:color(Keyword):{GlobalKeywords.Hand} +}'
+    m_Localized: '{:color(Keyword):{GlobalKeywords.Handsize} +}'
     m_Metadata:
       m_Items:
       - rid: 2833696724673101826
@@ -1527,6 +1528,11 @@ MonoBehaviour:
     m_Localized: Löst alle aktiven Crawler-Fähigkeiten aus.
     m_Metadata:
       m_Items: []
+  - m_Id: 248525045330030592
+    m_Localized: Ruft alle aktiven {GlobalKeywords.Crawlers} zurück auf die {GlobalKeywords.Hand}.
+    m_Metadata:
+      m_Items:
+      - rid: 2833696724673101826
   references:
     version: 2
     RefIds:
@@ -1770,4 +1776,6 @@ MonoBehaviour:
         - id: 195294087462465536
         - id: 210570225151586304
         - id: 210600141054226432
+        - id: 203187388425
+        - id: 248525045330030592
 

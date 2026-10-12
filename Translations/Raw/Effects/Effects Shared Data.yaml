@@ -1447,6 +1447,10 @@ MonoBehaviour:
     m_Key: CARD_TYPE_RAINBOW_DESC_NEW
     m_Metadata:
       m_Items: []
+  - m_Id: 248525045330030592
+    m_Key: RALLY_KEYWORD_DESC_NEW
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

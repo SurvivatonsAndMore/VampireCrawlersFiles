@@ -27,6 +27,7 @@
   "maxRecovery": 1000,
   "maxMagnet": 4,
   "maxRevival": 3,
+  "maxScavenge": 50,
   "mightDecay": 0,
   "amountDecay": 0,
   "areaDecay": 0,

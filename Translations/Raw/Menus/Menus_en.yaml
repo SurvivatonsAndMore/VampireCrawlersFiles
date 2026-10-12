@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: en
-  m_SharedData: {fileID: 11400000, guid: 1c896247352f9d547bf32c3244fbc0f5, type: 2}
+  m_SharedData: {fileID: 11400000, guid: 561634ba162fa8a4d9b9a0312af362b4, type: 2}
   m_Metadata:
     m_Items:
     - rid: 2833696724673101837
@@ -1667,6 +1667,46 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 223975027587887104
     m_Localized: Default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 233781552850350080
+    m_Localized: touch screen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 233781552896487424
+    m_Localized: Disable Touch Screen Input
+    m_Metadata:
+      m_Items: []
+  - m_Id: 233781552896487425
+    m_Localized: Allow Touch Screen Input
+    m_Metadata:
+      m_Items: []
+  - m_Id: 233781552896487426
+    m_Localized: Enabled
+    m_Metadata:
+      m_Items: []
+  - m_Id: 233781552896487427
+    m_Localized: Disabled
+    m_Metadata:
+      m_Items: []
+  - m_Id: 235926993285099520
+    m_Localized: Toggle UI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 235926993322848256
+    m_Localized: Toggle Photo Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 235926993322848257
+    m_Localized: Gameplay Window Scale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 235926993322848258
+    m_Localized: Cycle Photo Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 235926993322848259
+    m_Localized: Photo Mode
     m_Metadata:
       m_Items: []
   references:

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: pt-BR
-  m_SharedData: {fileID: 11400000, guid: 66f793f3476289c41a7ac1be912ce20a, type: 2}
+  m_SharedData: {fileID: 11400000, guid: 9d3c47f862a53f74690dd26349005e02, type: 2}
   m_Metadata:
     m_Items:
     - rid: 1186001538324365315
@@ -41,7 +41,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 12266632527044608
-    m_Localized: Quanto mais você adentra essa floresta, mais horripilantes são os monstros que aparecem. Algo lá faz com que eles assumam uma aura insana, quase alucinada. Talvez seja magia das trevas. Talvez seja a qualidade do frango assado.
+    m_Localized: Quanto mais fundo na floresta, mais horripilantes os monstros. Algo nela traz uma aura insana, quase alucinada. Talvez seja magia das trevas. Talvez seja a qualidade do frango assado.
     m_Metadata:
       m_Items: []
   - m_Id: 12266632527044609
@@ -65,7 +65,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 40868002045714432
-    m_Localized: Nenhum intruso em sã consciência arriscaria elevar a voz além de um sussurro neste labirinto de estantes de livros e tomos malditos. Formas monstruosas passeiam pelas galerias, buscando uma vingança há muito esperada.
+    m_Localized: Ninguém em sã consciência arriscaria emitir mais que um sussurro neste labirinto de livros e tomos malditos. Seres monstruosos passeiam pelas galerias, buscando uma vingança há muito esperada.
     m_Metadata:
       m_Items: []
   - m_Id: 40868002045714433
@@ -121,7 +121,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 40868002045714440
-    m_Localized: Eis a sala do trono flutuante, de onde os mestres desta terra manipulam suas marionetes. Um espaço adequado para aqueles que se consideram deuses, mesmo que estejam se decompondo na podridão.
+    m_Localized: Eis a sala do trono flutuante, onde mestres desta terra manipulam as marionetes. O espaço certo para os que se consideram deuses, mesmo quando estão em estado de decomposição.
     m_Metadata:
       m_Items: []
   - m_Id: 5409240946401281

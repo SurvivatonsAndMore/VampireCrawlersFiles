@@ -1,7 +1,6 @@
 {
   "RoomSpringLayer_CappellaMagna_01_F1": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": {
       "_rules": [
         {
@@ -75,7 +74,6 @@
   },
   "RoomSpringLayer_CappellaMagna_01_F2": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": {
       "_rules": [
         {
@@ -149,7 +147,6 @@
   },
   "RoomSpringLayer_CappellaMagna_01_F3": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": {
       "_rules": [
         {
@@ -223,7 +220,6 @@
   },
   "RoomSpringLayer_CappellaMagna_01_F4": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": {
       "_rules": [
         {
@@ -297,7 +293,6 @@
   },
   "RoomSpringLayer_CappellaMagna_01_F5": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": {
       "_rules": [
         {
@@ -388,7 +383,6 @@
   },
   "RoomSpringLayer_CappellaMagna_02_F1": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": {
       "_rules": [
         {
@@ -462,7 +456,6 @@
   },
   "RoomSpringLayer_CappellaMagna_02_F2": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": {
       "_rules": [
         {
@@ -536,7 +529,6 @@
   },
   "RoomSpringLayer_CappellaMagna_02_F3": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": {
       "_rules": [
         {
@@ -610,7 +602,6 @@
   },
   "RoomSpringLayer_CappellaMagna_02_F4": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": {
       "_rules": [
         {
@@ -684,7 +675,6 @@
   },
   "RoomSpringLayer_DairyPlant_01_F1": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -702,7 +692,6 @@
   },
   "RoomSpringLayer_DairyPlant_01_F2": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -720,7 +709,6 @@
   },
   "RoomSpringLayer_DairyPlant_01_F3": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -738,7 +726,6 @@
   },
   "RoomSpringLayer_DairyPlant_01_F4": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -756,7 +743,6 @@
   },
   "RoomSpringLayer_DairyPlant_01_F5": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -774,7 +760,6 @@
   },
   "RoomSpringLayer_DairyPlant_02_F1": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -792,7 +777,6 @@
   },
   "RoomSpringLayer_DairyPlant_02_F2": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -810,7 +794,6 @@
   },
   "RoomSpringLayer_DairyPlant_02_F3": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -828,7 +811,6 @@
   },
   "RoomSpringLayer_DairyPlant_02_F4": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -846,7 +828,6 @@
   },
   "RoomSpringLayer_DairyPlant_02_F5": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -864,7 +845,6 @@
   },
   "RoomSpringLayer_DairyPlant_03_F1": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -882,7 +862,6 @@
   },
   "RoomSpringLayer_DairyPlant_03_F2": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -900,7 +879,6 @@
   },
   "RoomSpringLayer_DairyPlant_03_F3": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -918,7 +896,6 @@
   },
   "RoomSpringLayer_DairyPlant_03_F4": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -936,7 +913,6 @@
   },
   "RoomSpringLayer_DairyPlant_03_F5": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -952,9 +928,59 @@
     "_drawForces": 1,
     "_drawGridPreview": 1
   },
+  "RoomSpringLayer_GalloBelow_01_F1": {
+    "_shouldDrawDebug": 1,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 9,
+      "y": 9
+    },
+    "_targetDungeonSize": {
+      "x": 8,
+      "y": 8
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 1,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_GalloBelow_01_F2": {
+    "_shouldDrawDebug": 1,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 10,
+      "y": 10
+    },
+    "_targetDungeonSize": {
+      "x": 9,
+      "y": 9
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 1,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
+  "RoomSpringLayer_GalloBelow_01_F3": {
+    "_shouldDrawDebug": 1,
+    "_rulesOverride": null,
+    "_configOverride": null,
+    "_maximumPossibleDungeonSize": {
+      "x": 10,
+      "y": 10
+    },
+    "_targetDungeonSize": {
+      "x": 9,
+      "y": 9
+    },
+    "_drawRooms": 1,
+    "_drawNeighbours": 1,
+    "_drawForces": 1,
+    "_drawGridPreview": 1
+  },
   "RoomSpringLayer_GalloTower_01_F1": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": {
       "_rules": [
         {
@@ -1036,7 +1062,6 @@
   },
   "RoomSpringLayer_GalloTower_01_F2": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": {
       "_rules": [
         {
@@ -1118,7 +1143,6 @@
   },
   "RoomSpringLayer_GalloTower_01_F3": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": {
       "_rules": [
         {
@@ -1200,7 +1224,6 @@
   },
   "RoomSpringLayer_GalloTower_01_F4": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": {
       "_rules": [
         {
@@ -1282,7 +1305,6 @@
   },
   "RoomSpringLayer_GalloTower_01_F5": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": {
       "_rules": [
         {
@@ -1364,7 +1386,6 @@
   },
   "RoomSpringLayer_InlaidLibrary_01_F1": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -1382,7 +1403,6 @@
   },
   "RoomSpringLayer_InlaidLibrary_01_F2": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -1400,7 +1420,6 @@
   },
   "RoomSpringLayer_InlaidLibrary_01_F3": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -1418,7 +1437,6 @@
   },
   "RoomSpringLayer_InlaidLibrary_01_F4": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -1436,7 +1454,6 @@
   },
   "RoomSpringLayer_InlaidLibrary_01_F5": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -1454,7 +1471,6 @@
   },
   "RoomSpringLayer_InlaidLibrary_02_F1": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -1472,7 +1488,6 @@
   },
   "RoomSpringLayer_InlaidLibrary_02_F2": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -1490,7 +1505,6 @@
   },
   "RoomSpringLayer_InlaidLibrary_02_F3": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -1508,7 +1522,6 @@
   },
   "RoomSpringLayer_InlaidLibrary_02_F4": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -1526,7 +1539,6 @@
   },
   "RoomSpringLayer_InlaidLibrary_02_F5": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -1544,7 +1556,6 @@
   },
   "RoomSpringLayer_InlaidLibrary_03_F1": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -1562,7 +1573,6 @@
   },
   "RoomSpringLayer_InlaidLibrary_03_F2": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -1580,7 +1590,6 @@
   },
   "RoomSpringLayer_InlaidLibrary_03_F3": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -1598,7 +1607,6 @@
   },
   "RoomSpringLayer_InlaidLibrary_03_F4": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -1616,7 +1624,6 @@
   },
   "RoomSpringLayer_InlaidLibrary_03_F5": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -1634,7 +1641,6 @@
   },
   "RoomSpringLayer_MadForest_01_F1": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -1652,7 +1658,6 @@
   },
   "RoomSpringLayer_MadForest_01_F2": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -1670,7 +1675,6 @@
   },
   "RoomSpringLayer_MadForest_01_F3": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -1688,7 +1692,6 @@
   },
   "RoomSpringLayer_MadForest_01_F4": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -1706,7 +1709,6 @@
   },
   "RoomSpringLayer_MadForest_02_F1": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -1724,7 +1726,6 @@
   },
   "RoomSpringLayer_MadForest_02_F2": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -1742,7 +1743,6 @@
   },
   "RoomSpringLayer_MadForest_02_F3": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -1760,7 +1760,6 @@
   },
   "RoomSpringLayer_MadForest_02_F4": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -1778,7 +1777,6 @@
   },
   "RoomSpringLayer_MadForest_02_F5": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -1796,7 +1794,6 @@
   },
   "RoomSpringLayer_MadForest_03_F1": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -1814,7 +1811,6 @@
   },
   "RoomSpringLayer_MadForest_03_F2": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -1832,7 +1828,6 @@
   },
   "RoomSpringLayer_MadForest_03_F3": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -1850,7 +1845,6 @@
   },
   "RoomSpringLayer_MadForest_03_F4": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {
@@ -1868,7 +1862,6 @@
   },
   "RoomSpringLayer_MadForest_03_F5": {
     "_shouldDrawDebug": 1,
-    "_progressDelay": 0,
     "_rulesOverride": null,
     "_configOverride": null,
     "_maximumPossibleDungeonSize": {

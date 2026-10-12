@@ -1,4 +1,11 @@
 {
+  "Ambrojoe Deck": [
+    "FCC_Ambrojoe",
+    "Card_A_2_LaRobba",
+    "Card_S_1_Attractorb",
+    "Card_D_1_Armor",
+    "Card_D_1_Armor"
+  ],
   "Antonio Deck": [
     "FCC_Antonio",
     "Card_A_0_Whip",
@@ -12,6 +19,13 @@
     "Card_A_1_FireWand",
     "Card_B_0_EmptyTome",
     "Card_D_0_Armor"
+  ],
+  "Ambrojoe Deck_BigTroublerDeck": [
+    "FCC_BigTroubler",
+    "Card_A_2_UnearthlyBolt",
+    "Card_A_2_UnearthlyBolt",
+    "Card_S_2_Bracer",
+    "Card_S_1_Duplicator"
   ],
   "Cavallo Deck": [
     "FCC_Cavallo",
@@ -89,6 +103,13 @@
     "Card_B_0_EmptyTome",
     "Card_D_1_Armor",
     "Card_S_0_Candelabrador"
+  ],
+  "Leda Deck": [
+    "FCC_Leda",
+    "Card_A_0_MagicWand",
+    "Card_A_0_MagicWand",
+    "Card_S_0_SkullOmanic",
+    "Card_S_0_SkullOmanic"
   ],
   "MissingNo": [
     "FCC_MissingNo",

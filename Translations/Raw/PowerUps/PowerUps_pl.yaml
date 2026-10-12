@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: pl
-  m_SharedData: {fileID: 11400000, guid: 83b50ac424cee014c9500f6866afe6a5, type: 2}
+  m_SharedData: {fileID: 11400000, guid: 11ae249ee57de9f4f9d195b592932d3f, type: 2}
   m_Metadata:
     m_Items:
     - rid: 4841317358791295115
@@ -109,11 +109,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2192685012168706
-    m_Localized: Zwiększ liczbę kart na ręce o {PowerUpValue:N0} na rangę.
+    m_Localized: Zwiększ liczbę rozdawanych kart o {PowerUpValue:N0} na rangę.
     m_Metadata:
       m_Items: []
   - m_Id: 84069615760449543
-    m_Localized: Zwiększ liczbę kart na ręce.
+    m_Localized: Zwiększ liczbę rozdawanych kart.
     m_Metadata:
       m_Items: []
   - m_Id: 2283735013732352

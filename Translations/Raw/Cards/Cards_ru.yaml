@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: ru
-  m_SharedData: {fileID: 11400000, guid: f7ec97f16460231499736f88f1d954e7, type: 2}
+  m_SharedData: {fileID: 11400000, guid: f4d0fc9a740e4374281cbd18702e725a, type: 2}
   m_Metadata:
     m_Items:
     - rid: 7336426704161210479
@@ -929,6 +929,102 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 211294565824409602
     m_Localized: Большое Брюко
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46012689939509248
+    m_Localized: .
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46012689960480768
+    m_Localized: .
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46012689960480769
+    m_Localized: .
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46012689960480770
+    m_Localized: .
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46012689960480771
+    m_Localized: .
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46012689960480772
+    m_Localized: .
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46012689960480773
+    m_Localized: .
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46012689960480774
+    m_Localized: .
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46012689960480775
+    m_Localized: .
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46012689960480776
+    m_Localized: .
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46012689960480777
+    m_Localized: .
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46012689960480778
+    m_Localized: .
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46012689960480779
+    m_Localized: .
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46012689960480780
+    m_Localized: .
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46012689960480781
+    m_Localized: .
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46012689960480782
+    m_Localized: .
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46012689960480783
+    m_Localized: .
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91365965080551424
+    m_Localized: .
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91365965118300160
+    m_Localized: .
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91365965118300161
+    m_Localized: .
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91365965118300162
+    m_Localized: .
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91365965118300163
+    m_Localized: .
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91365965118300164
+    m_Localized: .
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91365965118300165
+    m_Localized: .
     m_Metadata:
       m_Items: []
   references:

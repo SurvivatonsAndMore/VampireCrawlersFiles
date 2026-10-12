@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: ko
-  m_SharedData: {fileID: 11400000, guid: 5c935cb4e5a2e054fb715fa372a28472, type: 2}
+  m_SharedData: {fileID: 11400000, guid: cdb451a9b2301d448b6dc61b493543ef, type: 2}
   m_Metadata:
     m_Items:
     - rid: -2
@@ -59,7 +59,7 @@ MonoBehaviour:
       m_Items:
       - rid: 1496553099325603843
   - m_Id: 6431209253056512
-    m_Localized: '{Achievement.Dungeon}을 완료하세요.'
+    m_Localized: '{Achievement.Dungeon}을/를 완료하세요.'
     m_Metadata:
       m_Items:
       - rid: 1496553099325603843
@@ -69,7 +69,7 @@ MonoBehaviour:
       m_Items:
       - rid: 1496553099325603843
   - m_Id: 6431768739655680
-    m_Localized: '{Achievement.Fcc}로 {Achievement.Dungeon}을 완료하세요.'
+    m_Localized: '{Achievement.Fcc}로 {Achievement.Dungeon}을/를 완료하세요.'
     m_Metadata:
       m_Items:
       - rid: 1496553099325603843
@@ -94,7 +94,7 @@ MonoBehaviour:
       m_Items:
       - rid: 1496553099325603843
   - m_Id: 6441578730172416
-    m_Localized: '{Achievement.List}을 완료하세요.'
+    m_Localized: '{Achievement.List}을/를 완료하세요.'
     m_Metadata:
       m_Items:
       - rid: 1496553099325603843
@@ -2007,7 +2007,7 @@ MonoBehaviour:
       m_Items:
       - rid: 1496553099325603843
   - m_Id: 138926001482575914
-    m_Localized: '{db.Cards.Card_D_3_ClockLancet.Name}{Achievement.Value:p: 카드를|카드를 {:N0}번 플레이하세요}.'
+    m_Localized: '{db.Cards.Card_D_3_ClockLancet.Name}{Achievement.Value:p: 카드를|카드를 {:N0} }번 플레이하세요.'
     m_Metadata:
       m_Items:
       - rid: 1496553099325603843

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: de
-  m_SharedData: {fileID: 11400000, guid: 66f793f3476289c41a7ac1be912ce20a, type: 2}
+  m_SharedData: {fileID: 11400000, guid: 9d3c47f862a53f74690dd26349005e02, type: 2}
   m_Metadata:
     m_Items:
     - rid: 1186001538324365343
@@ -77,7 +77,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 40868002045714432
-    m_Localized: In diesem Labyrinth aus Bücherregalen und verfluchten Folianten würde niemand, der bei klarem Verstand ist, lauter als im Flüsterton sprechen. Unmenschliche Gestalten wanken durch die Hallen und ihre Rache ist überfällig.
+    m_Localized: In diesem Labyrinth aus Bücherregalen und verfluchten Folianten spricht niemand bei klarem Verstand lauter als im Flüsterton. Unmenschliche Gestalten wanken von Rachedurst getrieben durch die Hallen.
     m_Metadata:
       m_Items: []
   - m_Id: 40868002045714433
@@ -85,7 +85,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 40868002045714434
-    m_Localized: Einst versammelten sich hier einige der klügsten und fähigsten Magier, doch nun ist der Ort von dunkler Magie durchtränkt und beherbergt abscheuliche Familiare und all jene, die danach streben, sich ebenjene gefügig zu machen.
+    m_Localized: Einst versammelten sich hier einige der klügsten und fähigsten Magier. Nun gibt es an diesem Ort nur noch dunkle Magie, abscheuliche Familiare und jene, die sich beide gefügig machen wollen.
     m_Metadata:
       m_Items: []
   - m_Id: 11824022745094
@@ -97,7 +97,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 40868002045714436
-    m_Localized: Vielleicht sähe es hier besser aus, wenn die Inspektionen vergangener Tage nicht von Schaumschlägern durchgeführt worden wären. So verbleibt nur ein Labyrinth aus Rohren, in denen gewaltige Golems lauern, die diesen Ort einst beschützten.
+    m_Localized: Korrupte Beamte schöpften hier früher ihren Anteil ab und bereicherten sich so. Jetzt verbleiben nur ein Labyrinth aus Rohren und die gewaltigen Golems, die einst darüber wachten.
     m_Metadata:
       m_Items: []
   - m_Id: 40868002045714437
@@ -109,7 +109,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 11824022745096
-    m_Localized: Ein Bauwerk der Wissenschaft und Zauberei, in dem sich das Grauen im Namen des Fortschritts weiter ausbreitete. Seine zahlreichen Artefakte und Experimente können uns zu dem führen, was wir suchen.
+    m_Localized: Ein Bauwerk der Wissenschaft und Zauberei, wo im Namen des Fortschritts das Grauen erweckt wurde. Die vielen Artefakte und Experimente führen uns vielleicht zu dem, was wir suchen.
     m_Metadata:
       m_Items: []
   - m_Id: 11824022745098

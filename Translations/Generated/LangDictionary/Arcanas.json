@@ -219,7 +219,7 @@
     "pl": "Gdy odkrywca odejdzie, zostanie odłożony na wierzch talii.",
     "ru": "Когда {GlobalKeywords.Crawler} уходит, {GlobalKeywords.Deck} возвращает его, отправляя на самый верх.",
     "ja": "{GlobalKeywords.Crawler}が去る時、自分の{GlobalKeywords.Deck}の一番上に置く。",
-    "ko": "{GlobalKeywords.Crawler}가 필드를 떠나면 해당 카드를{GlobalKeywords.Deck}의 맨 위에 놓습니다.",
+    "ko": "{GlobalKeywords.Crawler}가 필드를 떠나면 해당 카드를 {GlobalKeywords.Deck}의 맨 위에 놓습니다.",
     "zh-Hant": "在{GlobalKeywords.Crawler}退去之時，將該名冒險者置於你{GlobalKeywords.Deck}的頂端。",
     "zh-Hans": "当一名{GlobalKeywords.Crawler}离开时，将其放在你的{GlobalKeywords.Deck}的最上方。"
   },

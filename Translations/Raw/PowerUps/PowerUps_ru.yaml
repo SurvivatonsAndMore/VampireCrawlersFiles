@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: ru
-  m_SharedData: {fileID: 11400000, guid: 83b50ac424cee014c9500f6866afe6a5, type: 2}
+  m_SharedData: {fileID: 11400000, guid: 11ae249ee57de9f4f9d195b592932d3f, type: 2}
   m_Metadata:
     m_Items:
     - rid: 7336426704161210478
@@ -119,7 +119,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2192685012168706
-    m_Localized: Повысьте размер руки на {PowerUpValue:N0} за каждый ранг.
+    m_Localized: Увеличивает раздачу на {PowerUpValue:N0} за каждый ранг.
     m_Metadata:
       m_Items:
       - rid: 7336426704161210478

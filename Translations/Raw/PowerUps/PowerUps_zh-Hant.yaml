@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: zh-Hant
-  m_SharedData: {fileID: 11400000, guid: 83b50ac424cee014c9500f6866afe6a5, type: 2}
+  m_SharedData: {fileID: 11400000, guid: 11ae249ee57de9f4f9d195b592932d3f, type: 2}
   m_Metadata:
     m_Items:
     - rid: 1186001538324365324
@@ -121,12 +121,12 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2192685012168706
-    m_Localized: 提高你的{GlobalKeywords.Handsize}上限，每一級能夠讓你的手牌上限多 {PowerUpValue:N0} 張{PowerUpValue:p:卡牌|卡牌}。
+    m_Localized: 每強化一級，{GlobalKeywords.Handsize}增加 {PowerUpValue:N0} 張{PowerUpValue:p:卡牌|卡牌}。
     m_Metadata:
       m_Items:
       - rid: 1186001538324365324
   - m_Id: 84069615760449543
-    m_Localized: 提高{GlobalKeywords.Handsize}。
+    m_Localized: 增加{GlobalKeywords.Handsize}。
     m_Metadata:
       m_Items:
       - rid: 1186001538324365324

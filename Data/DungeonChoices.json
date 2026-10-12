@@ -1,11 +1,11 @@
 {
   "DungeonChoices_Chaos": {
-    "_totalWeight": 100,
+    "_totalWeight": 86,
     "_possibleDungeonEvents": [
       {
         "<IsGuaranteed>k__BackingField": 0,
-        "<Weight>k__BackingField": 25,
-        "Probability": 0.25,
+        "<Weight>k__BackingField": 20,
+        "Probability": 0.23255815,
         "_eventConfigReference": {
           "_assetId": "PassiveEvent_GemChest"
         },
@@ -17,8 +17,8 @@
       },
       {
         "<IsGuaranteed>k__BackingField": 0,
-        "<Weight>k__BackingField": 20,
-        "Probability": 0.2,
+        "<Weight>k__BackingField": 16,
+        "Probability": 0.18604651,
         "_eventConfigReference": {
           "_assetId": "PassiveEvent_ArcanaChoice"
         },
@@ -30,8 +30,8 @@
       },
       {
         "<IsGuaranteed>k__BackingField": 0,
-        "<Weight>k__BackingField": 15,
-        "Probability": 0.15,
+        "<Weight>k__BackingField": 14,
+        "Probability": 0.1627907,
         "_eventConfigReference": {
           "_assetId": "PassiveEvent_GunForHire"
         },
@@ -43,8 +43,8 @@
       },
       {
         "<IsGuaranteed>k__BackingField": 0,
-        "<Weight>k__BackingField": 30,
-        "Probability": 0.3,
+        "<Weight>k__BackingField": 20,
+        "Probability": 0.23255815,
         "_eventConfigReference": {
           "_assetId": "DestructibleEventConfig_AbandonedCart"
         },
@@ -56,8 +56,8 @@
       },
       {
         "<IsGuaranteed>k__BackingField": 0,
-        "<Weight>k__BackingField": 10,
-        "Probability": 0.1,
+        "<Weight>k__BackingField": 16,
+        "Probability": 0.18604651,
         "_eventConfigReference": {
           "_assetId": "PassiveEvent_GemChest_Silver"
         },
@@ -267,12 +267,12 @@
     ]
   },
   "DungeonChoices_FirstFloor": {
-    "_totalWeight": 9,
+    "_totalWeight": 7,
     "_possibleDungeonEvents": [
       {
         "<IsGuaranteed>k__BackingField": 0,
         "<Weight>k__BackingField": 4,
-        "Probability": 0.44444445,
+        "Probability": 0.5714286,
         "_eventConfigReference": {
           "_assetId": "PassiveEvent_Crystal"
         },
@@ -285,20 +285,7 @@
       {
         "<IsGuaranteed>k__BackingField": 0,
         "<Weight>k__BackingField": 3,
-        "Probability": 0.33333334,
-        "_eventConfigReference": {
-          "_assetId": "PassiveEvent_GemChest"
-        },
-        "_shouldOverrideEventDetails": 0,
-        "_eventDetailsOverrideReference": {
-          "_assetId": null
-        },
-        "_isAmbush": 0
-      },
-      {
-        "<IsGuaranteed>k__BackingField": 0,
-        "<Weight>k__BackingField": 2,
-        "Probability": 0.22222222,
+        "Probability": 0.42857143,
         "_eventConfigReference": {
           "_assetId": "DestructibleEventConfig_AbandonedCart"
         },
@@ -355,12 +342,12 @@
     ]
   },
   "DungeonChoices_GalloF2_01": {
-    "_totalWeight": 7,
+    "_totalWeight": 6,
     "_possibleDungeonEvents": [
       {
         "<IsGuaranteed>k__BackingField": 0,
         "<Weight>k__BackingField": 3,
-        "Probability": 0.42857143,
+        "Probability": 0.5,
         "_eventConfigReference": {
           "_assetId": "PassiveEvent_CardStatOfferingTable"
         },
@@ -373,20 +360,7 @@
       {
         "<IsGuaranteed>k__BackingField": 0,
         "<Weight>k__BackingField": 1,
-        "Probability": 0.14285715,
-        "_eventConfigReference": {
-          "_assetId": "PassiveEvent_ManaOfferingTable"
-        },
-        "_shouldOverrideEventDetails": 0,
-        "_eventDetailsOverrideReference": {
-          "_assetId": null
-        },
-        "_isAmbush": 0
-      },
-      {
-        "<IsGuaranteed>k__BackingField": 0,
-        "<Weight>k__BackingField": 1,
-        "Probability": 0.14285715,
+        "Probability": 0.16666667,
         "_eventConfigReference": {
           "_assetId": "DestructibleEventConfig_AbandonedCart"
         },
@@ -399,7 +373,7 @@
       {
         "<IsGuaranteed>k__BackingField": 0,
         "<Weight>k__BackingField": 2,
-        "Probability": 0.2857143,
+        "Probability": 0.33333334,
         "_eventConfigReference": {
           "_assetId": "PassiveEvent_GemChest"
         },
@@ -469,12 +443,12 @@
     ]
   },
   "DungeonChoices_Misc": {
-    "_totalWeight": 6,
+    "_totalWeight": 79,
     "_possibleDungeonEvents": [
       {
         "<IsGuaranteed>k__BackingField": 0,
-        "<Weight>k__BackingField": 2,
-        "Probability": 0.33333334,
+        "<Weight>k__BackingField": 27,
+        "Probability": 0.34177214,
         "_eventConfigReference": {
           "_assetId": "PassiveEvent_Crystal"
         },
@@ -486,8 +460,8 @@
       },
       {
         "<IsGuaranteed>k__BackingField": 0,
-        "<Weight>k__BackingField": 2,
-        "Probability": 0.33333334,
+        "<Weight>k__BackingField": 27,
+        "Probability": 0.34177214,
         "_eventConfigReference": {
           "_assetId": "PassiveEvent_CardStatOfferingTable"
         },
@@ -499,8 +473,8 @@
       },
       {
         "<IsGuaranteed>k__BackingField": 0,
-        "<Weight>k__BackingField": 2,
-        "Probability": 0.33333334,
+        "<Weight>k__BackingField": 25,
+        "Probability": 0.3164557,
         "_eventConfigReference": {
           "_assetId": "PassiveEvent_ChickenOfferingTable"
         },

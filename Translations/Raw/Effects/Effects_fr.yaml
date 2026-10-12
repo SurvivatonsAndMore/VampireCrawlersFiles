@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier:
   m_LocaleId:
     m_Code: fr
-  m_SharedData: {fileID: 11400000, guid: a828b62f32467474f8eb3d573f917d81, type: 2}
+  m_SharedData: {fileID: 11400000, guid: a39742c687742944b8f94a2610bab396, type: 2}
   m_Metadata:
     m_Items:
     - rid: 1186001538324365329
@@ -130,9 +130,10 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 203187388425
-    m_Localized: Défausse une carte
+    m_Localized: Défausse {Plural:p:une carte|{:N0} cartes}
     m_Metadata:
-      m_Items: []
+      m_Items:
+      - rid: 1186001538324365329
   - m_Id: 203187388426
     m_Localized: Gagne {0:combo:%} EXP d'{GlobalKeywords.Growth}
     m_Metadata:
@@ -307,7 +308,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 17343292777771008
-    m_Localized: Augmente la {GlobalKeywords.Handsize} de {0:combo:}
+    m_Localized: Augmente le {GlobalKeywords.Handsize} de {0:combo:}
     m_Metadata:
       m_Items: []
   - m_Id: 17724878891331584
@@ -351,7 +352,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 22481692522524675
-    m_Localized: Augmente la {GlobalKeywords.Handsize} de {ActionValue:N0}
+    m_Localized: Augmente le {GlobalKeywords.Handsize} de {ActionValue:N0}
     m_Metadata:
       m_Items: []
   - m_Id: 22481692522524676
@@ -504,7 +505,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 128589568952840206
-    m_Localized: '{:color(Keyword):{GlobalKeywords.Hand}}'
+    m_Localized: '{:color(Keyword):{GlobalKeywords.Handsize}}'
     m_Metadata:
       m_Items:
       - rid: 1186001538324365329
@@ -940,7 +941,7 @@ MonoBehaviour:
       m_Items:
       - rid: 1186001538324365329
   - m_Id: 135884986878255104
-    m_Localized: Les attaques infligent des dégâts supplémentaires lorsque cette carte est dans votre {GlobalKeywords.Hand}.
+    m_Localized: Les attaques infligent plus de dégâts lorsque cette carte est dans votre {GlobalKeywords.Hand}.
     m_Metadata:
       m_Items:
       - rid: 1186001538324365329
@@ -1468,7 +1469,7 @@ MonoBehaviour:
       m_Items:
       - rid: 1186001538324365329
   - m_Id: 191773626099249152
-    m_Localized: '{:color(Keyword):{GlobalKeywords.Hand} +}'
+    m_Localized: '{:color(Keyword):{GlobalKeywords.Handsize} +}'
     m_Metadata:
       m_Items:
       - rid: 1186001538324365329
@@ -1522,6 +1523,11 @@ MonoBehaviour:
     m_Localized: Active toutes les capacités actives d'explorateur.
     m_Metadata:
       m_Items: []
+  - m_Id: 248525045330030592
+    m_Localized: Renvoie tous les {GlobalKeywords.Crawlers} actifs vers votre {GlobalKeywords.Hand}.
+    m_Metadata:
+      m_Items:
+      - rid: 1186001538324365329
   references:
     version: 2
     RefIds:
@@ -1760,4 +1766,6 @@ MonoBehaviour:
         - id: 195294087462465536
         - id: 210570225151586304
         - id: 210600141054226432
+        - id: 203187388425
+        - id: 248525045330030592
 

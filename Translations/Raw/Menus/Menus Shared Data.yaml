@@ -1667,6 +1667,46 @@ MonoBehaviour:
     m_Key: DEFAULT_DEFAULT
     m_Metadata:
       m_Items: []
+  - m_Id: 233781552850350080
+    m_Key: TOUCHSCREEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 233781552896487424
+    m_Key: TOUCHSCREEN_DISABLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 233781552896487425
+    m_Key: TOUCHSCREEN_ENABLED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 233781552896487426
+    m_Key: ENABLED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 233781552896487427
+    m_Key: DISABLED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 235926993285099520
+    m_Key: TOGGLE_UI_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 235926993322848256
+    m_Key: TOGGLE_UI_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 235926993322848257
+    m_Key: TOGGLE_UI_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 235926993322848258
+    m_Key: TOGGLE_UI_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 235926993322848259
+    m_Key: TOGGLE_UI_5
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

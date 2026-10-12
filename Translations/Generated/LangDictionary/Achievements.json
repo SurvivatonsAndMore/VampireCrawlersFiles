@@ -135,7 +135,7 @@
     "pl": "Ukończ loch {Achievement.Dungeon}.",
     "ru": "Пройдите подземелье «{Achievement.Dungeon}».",
     "ja": "{Achievement.Dungeon}をクリアする。",
-    "ko": "{Achievement.Dungeon}을 완료하세요.",
+    "ko": "{Achievement.Dungeon}을/를 완료하세요.",
     "zh-Hant": "完成冒險「{Achievement.Dungeon}」。",
     "zh-Hans": "通关{Achievement.Dungeon}。"
   },
@@ -163,7 +163,7 @@
     "pl": "Ukończ loch {Achievement.Dungeon} jako {Achievement.Fcc}.",
     "ru": "Пройдите подземелье «{Achievement.Dungeon}», играя за персонажа {Achievement.Fcc}.",
     "ja": "{Achievement.Fcc}で{Achievement.Dungeon}をクリアする。",
-    "ko": "{Achievement.Fcc}로 {Achievement.Dungeon}을 완료하세요.",
+    "ko": "{Achievement.Fcc}로 {Achievement.Dungeon}을/를 완료하세요.",
     "zh-Hant": "以{Achievement.Fcc}完成冒險「{Achievement.Dungeon}」。",
     "zh-Hans": "使用{Achievement.Fcc}通关{Achievement.Dungeon}。"
   },
@@ -233,7 +233,7 @@
     "pl": "Odblokuj osiągnięcia: {Achievement.List}.",
     "ru": "Выполните: {Achievement.List}.",
     "ja": "{Achievement.List}をクリアする。",
-    "ko": "{Achievement.List}을 완료하세요.",
+    "ko": "{Achievement.List}을/를 완료하세요.",
     "zh-Hant": "達成以下條件：{Achievement.List}。",
     "zh-Hans": "完成：{Achievement.List}。"
   },
@@ -2297,7 +2297,7 @@
   },
   "ACHIEVEMENT_POPPEA_DESC": {
     "en": "Find the {GlobalKeywords.Coffin} in {db.Dungeon.Dungeon_DairyPlant_02.Name}.",
-    "fr": "Trouvez le {GlobalKeywords.Coffin} dans l'{db.Dungeon.Dungeon_DairyPlant_02.Name}.",
+    "fr": "Trouvez le {GlobalKeywords.Coffin} dans la {db.Dungeon.Dungeon_DairyPlant_02.Name}.",
     "it": "Trova la {GlobalKeywords.Coffin} nel {db.Dungeon.Dungeon_DairyPlant_02.Name}.",
     "de": "Finde den {GlobalKeywords.Coffin} im Dungeon „{db.Dungeon.Dungeon_DairyPlant_02.Name}“.",
     "es": "Encuentra el {GlobalKeywords.Coffin} en la mazmorra {db.Dungeon.Dungeon_DairyPlant_02.Name}.",
@@ -4761,7 +4761,7 @@
   },
   "ACHIEVEMENT_COMPLETE_DP_03": {
     "en": "Complete {db.Dungeon.Dungeon_DairyPlant_03.Name}",
-    "fr": "Terminez l'{db.Dungeon.Dungeon_DairyPlant_03.Name}",
+    "fr": "Terminez la {db.Dungeon.Dungeon_DairyPlant_03.Name}",
     "it": "Completa il {db.Dungeon.Dungeon_DairyPlant_03.Name}",
     "de": "„{db.Dungeon.Dungeon_DairyPlant_03.Name}“ abgeschlossen",
     "es": "Completa la mazmorra {db.Dungeon.Dungeon_DairyPlant_03.Name}",
@@ -4775,7 +4775,7 @@
   },
   "ACHIEVEMENT_COMPLETE_DP_03_DESC": {
     "en": "Complete {db.Dungeon.Dungeon_DairyPlant_03.Name}.",
-    "fr": "Terminez l'{db.Dungeon.Dungeon_DairyPlant_03.Name}.",
+    "fr": "Terminez la {db.Dungeon.Dungeon_DairyPlant_03.Name}",
     "it": "Completa il {db.Dungeon.Dungeon_DairyPlant_03.Name}.",
     "de": "„{db.Dungeon.Dungeon_DairyPlant_03.Name}“ abgeschlossen.",
     "es": "Completa la mazmorra {db.Dungeon.Dungeon_DairyPlant_03.Name}.",
@@ -7191,7 +7191,7 @@
     "pl": "Zagraj {Achievement.Value:p:kartę|kartę|kartę} {db.Cards.Card_D_3_ClockLancet.Name} {Achievement.Value:N0} razy.",
     "ru": "Разыграйте {Achievement.Value:p:карту «{db.Cards.Card_D_3_ClockLancet.Name}»|карту «{db.Cards.Card_D_3_ClockLancet.Name}» {:N0} раза|карту «{db.Cards.Card_D_3_ClockLancet.Name}» {:N0} раз}.",
     "ja": "{db.Cards.Card_D_3_ClockLancet.Name}{Achievement.Value:p: カード|カードを{:N0}回}プレイする。",
-    "ko": "{db.Cards.Card_D_3_ClockLancet.Name}{Achievement.Value:p: 카드를|카드를 {:N0}번 플레이하세요}.",
+    "ko": "{db.Cards.Card_D_3_ClockLancet.Name}{Achievement.Value:p: 카드를|카드를 {:N0} }번 플레이하세요.",
     "zh-Hant": "打出「{db.Cards.Card_D_3_ClockLancet.Name}」{Achievement.Value:p:卡牌|卡牌 {:N0} 次}。",
     "zh-Hans": "打出{db.Cards.Card_D_3_ClockLancet.Name}{Achievement.Value:p:卡牌|卡牌{:N0}次}。"
   },
