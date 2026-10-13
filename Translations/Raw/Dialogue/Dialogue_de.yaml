@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Dialogue_de
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 554ff93728483c649a696a71169ada09, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 31543236964352
+    m_Localized: Sei gegrüßt, Crawler. Ich hatte schon sehr lange keinen Besuch mehr!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518784
+    m_Localized: Der Moongolow-Laden ist noch nicht geöffnet, aber ich gebe dir dieses Relikt als Geschenk dafür, dass du mich gefunden hast.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518785
+    m_Localized: Wenn du den Vampir suchst, so muss ich dich enttäuschen, aber bitte nimm dieses Relikt als Belohnung dafür, dass du mich gefunden hast.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518786
+    m_Localized: Blase in diese einzigartige Trompete, wenn du endlos durch die Dungeons streifen möchtest. Simpler geht’s kaum, oder?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518787
+    m_Localized: Du schon wieder? Du kannst die Trompete ruhig behalten, ich will sie nicht zurück …
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518788
+    m_Localized: Ich war nie gut darin und außerdem musste ich sie andauernd putzen, weil sie all das Salzwasser nicht verträgt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518789
+    m_Localized: Du kommst zu spät, ich habe mein wertvollstes Relikt bereits weggegeben.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518790
+    m_Localized: Oh! Meine alte Trompete! Ich würde sie … zu gern ein letztes Mal in den Händen halten.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518791
+    m_Localized: Das Leben tief im Meer ist manchmal sehr einsam.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518792
+    m_Localized: Was ich am meisten vermisse, ist grüner Tee. Ich hab ihn immer aus kleinen chinesischen Porzellantassen getrunken.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518793
+    m_Localized: Die Suche nach dem Vampir verschlug mich vor langer Zeit hierher.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518794
+    m_Localized: Langsam glaube ich, er ist vielleicht in einem anderen Sarg.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495296
+    m_Localized: Mein Vater war ein Tischler in England, hat mir aber auch die Schönheit der Musik nähergebracht.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495297
+    m_Localized: Meine alte Trompete war schon toll, aber ich wollte eigentlich immer einen Synthesizer!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495298
+    m_Localized: Moment, was sage ich da? Was ist überhaupt ein Synthesizer?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495299
+    m_Localized: Du bist zurück! Welche Neuigkeiten bringst du vom Rest der Welt?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495300
+    m_Localized: Eine Kathedrale im Himmel? Was denken die sich nur als Nächstes aus?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495301
+    m_Localized: Magie, die dunkelste Magie. Meine Seele schwimmt darin. Aufgelöst in der Zeit, gefangen in einer Welt ohne Form!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495302
+    m_Localized: Oh, du bist es. Ich hab nur gerade einen Monolog geübt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495303
+    m_Localized: Was machst du, wenn die Erde aufbricht und die Giftpfeile vom Himmel fallen und die Säulen des Firmaments wanken?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495304
+    m_Localized: Mach dir keine Sorgen, hier unten sollten wir geschützt sein.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495305
+    m_Localized: Du schon wieder? Ich verstehe gar nicht, was dich andauernd hierherlockt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495306
+    m_Localized: Außer …
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495307
+    m_Localized: Besuchst du mich etwa einfach gern?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495308
+    m_Localized: Du kehrst immer wieder zurück, als ob ich dir noch etwas anzubieten hätte.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495309
+    m_Localized: Irgendjemand macht all meine Tontöpfe kaputt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495310
+    m_Localized: Wenn du den Schuldigen findest, sag mir bitte Bescheid!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495311
+    m_Localized: Sei gegrüßt, Crawler. Deine Abenteuer bescheren dir gewiss reiche Beute?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495312
+    m_Localized: Mach dir keine Sorge um mich. Ich bin ein Überlebenskünstler.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495313
+    m_Localized: Ah, die Siebente Trompete kehrt zu ihrem ehemaligen Meister zurück, um ihn zu verhöhnen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495314
+    m_Localized: Jazz ist anders, oder?
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
+

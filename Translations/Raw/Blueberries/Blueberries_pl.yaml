@@ -1,0 +1,1224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Blueberries_pl
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: 9f007cf6483f831498f17fb571079813, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 193345922286223370
+  m_TableData:
+  - m_Id: 14603972760252416
+    m_Localized: '{db.FCC.FCC_Ambrojoe.FirstName}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 2284044935168
+    m_Localized: La Robba
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2284095266816
+    m_Localized: Rzuca meblami.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2188433052086272
+    m_Localized: Zapaleniec
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2188433089835008
+    m_Localized: Karty odkrywcy zyskują dodatkowy losowy kolor wyzwalacza po zagraniu.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2188433089835009
+    m_Localized: Karty odkrywcy zyskuje dodatkowy losowy kolor wyzwalacza po zagraniu.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4416592655011840
+    m_Localized: Wieczne combo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4416592684371968
+    m_Localized: Dobierz nową rękę, jeśli twoja ostatnia karta kontynuuje combo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4416592684371969
+    m_Localized: Dobierz nową rękę, jeśli twoja ostatnia karta kontynuuje combo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5085614268473344
+    m_Localized: Odrzuć {ActionValue:p:1 kartę|{:N0} karty|{:N0} kart} z ręki
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 5424281531043840
+    m_Localized: '{:color(Keyword):Podmianka}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 5424281531043841
+    m_Localized: Odrzuć {ActionValue:p:1 losową kartę|{:N0} losowe karty|{:N0} losowych kart} z ręki, a następnie dobierz {ActionValue:N0}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 7251841128587264
+    m_Localized: '{:color(Keyword):Adaptacja}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 7251841162141696
+    m_Localized: Ta karta kosztuje ilość Many potrzebną, aby kontynuować combo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7604875813707776
+    m_Localized: Przyznaj tej karcie Adaptację.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7634092110635008
+    m_Localized: Limit rozmiaru ręki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7700284548571136
+    m_Localized: '{effectString:disabled:}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 7702454513688576
+    m_Localized: '{:color(Keyword):Życie po śmierci}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 7702454547243008
+    m_Localized: Po odrzuceniu karta wyzwala swój standardowy efekt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7963983708413952
+    m_Localized: Efekt karty wyzwalany po odrzuceniu.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7967692785967104
+    m_Localized: Życie po śmierci
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7967692815327232
+    m_Localized: Adaptacja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8024049274839040
+    m_Localized: Korko
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8024049308393472
+    m_Localized: Zapobiega pojawieniu się Topiciela podczas walki.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8024049308393473
+    m_Localized: Opóźnia pojawienie się Topiciela podczas walki.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476304997965824
+    m_Localized: '{:color(Keyword):Padlina}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 9476305031520256
+    m_Localized: Zyskaj 1 do Padliny po każdym odrzuceniu karty. Karty z Padliną wystrzeliwują dodatkowe pociski równe twojej Padlinie.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476305031520257
+    m_Localized: Nieziemski bełt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476305031520258
+    m_Localized: Trafienia krytyczne mogą eksplodować.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476305031520259
+    m_Localized: Duchowa anomalia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476305031520260
+    m_Localized: Ulepszony Nieziemski bełt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9928406866014208
+    m_Localized: Latająca kość
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9928406907957248
+    m_Localized: Moneta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10178850515312640
+    m_Localized: '{FccAction} po dobraniu karty {TriggerType.Icon}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 10178850624364544
+    m_Localized: '{FccAction} po zdobyciu złota {TriggerType.Icon}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 10178850624364545
+    m_Localized: '{FccAction} po odrzuceniu karty {TriggerType.Icon}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 10333246305808384
+    m_Localized: Moongohigh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10333246343557120
+    m_Localized: W pełnej tajemnic głębi, gdzie dziwaczna woda się kłębi, na przemoczonych śmiałków czekają wielkie przygody.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10333246343557121
+    m_Localized: A jeszcze dalej, gdzie światło księżyca nie dociera prawie wcale, zdesperowani padlinożercy czyhają na wszystko, co się rusza.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10620020227825664
+    m_Localized: '{:color(Keyword):Dodaj efekt}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 10620020278157312
+    m_Localized: Dodaj efekt {CardEffect.KeywordName} do losowej {CardType.Icon} karty
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 12369241960341504
+    m_Localized: Karty odkrywcy zyskują dodatkowy losowy wyzwalacz dla typu karty po zagraniu.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284544
+    m_Localized: Karty odkrywcy zyskują dodatkowy losowy wyzwalacz po zagraniu.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284545
+    m_Localized: Ty? To znaczy... Ja!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284546
+    m_Localized: Ja, ja, ja, ja, ja...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284547
+    m_Localized: To jakieś czary czy widzę swoje odbicie w wodzie?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284548
+    m_Localized: Odblokuj {db.Dungeon.Dungeon_Soda_01.Name}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 12369242002284549
+    m_Localized: Odblokuj {db.Dungeon.Dungeon_Soda_02.Name}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 12369242002284550
+    m_Localized: (Porbably not going to be used but needs to be assigned just in case)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284551
+    m_Localized: Spraw, że losowa karta tymczasowo stanie się darmowa.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12373404911919104
+    m_Localized: '{:color(Keyword):Rykoszet}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 12373404953862144
+    m_Localized: Szansa na odbicie się od dodatkowych celów.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12373404953862145
+    m_Localized: '{:color(Keyword):Eksplozja krytyczna}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 12373404953862146
+    m_Localized: Eksploduje przy trafieniu krytycznym, uszkadzając sąsiadujące cele.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12373404953862147
+    m_Localized: '{:color(Keyword):Huk}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 12373404953862148
+    m_Localized: Obrażenia obszarowe mogą zadać trafienie krytyczne. Obrażenia obszarowe rosną w miarę rozprzestrzeniania się.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940801093632
+    m_Localized: PLACEHOLDER<br>Troubler Bio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259456
+    m_Localized: PLACEHOLDER<br>Trouser Bio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259457
+    m_Localized: Podmianka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259458
+    m_Localized: Odrzuć karty i dobierz nowe.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259459
+    m_Localized: Padlina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259460
+    m_Localized: Wystrzeliwuje dodatkowe pociski zależne od liczby odrzuconych kart.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259461
+    m_Localized: Mana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259462
+    m_Localized: Zyskaj Manę.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13087326673514497
+    m_Localized: Lochy Gallo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13087326673514498
+    m_Localized: Pod wieżą czarnoksiężnika leży niezbadany labirynt, pełen nieudanych eksperymentów i haniebnych sekretów. I chyba też zapodział się tam mój płaszcz.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13087326673514499
+    m_Localized: Przypływ combo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13087326673514500
+    m_Localized: Szansa na zwiększenie combo po odrzuceniu karty.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13087326673514501
+    m_Localized: '{Arcana.EffectValue.0: N0}% szans na zwiększenie combo po odrzuceniu karty.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 13087326673514502
+    m_Localized: (NOT USING)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13091003727556608
+    m_Localized: Okopy Moongolow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13108134305280000
+    m_Localized: Leda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13108134305280001
+    m_Localized: Leda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13108134305280002
+    m_Localized: (not used yet)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13183508871589888
+    m_Localized: Odblokuj {db.Dungeon.Dungeon_GalloBelow_01.Name}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 13183508900950016
+    m_Localized: '{db.Dungeon.Dungeon_Soda_01.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 13183508900950017
+    m_Localized: '{db.Dungeon.Dungeon_Soda_02.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 13183508900950018
+    m_Localized: '{db.Dungeon.Dungeon_GalloBelow_01.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 13183508900950019
+    m_Localized: Odblokuj {db.relic.RelicConfig_Tappo.Name}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 13183508905144320
+    m_Localized: Znajdź relikwię {db.relic.RelicConfig_Tappo.Name}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 13183508905144321
+    m_Localized: '{db.relic.RelicConfig_Tappo.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 13183508905144322
+    m_Localized: Odblokuj {db.relic.RelicConfig_GalileosHand.Name}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 13183508905144323
+    m_Localized: Znajdź relikwię {db.relic.RelicConfig_GalileosHand.Name}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 13183508905144324
+    m_Localized: '{db.relic.RelicConfig_GalileosHand.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 14537641012703232
+    m_Localized: Ręka Galileusza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537641063034880
+    m_Localized: Dodaje przycisk Limit rozmiaru ręki do Mapy świata.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14560062499446784
+    m_Localized: Odblokuj {db.Dungeon.Dungeon_Moongolow_teaser.Name}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 14560062533001216
+    m_Localized: '{db.Dungeon.Dungeon_Moongolow_teaser.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 14560062533001217
+    m_Localized: Pokonaj Koniec.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14560062533001218
+    m_Localized: Ukończ grę podstawową.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503580381184
+    m_Localized: Klejnot Adaptacji
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503622324224
+    m_Localized: Pokonaj Topiciela.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503622324225
+    m_Localized: Pokonaj Topiciela w Lochach Gallo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503622324226
+    m_Localized: '{GlobalKeywords.Gem} Podmianki'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 14593503622324227
+    m_Localized: Znajdź klejnot Podmianki w biomie {db.Dungeon.Dungeon_Soda_01.Name}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 14593503622324228
+    m_Localized: Znajdź klejnot Podmianki.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503622324229
+    m_Localized: '{GlobalKeywords.Gem} Życia po śmierci'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 14593503622324230
+    m_Localized: Znajdź klejnot Życia po śmierci w biomie {db.Dungeon.Dungeon_Soda_01.Name}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 14593503622324231
+    m_Localized: Znajdź klejnot Życia po śmierci.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503622324232
+    m_Localized: '{GlobalKeywords.Gem} Padliny'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 14593503622324233
+    m_Localized: Znajdź klejnot Padliny w biomie {db.Dungeon.Dungeon_Soda_01.Name}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 14593503622324234
+    m_Localized: Znajdź klejnot Padliny.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503622324241
+    m_Localized: '{db.Arcana.ArcanaConfig_InfiniteCombo.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 14593503622324242
+    m_Localized: Ukończ kolejkę bez kart w ręku {Achievement.Value:N0} razy.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 14593503622324243
+    m_Localized: '{GlobalKeywords.Arcana} {db.Arcana.ArcanaConfig_InfiniteCombo.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 14593503622324244
+    m_Localized: '{db.Arcana.ArcanaConfig_ChairGame.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 14593503622324245
+    m_Localized: Podmień {Achievement.Value:N0} kart(y).
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 14593503622324246
+    m_Localized: '{GlobalKeywords.Arcana} {db.Arcana.ArcanaConfig_ChairGame.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 14593503626518528
+    m_Localized: '{db.Arcana.ArcanaConfig_CrawlerBrawler.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 14593503626518529
+    m_Localized: Pokonaj Widmo Gallo jako Gallo w Lochach Gallo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503626518530
+    m_Localized: '{GlobalKeywords.Arcana} {db.Arcana.ArcanaConfig_CrawlerBrawler.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 14593503626518531
+    m_Localized: '{db.Arcana.ArcanaConfig_EbbAndCombo.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 14593503626518532
+    m_Localized: Uzyskaj combo wynoszące {Achievement.Value:N0} w {db.Dungeon.Dungeon_Soda_01.Name}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 14593503626518533
+    m_Localized: '{GlobalKeywords.Arcana} {db.Arcana.ArcanaConfig_EbbAndCombo.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 14603972793806848
+    m_Localized: Znajdź trumnę w Lochach Gallo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603972793806849
+    m_Localized: Zniszcz przedmioty {Achievement.Value:N0} razy w Lochach Gallo.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 14603972793806850
+    m_Localized: '{db.FCC.FCC_Ambrojoe.FirstName}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 14603972793806851
+    m_Localized: '{db.FCC.FCC_BigTroubler.FirstName}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 14603972793806852
+    m_Localized: Znajdź trumnę w {db.Dungeon.Dungeon_Soda_01.Name}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 14603972793806853
+    m_Localized: '{db.FCC.FCC_BigTroubler.FirstName}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 14603972793806854
+    m_Localized: Odkryj kartę {db.Cards.Card_A_4_SpiritDisturbance.Name}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 14603972793806855
+    m_Localized: Ulepsz kartę {db.Cards.Card_A_1_UnearthlyBolt.Name}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 15650607699275776
+    m_Localized: Moongolower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15650607741218816
+    m_Localized: Gorące krzesła
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15650607741218817
+    m_Localized: Raz na kolejkę, gdy żadna karta na ręku nie może kontynuować combo, aktywuj Podmiankę {Arcana.EffectValue.0:N0} razy.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 15650607741218818
+    m_Localized: Gdy żadna karta na ręku nie może kontynuować combo, aktywuj Podmiankę {Arcana.EffectValue.0:N0} razy.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 15650607741218819
+    m_Localized: Odblokuj {db.Dungeon.Dungeon_Madforest_01.Name}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 15650607741218820
+    m_Localized: Ukończ samouczek.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15650607741218821
+    m_Localized: '{db.Dungeon.Dungeon_Madforest_01.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 15650607741218822
+    m_Localized: Odblokuj {db.Cards.Card_E_Rosary.Name}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 15650607741218823
+    m_Localized: '{db.Cards.Card_E_Rosary.Name} dodany do lochów'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 15650607741218824
+    m_Localized: '{db.Cards.Card_E_Rosary.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 15665453325037568
+    m_Localized: '{db.Cards.Card_E_Orologion.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 15665453325037569
+    m_Localized: Odblokuj {Achievement.RewardName}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 15678690565238784
+    m_Localized: Pakiet klejnotów 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15678690611376128
+    m_Localized: Podstawowe klejnoty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15678690611376129
+    m_Localized: Klejnoty parametrów
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15678690611376130
+    m_Localized: Ukończ 2. piętro w Szalonym lesie.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377280
+    m_Localized: Nowe wzmocnienia dodane do sklepu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377281
+    m_Localized: Zagraj kartę {db.Cards.Card_D_0_Armor.Name} {Achievement.Value:N0} razy.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 15705243441377282
+    m_Localized: Zagraj kartę {db.Cards.Card_S_0_Candelabrador.Name} {Achievement.Value:N0} razy.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 15705243441377283
+    m_Localized: Sklepy z kurczakiem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377284
+    m_Localized: Wydarzenia Sklepu z kurczakiem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377285
+    m_Localized: Zagraj kartę {db.Cards.Card_S_1_Crown.Name} {Achievement.Value:N0} razy.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 15705243441377286
+    m_Localized: Zagraj kartę {db.Cards.Card_B_0_EmptyTome.Name} {Achievement.Value:N0} razy.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 15705243441377287
+    m_Localized: Zagraj kartę {db.Cards.Card_S_1_Duplicator.Name} {Achievement.Value:N0} razy.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 15705243441377288
+    m_Localized: Zagraj kartę {db.Cards.Card_S_1_HollowHeart.Name} {Achievement.Value:N0} razy.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 15705243441377289
+    m_Localized: Zagraj kartę {db.Cards.Card_S_1_Spinach.Name} {Achievement.Value:N0} razy.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 15705243441377290
+    m_Localized: Zagraj kartę {db.Cards.Card_S_1_Pummarola.Name} {Achievement.Value:N0} razy.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 15705243441377291
+    m_Localized: Kup wzmocnienie Zmiana.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377292
+    m_Localized: Zmiana dodana do lochów
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377293
+    m_Localized: Zmianę można znaleźć w źródłach światła
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377294
+    m_Localized: Stoły duplikacji
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377295
+    m_Localized: Wydarzenia Stołu duplikacji
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377296
+    m_Localized: Tajemnicze Lustra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377297
+    m_Localized: Wydarzenia Tajemniczych luster
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377298
+    m_Localized: Stół z Maną
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377299
+    m_Localized: Wydarzenia Stołu z Maną
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377300
+    m_Localized: Wydarzenia Najemnika
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377301
+    m_Localized: Wychodek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377302
+    m_Localized: Wydarzenia Wychodka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377303
+    m_Localized: Budka rekrutacyjna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377304
+    m_Localized: Wydarzenia Budki rekrutacyjnej
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377305
+    m_Localized: '{:color(Keyword):Odkrywca*}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 15705243441377306
+    m_Localized: Odkrywca ma więcej niż jedną umiejętność specjalną.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377307
+    m_Localized: '{:color(Keyword):Wielozadaniowiec}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 15705243441377308
+    m_Localized: '{:color(Keyword):Odkrywca 2}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 15713194147262464
+    m_Localized: Znajdź {Achievement.Value:N0} klejnoty(ów) w koralu do zniszczenia w biomie {db.Dungeon.Dungeon_Soda_01.Name}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 15713194185011200
+    m_Localized: Znajdź {Achievement.Value:N0} klejnoty(ów) w przedmiotach do zniszczenia w biomie {db.Dungeon.Dungeon_Soda_01.Name}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 17548054428069888
+    m_Localized: Zdobywaj ładunki Padliny po odrzuceniu dowolnej karty. Karty z Padliną wystrzeliwują dodatkowe pociski.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818624
+    m_Localized: Wystrzeliwuje dodatkowe pociski zależne od bieżącego licznika Padliny. Padlina rośnie z każdą odrzuconą kartą.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818625
+    m_Localized: Wystrzeliwuje dodatkowe pociski zależne od liczby odrzuconych kart.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818626
+    m_Localized: Kość udowa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818627
+    m_Localized: Kość udowa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818628
+    m_Localized: '{FccAction} po zdobyciu złota {TriggerType.Icon}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 17548054465818629
+    m_Localized: '{FccAction} po zdobyciu monet {TriggerType.Icon}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 17548054465818630
+    m_Localized: '{FccAction} przy zdobyciu monet {TriggerType.Icon}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 17548054465818631
+    m_Localized: '{FccAction} po dobraniu karty {TriggerType.Icon}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 17548054465818632
+    m_Localized: '{FccAction} po odrzuceniu karty {TriggerType.Icon}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 17548054465818633
+    m_Localized: '{:color(Keyword):Nasycenie}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 17548054465818634
+    m_Localized: Odrzuć kartę i dobierz nową.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17085329412534272
+    m_Localized: Gdy ostatnia karta kontynuuje combo, natychmiast dobierz nową rękę kart.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17085329433505792
+    m_Localized: Jeśli podczas combo zabraknie ci kart, dobierz więcej.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17085329433505793
+    m_Localized: Karta kosztuje ilość Many potrzebną, aby kontynuować combo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17118668927217664
+    m_Localized: '{:color(Keyword):{db.Cards.Card_E_CoinPurse.Name}}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 17466142275612672
+    m_Localized: '{:color(Keyword):Czas trwania}: efekt odkrywcy uruchamia się {FccDuration:p:raz|{:N0} razy}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 17466142313361408
+    m_Localized: Utwórz kartę z monetami
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17466142313361409
+    m_Localized: Spraw, że losowa karta tymczasowo stanie się darmowa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17466142313361410
+    m_Localized: Odrzuć {ActionValue:p:1 losową kartę|{:N0} losowe karty|{:N0} losowych kart} z ręki, a następnie dobierz {ActionValue:N0}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 17872157261377536
+    m_Localized: Karta aktywuje się po odrzuceniu.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17872157320097792
+    m_Localized: Karta aktywuje się po odrzuceniu. Ignoruje combo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17872157320097793
+    m_Localized: '{:color(Keyword):{db.Cards.Card_E_CoinCard.Name}}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 18287377737789440
+    m_Localized: Znajdź {Achievement.Value:N0} klejnoty(ów) w koralu do zniszczenia w biomie {db.Dungeon.Dungeon_Soda_01.Name} w jednej rozgrywce.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 18287377779732480
+    m_Localized: Znajdź {Achievement.Value:N0} klejnoty(ów) w przedmiotach do zniszczenia w biomie {db.Dungeon.Dungeon_Soda_01.Name} w jednej rozgrywce.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 18287377779732481
+    m_Localized: Wrzuć trochę monet, a może wygrasz nagrodę!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732482
+    m_Localized: Monety = ???
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732483
+    m_Localized: Wbiegnij, aby wrzucić monety.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732484
+    m_Localized: Hojni odkrywcy zostaną wynagrodzeni.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732485
+    m_Localized: Ale pech.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732486
+    m_Localized: Satysfakcjonujący chlust, ale nic poza tym...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732487
+    m_Localized: Chyba nic się nie wydarzy...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732488
+    m_Localized: Studnia życzeń
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732489
+    m_Localized: Zupełnie normalna studnia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732490
+    m_Localized: Studnia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732491
+    m_Localized: '{:color(Keyword):Tank}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 18287377779732492
+    m_Localized: '{:color(Keyword):Tank}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 18287377779732493
+    m_Localized: '{:color(Keyword):Goliat}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 18287377779732494
+    m_Localized: '{:color(Keyword):Tytan}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 18287377779732495
+    m_Localized: '{:color(Keyword):Pulpet}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 18287377779732496
+    m_Localized: '{:color(Keyword):Blob}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 18287377779732497
+    m_Localized: '{:color(Keyword):Mięsna kula}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 18287377779732498
+    m_Localized: '{:color(Keyword):Klops}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 18287377779732499
+    m_Localized: Obrażenia podstawowe rosną wraz z Maks. zdrowiem.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732500
+    m_Localized: Obrażenia rosną wraz z Maks. zdrowiem.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732501
+    m_Localized: Obrażenia zwiększają się wraz z Maks. zdrowiem.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732502
+    m_Localized: Obrażenia podstawowe to {GlobalKeywords.MaxHealth}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 18287377779732503
+    m_Localized: Obrażenia podstawowe rosną wraz z Maks. zdrowiem ({PLACEHOLDER.NUMBER:N0}).
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 18287377779732504
+    m_Localized: Obrażenia rosną wraz z Maks. zdrowiem ({PLACEHOLDER.NUMBER:N0}).
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 18287377779732505
+    m_Localized: Obrażenia zwiększają się wraz z Maks. zdrowiem ({PLACEHOLDER.NUMBER:N0}).
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 18287377779732506
+    m_Localized: Obrażenia podstawowe to {GlobalKeywords.MaxHealth} ({PLACEHOLDER.NUMBER:N0}).
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 18287377779732507
+    m_Localized: Obrażenia Ledy zwiększają się wraz z Maks. zdrowiem ({PLACEHOLDER.NUMBER:N0}).
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 18287377779732508
+    m_Localized: Obrażenia Ledy rosną wraz z Maks. zdrowiem ({PLACEHOLDER.NUMBER:N0}).
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 19623048922476544
+    m_Localized: Zadawaj
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19994491061481472
+    m_Localized: Zadawaj obrażenia zależne od Maks. zdrowia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19994491107618816
+    m_Localized: Zadawaj obrażenia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19994491107618817
+    m_Localized: Zadawaj obrażenia zależne od Maks. zdrowia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23211258547351552
+    m_Localized: Zwiększa liczbę rozdawanych kart i kart na ręku o {0:combo:}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 25292387018420224
+    m_Localized: '{:color(Keyword):Zmęczenie}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 25292387039391744
+    m_Localized: Koszt aktywacji umiejętności odkrywcy rośnie z każdą aktywacją.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25773564396253184
+    m_Localized: Rozmiar ręki ograniczony
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820091674624
+    m_Localized: Limit rozmiaru ręki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006272
+    m_Localized: Kula mięcha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006273
+    m_Localized: Podejrzane mięso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006274
+    m_Localized: Rupiecie z lochu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006275
+    m_Localized: Cegła
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006276
+    m_Localized: Koło udręki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006277
+    m_Localized: Mroczny rumag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006278
+    m_Localized: Galleggiamorte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006279
+    m_Localized: Ammazzagente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006280
+    m_Localized: Mokradło
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33744845264052224
+    m_Localized: Odrzuć {Plural:p:{0:combo:} kartę|{0:combo:} karty|{0:combo:} kart}. Utwórz monetę za każdą odrzuconą kartę
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 34335007136210944
+    m_Localized: Odrzuć {Plural:p:{ActionValue:N0} kartę|{ActionValue:N0} karty|{ActionValue:N0} kart}. Utwórz monetę za każdą odrzuconą kartę
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 34335007102656512
+    m_Localized: Odrzuć {Plural:p:{0:combo:} kartę|{0:combo:} karty|{0:combo:} kart}. Utwórz monetę za każdą odrzuconą kartę
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223370
+  - m_Id: 35492381125435392
+    m_Localized: Karty odkrywcy zyskują dodatkowy losowy wyzwalacz po zagraniu. Odkrywcy są zmęczeni.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 193345922286223370
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        m_SharedEntries:
+        - id: 14603972760252416
+        - id: 5085614268473344
+        - id: 5424281531043840
+        - id: 5424281531043841
+        - id: 7251841128587264
+        - id: 7700284548571136
+        - id: 7702454513688576
+        - id: 9476304997965824
+        - id: 10178850515312640
+        - id: 10178850624364544
+        - id: 10178850624364545
+        - id: 10620020227825664
+        - id: 10620020278157312
+        - id: 12369242002284548
+        - id: 12369242002284549
+        - id: 12373404911919104
+        - id: 12373404953862145
+        - id: 12373404953862147
+        - id: 13087326673514501
+        - id: 13183508871589888
+        - id: 13183508900950016
+        - id: 13183508900950017
+        - id: 13183508900950018
+        - id: 13183508900950019
+        - id: 13183508905144320
+        - id: 13183508905144321
+        - id: 13183508905144322
+        - id: 13183508905144323
+        - id: 13183508905144324
+        - id: 14560062499446784
+        - id: 14560062533001216
+        - id: 14593503622324226
+        - id: 14593503622324227
+        - id: 14593503622324229
+        - id: 14593503622324230
+        - id: 14593503622324232
+        - id: 14593503622324233
+        - id: 14593503622324241
+        - id: 14593503622324242
+        - id: 14593503622324243
+        - id: 14593503622324244
+        - id: 14593503622324245
+        - id: 14593503622324246
+        - id: 14593503626518528
+        - id: 14593503626518530
+        - id: 14593503626518531
+        - id: 14593503626518532
+        - id: 14593503626518533
+        - id: 14603972793806849
+        - id: 14603972793806850
+        - id: 14603972793806851
+        - id: 14603972793806852
+        - id: 14603972793806853
+        - id: 14603972793806854
+        - id: 14603972793806855
+        - id: 15650607741218817
+        - id: 15650607741218818
+        - id: 15650607741218819
+        - id: 15650607741218821
+        - id: 15650607741218822
+        - id: 15650607741218823
+        - id: 15650607741218824
+        - id: 15665453325037568
+        - id: 15665453325037569
+        - id: 15705243441377281
+        - id: 15705243441377282
+        - id: 15705243441377285
+        - id: 15705243441377286
+        - id: 15705243441377287
+        - id: 15705243441377288
+        - id: 15705243441377289
+        - id: 15705243441377290
+        - id: 15705243441377305
+        - id: 15705243441377307
+        - id: 15705243441377308
+        - id: 15713194147262464
+        - id: 15713194185011200
+        - id: 17548054465818628
+        - id: 17548054465818629
+        - id: 17548054465818630
+        - id: 17548054465818631
+        - id: 17548054465818632
+        - id: 17548054465818633
+        - id: 17118668927217664
+        - id: 17466142275612672
+        - id: 17466142313361410
+        - id: 17872157320097793
+        - id: 18287377737789440
+        - id: 18287377779732480
+        - id: 18287377779732491
+        - id: 18287377779732492
+        - id: 18287377779732493
+        - id: 18287377779732494
+        - id: 18287377779732495
+        - id: 18287377779732496
+        - id: 18287377779732497
+        - id: 18287377779732498
+        - id: 18287377779732502
+        - id: 18287377779732503
+        - id: 18287377779732504
+        - id: 18287377779732505
+        - id: 18287377779732506
+        - id: 18287377779732507
+        - id: 18287377779732508
+        - id: 23211258547351552
+        - id: 25292387018420224
+        - id: 33744845264052224
+        - id: 34335007136210944
+        - id: 34335007102656512
+

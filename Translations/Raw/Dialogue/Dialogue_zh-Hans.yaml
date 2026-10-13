@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Dialogue_zh-Hans
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: zh-Hans
+  m_SharedData: {fileID: 11400000, guid: 554ff93728483c649a696a71169ada09, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 31543236964352
+    m_Localized: 你好，探索者，你是我在漫长岁月里等到的第一位来客！
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518784
+    m_Localized: 昇月城商店暂未开放，但我决定把这件神器送给你，作为找到我的奖励。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518785
+    m_Localized: 如果你是为寻吸血鬼而来，那恐怕要失望了，不过请收下这件神器，作为找到我的奖励。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518786
+    m_Localized: 吹响这个特殊的号角，即可在地下城中开启无尽循环……就这么简单，懂了吗？！
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518787
+    m_Localized: 又是你？我可不想收回那个号角……
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518788
+    m_Localized: 我从来就不怎么擅长，而且这里的咸水那么多，保养它很费功夫的。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518789
+    m_Localized: 你来得太迟了，我已经把我最珍贵的神器送出去了。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518790
+    m_Localized: 噢！我的老号角！我应该……很想再把它握在手中，最后一次。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518791
+    m_Localized: 它会感到孤独的，待在这海底之中。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518792
+    m_Localized: 我最怀念的东西是绿茶……以前总是端着小小的瓷杯啜饮。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518793
+    m_Localized: 我是很久以前下来的，为了寻找吸血鬼……
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518794
+    m_Localized: 我开始觉得，他可能在另一个棺材里。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495296
+    m_Localized: 我父亲是个木匠，但他也教了我美妙的音乐。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495297
+    m_Localized: 我的老号角是挺酷的，但我曾经梦想着买个合成器！
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495298
+    m_Localized: 等等……我在说什么？合成器是什么？
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495299
+    m_Localized: 你回来了！外面的世界有什么新闻啊？
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495300
+    m_Localized: 空中大教堂？？他们接下来还要干嘛……
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495301
+    m_Localized: 魔法……最黑暗的魔法。我的灵魂在其中徜徉……散落于时光之中，受困于无形之界……
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495302
+    m_Localized: 噢，是你啊，抱歉，我刚刚在练习台词。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495303
+    m_Localized: 当地动山摇、毒箭天降、天柱摇晃之时，你会怎么做？
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495304
+    m_Localized: 我在这下面大概挺安全的，所以没什么好担心的。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495305
+    m_Localized: 又是你？我不明白你还要下来做什么……
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495306
+    m_Localized: 除非……
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495307
+    m_Localized: 你只是想来见我？
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495308
+    m_Localized: 你回到这里，仿佛我还有别的东西要给你似的……
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495309
+    m_Localized: 有人总是打破我的花盆……
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495310
+    m_Localized: 如果你看到是谁干的，麻烦告诉我！
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495311
+    m_Localized: 你好，探索者，想必你的冒险之旅收获颇丰吧？
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495312
+    m_Localized: 不必担心我……我是个幸存者。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495313
+    m_Localized: 啊，第七号角的持有者回来嘲讽它的前主人了……
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495314
+    m_Localized: 我感觉有点忧郁，但那又如何？
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
+

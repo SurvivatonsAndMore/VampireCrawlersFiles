@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Dialogue_fr
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 554ff93728483c649a696a71169ada09, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 31543236964352
+    m_Localized: Salutations, explorateur. Vous êtes la première personne à nous rendre visite depuis bien longtemps !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518784
+    m_Localized: La boutique Clair de lune n'est pas encore ouverte, mais je vous offre cette relique comme récompense pour m'avoir trouvé.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518785
+    m_Localized: Si vous cherchiez le vampire, la déception vous attend, mais veuillez accepter cette relique pour m'avoir trouvé.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518786
+    m_Localized: Un seul coup dans cette trompette spéciale vous permettra d'errer sans fin dans les donjons… C'est aussi simple que ça, vous avez compris ?!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518787
+    m_Localized: Encore vous ? Je n'ai aucune envie de récupérer cette trompette, vous savez…
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518788
+    m_Localized: Je n'ai jamais été très doué pour en jouer, et il m'a fallu beaucoup d'efforts pour la maintenir en état avec toute cette eau salée.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518789
+    m_Localized: Vous arrivez trop tard, je me suis déjà séparé de ma relique la plus précieuse.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518790
+    m_Localized: Oh ! Ma vieille trompette ! J'aimerais… vraiment la tenir dans mes mains, une dernière fois.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518791
+    m_Localized: On peut se sentir seul parfois, ici, sous la mer.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518792
+    m_Localized: Ce qui me manque le plus, c'est le thé vert… J'avais l'habitude d'en boire dans des petites tasses en porcelaine.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518793
+    m_Localized: Je suis venu ici il y a bien longtemps, à la recherche du vampire…
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518794
+    m_Localized: Je commence à penser qu'il se trouve dans un autre cercueil.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495296
+    m_Localized: Mon père était charpentier, mais il m'a également fait découvrir la beauté de la musique.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495297
+    m_Localized: Mon ancienne trompette est superbe, mais j'ai toujours rêvé d'acheter un synthétiseur !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495298
+    m_Localized: Attendez… De quoi suis-je en train de parler ? Qu'est-ce qu'un synthétiseur ?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495299
+    m_Localized: Vous êtes là ! Quoi de nouveau, au-dessus de l'eau ?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495300
+    m_Localized: Une cathédrale dans le ciel ??? Qu'est-ce qu'on inventera ensuite…
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495301
+    m_Localized: La magie… La plus noire des magies. Mon âme sombre dans la magie… Elle est éparpillée dans le temps, prise au piège dans l'univers de l'informe…
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495302
+    m_Localized: Oh, c'est vous ? Désolé, je répétais quelques répliques.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495303
+    m_Localized: Que ferez-vous lorsque la terre flanchera, qu’il pleuvra des flèches empoisonnées, et que les piliers des cieux se mettront à trembler ?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495304
+    m_Localized: Je serais sûrement en sécurité ici-bas, donc je ne m'en inquiète pas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495305
+    m_Localized: Encore vous ? Je ne comprends pas ce qui vous fait constamment revenir…
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495306
+    m_Localized: Ou bien…
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495307
+    m_Localized: Vous aimez simplement ma compagnie ?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495308
+    m_Localized: Vous revenez comme si j'avais quelque chose d'autre à offrir…
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495309
+    m_Localized: Quelqu'un n'arrête pas de casser mes pots…
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495310
+    m_Localized: Si vous trouvez le responsable, faites-le-moi savoir !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495311
+    m_Localized: Salutations, explorateur. J'espère que vos aventures ont été fructueuses ?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495312
+    m_Localized: Ne vous en faites pas pour moi… Je suis un survivant.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495313
+    m_Localized: Ah… Le détenteur de la septième trompette revient pour narguer son ancien maître…
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495314
+    m_Localized: Je suis un peu mélancolique, et alors ?
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
+

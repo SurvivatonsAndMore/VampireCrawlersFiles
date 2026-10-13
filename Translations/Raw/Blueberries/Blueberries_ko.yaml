@@ -1,0 +1,1252 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Blueberries_ko
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: ko
+  m_SharedData: {fileID: 11400000, guid: 9f007cf6483f831498f17fb571079813, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 193345922286223366
+  m_TableData:
+  - m_Id: 14603972760252416
+    m_Localized: '{db.FCC.FCC_Ambrojoe.FirstName}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 2284044935168
+    m_Localized: 라 로바
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2284095266816
+    m_Localized: 가구를 던집니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2188433052086272
+    m_Localized: 크롤러 소동러
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2188433089835008
+    m_Localized: '{GlobalKeywords.Crawler} 카드를 플레이할 때 추가로 무작위 색상 트리거를 하나 얻습니다.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 2188433089835009
+    m_Localized: '{GlobalKeywords.Crawler} 카드를 플레이할 때 추가로 무작위 색상 트리거를 하나 얻습니다.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 4416592655011840
+    m_Localized: 무한 콤보
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4416592684371968
+    m_Localized: 마지막 카드를 사용해 콤보가 이어지면 새 패를 뽑습니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4416592684371969
+    m_Localized: 마지막 카드를 사용해 콤보가 이어지면 새 패를 뽑습니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5085614268473344
+    m_Localized: '{GlobalKeywords.Hand}에서 {Count:p:카드 1장|카드 {:N0}장} 버리기'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 5424281531043840
+    m_Localized: '{:color(Keyword):스위치}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 5424281531043841
+    m_Localized: '{GlobalKeywords.Hand}에서 {ActionValue:p:카드 1장을 무작위로|카드 {:N0}장을 무작위로} 버리고, {ActionValue:N0}장을 뽑습니다.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 7251841128587264
+    m_Localized: '{:color(Keyword):적응성}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 7251841162141696
+    m_Localized: 이 카드로 콤보를 이어가려면 적절한 비용을 지불해야 합니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7604875813707776
+    m_Localized: 이 카드에 적응성을 부여합니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7634092110635008
+    m_Localized: 손패 수 제한
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7700284548571136
+    m_Localized: '{effectString:disabled:}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 7702454513688576
+    m_Localized: '{:color(Keyword):사후}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 7702454547243008
+    m_Localized: 버릴 때 이 카드의 평소 효과가 발동합니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7963983708413952
+    m_Localized: 카드를 버릴 때 효과가 발동합니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7967692785967104
+    m_Localized: 사후
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7967692815327232
+    m_Localized: 적응력
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8024049274839040
+    m_Localized: 싱크 마개
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8024049308393472
+    m_Localized: 전투에서 익사자의 등장을 막습니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8024049308393473
+    m_Localized: 전투에서 익사자의 등장을 지연시킵니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476304997965824
+    m_Localized: '{:color(Keyword):회수}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 9476305031520256
+    m_Localized: 카드 한 장이 버려질 때마다 회수를 1 얻습니다. 회수 카드는 회수 수만큼 투사체를 추가로 발사합니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476305031520257
+    m_Localized: 저세상 번개
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476305031520258
+    m_Localized: 치명타가 폭발할 수 있습니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476305031520259
+    m_Localized: 영적 교란
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476305031520260
+    m_Localized: 진화한 저세상 번개.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9928406866014208
+    m_Localized: 떠다니는 대퇴골
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9928406907957248
+    m_Localized: 코인
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10178850515312640
+    m_Localized: 카드가 뽑힐 때 {FccAction}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 10178850624364544
+    m_Localized: 골드 {TriggerType.Icon}를 획득할 때 {FccAction}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 10178850624364545
+    m_Localized: 카드가 버려질 때{TriggerType.Icon} {FccAction}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 10333246305808384
+    m_Localized: 달빛 하이
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10333246343557120
+    m_Localized: 가장 신비한 심연, 기묘한 물이 머무는 곳에서 흠뻑 젖은 모험가들이 한바탕 소란을 피울지도 모릅니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10333246343557121
+    m_Localized: 더 깊은 곳, 달빛이 드물게 머무는 곳에서는 절박한 약탈자들이 움직이는 것이라면 어떤 것에도 모여듭니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10620020227825664
+    m_Localized: '{:color(Keyword):효과 부여}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 10620020278157312
+    m_Localized: '{CardType.Icon} 카드 한 장에 무작위로 {CardEffect.KeywordName}을 부여합니다'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 12369241960341504
+    m_Localized: 크롤러 카드를 사용하면 추가로 카드 유형이 무작위로 선택되어 발동이 하나 붙습니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284544
+    m_Localized: 크롤러 카드는 사용 시 무작위 발동 1회를 추가로 얻습니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284545
+    m_Localized: 너? 제 말은... 저요!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284546
+    m_Localized: 저, 저, 저, 저, 저라고요..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284547
+    m_Localized: 확실히 이건 바닷속의 어떤 마법 같은 거겠죠?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284548
+    m_Localized: '{db.Dungeon.Dungeon_Soda_01.Name} 잠금 해제'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 12369242002284549
+    m_Localized: '{db.Dungeon.Dungeon_Soda_02.Name} 잠금 해제'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 12369242002284550
+    m_Localized: (사용될 가능성은 낮지만 만약을 대비해 할당되어야 합니다)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284551
+    m_Localized: 카드 한 장을 무작위로 선택하여 일시적 무료로 만듭니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12373404911919104
+    m_Localized: '{:color(Keyword):튕김}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 12373404953862144
+    m_Localized: 추가 대상에게 튕겨나갈 확률입니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12373404953862145
+    m_Localized: '{:color(Keyword):치명타 폭발}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 12373404953862146
+    m_Localized: 치명타 시 폭발하여 주변의 적들에게 피해를 입힙니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12373404953862147
+    m_Localized: '{:color(Keyword):포효}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 12373404953862148
+    m_Localized: 범위 피해는 치명타를 발동할 수 있습니다. 범위 피해는 확산될수록  증가합니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940801093632
+    m_Localized: PLACEHOLDER<br>트러블러 소개
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259456
+    m_Localized: PLACEHOLDER<br>트라우저 소개
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259457
+    m_Localized: 스위치
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259458
+    m_Localized: 카드를 버리고 새 카드를 뽑습니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259459
+    m_Localized: 회수
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259460
+    m_Localized: 버린 카드에 따라 투사체를 추가로 발사합니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259461
+    m_Localized: 마나
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259462
+    m_Localized: 마나를 획득합니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13087326673514497
+    m_Localized: 갈로 던전
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13087326673514498
+    m_Localized: 마법사의 탑 아래에는 미지의 미로가 펼쳐져 있습니다. 실패한 실험과 부끄러운 비밀로 가득하죠. 분명 이곳 어딘가에 멋진 외투가 담긴 상자도 하나 있었을 텐데요.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13087326673514499
+    m_Localized: 썰물과 콤보
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13087326673514500
+    m_Localized: 카드 한 장을 버릴 때 {GlobalKeywords.Combo}가 증가할 확률이 있습니다.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 13087326673514501
+    m_Localized: 카드 한 장을 버릴 때 {Arcana.EffectValue.0:N0}% 확률로 {GlobalKeywords.Combo}가 증가합니다.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 13087326673514502
+    m_Localized: (사용하지 않음)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13091003727556608
+    m_Localized: 달빛 해구
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13108134305280000
+    m_Localized: 레다
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13108134305280001
+    m_Localized: 레다
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13108134305280002
+    m_Localized: (아직 사용되지 않음)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13183508871589888
+    m_Localized: '{db.Dungeon.Dungeon_GalloBelow_01.Name} 잠금 해제'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 13183508900950016
+    m_Localized: '{db.Dungeon.Dungeon_Soda_01.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 13183508900950017
+    m_Localized: '{db.Dungeon.Dungeon_Soda_02.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 13183508900950018
+    m_Localized: '{db.Dungeon.Dungeon_GalloBelow_01.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 13183508900950019
+    m_Localized: '{db.relic.RelicConfig_Tappo.Name} 잠금 해제'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 13183508905144320
+    m_Localized: '{db.relic.RelicConfig_Tappo.Name} {GlobalKeywords.Relic}을 찾으세요.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 13183508905144321
+    m_Localized: '{db.relic.RelicConfig_Tappo.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 13183508905144322
+    m_Localized: '{db.relic.RelicConfig_GalileosHand.Name} 잠금 해제'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 13183508905144323
+    m_Localized: '{db.relic.RelicConfig_GalileosHand.Name} {GlobalKeywords.Relic}을 찾으세요.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 13183508905144324
+    m_Localized: '{db.relic.RelicConfig_GalileosHand.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 14537641012703232
+    m_Localized: 갈릴레오의 손
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537641063034880
+    m_Localized: 세계 지도에 '손패 수 제한' 버튼을 추가합니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14560062499446784
+    m_Localized: '{db.Dungeon.Dungeon_Moongolow_teaser.Name} 잠금 해제'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 14560062533001216
+    m_Localized: '{db.Dungeon.Dungeon_Moongolow_teaser.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 14560062533001217
+    m_Localized: 종결자를 물리치세요.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14560062533001218
+    m_Localized: 일반 모드를 완료하세요.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503580381184
+    m_Localized: '{db.Gems.GemConfig_SetCostType_Adaptability.Name} {GlobalKeywords.Gem}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 14593503622324224
+    m_Localized: 익사자를 물리치세요.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503622324225
+    m_Localized: '{db.Dungeon.Dungeon_GalloBelow_01.Name}에서 익사자를 물리치세요.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 14593503622324226
+    m_Localized: '{db.Gems.GemConfig_Switch.Name} {GlobalKeywords.Gem}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 14593503622324227
+    m_Localized: '{db.Dungeon.Dungeon_Soda_01.Name} 생물군계에서 {db.Gems.GemConfig_Switch.Name} {GlobalKeywords.Gem}를 찾으세요.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 14593503622324228
+    m_Localized: '{db.Gems.GemConfig_Switch.Name} {GlobalKeywords.Gem}를 찾으세요.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 14593503622324229
+    m_Localized: '{db.Gems.GemConfig_Afterlife.Name} {GlobalKeywords.Gem}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 14593503622324230
+    m_Localized: '{db.Dungeon.Dungeon_Soda_01.Name}에서 {db.Gems.GemConfig_Afterlife.Name} {GlobalKeywords.Gem}를 찾으세요.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 14593503622324231
+    m_Localized: '{db.Gems.GemConfig_Afterlife.Name} {GlobalKeywords.Gem}를 찾으세요.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 14593503622324232
+    m_Localized: '{db.Gems.GemConfig_Scavenge.Name} {GlobalKeywords.Gem}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 14593503622324233
+    m_Localized: '{db.Dungeon.Dungeon_Soda_01.Name}에서 {db.Gems.GemConfig_Scavenge.Name} {GlobalKeywords.Gem}를 찾으세요.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 14593503622324234
+    m_Localized: '{db.Gems.GemConfig_Scavenge.Name} {GlobalKeywords.Gem}를 찾으세요.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 14593503622324241
+    m_Localized: '{db.Arcana.ArcanaConfig_InfiniteCombo.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 14593503622324242
+    m_Localized: '{Achievement.Value:N0}번의 턴을 손에 카드가 없는 상태로 마치세요.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 14593503622324243
+    m_Localized: '{db.Arcana.ArcanaConfig_InfiniteCombo.Name} {GlobalKeywords.Arcana}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 14593503622324244
+    m_Localized: '{db.Arcana.ArcanaConfig_ChairGame.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 14593503622324245
+    m_Localized: 카드를 {Achievement.Value:N0}장 교체하세요.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 14593503622324246
+    m_Localized: '{db.Arcana.ArcanaConfig_ChairGame.Name} {GlobalKeywords.Arcana}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 14593503626518528
+    m_Localized: '{db.Arcana.ArcanaConfig_CrawlerBrawler.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 14593503626518529
+    m_Localized: '{db.Dungeon.Dungeon_GalloBelow_01.Name}에서 Gallo로 스펙트럴 갈로를 물리치세요.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 14593503626518530
+    m_Localized: '{db.Arcana.ArcanaConfig_CrawlerBrawler.Name} {GlobalKeywords.Arcana}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 14593503626518531
+    m_Localized: '{db.Arcana.ArcanaConfig_EbbAndCombo.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 14593503626518532
+    m_Localized: '{db.Dungeon.Dungeon_Soda_01.Name}에서 콤보 {Achievement.Value:N0}를 달성하세요.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 14593503626518533
+    m_Localized: '{db.Arcana.ArcanaConfig_EbbAndCombo.Name} {GlobalKeywords.Arcana}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 14603972793806848
+    m_Localized: '{db.Dungeon.Dungeon_GalloBelow_01.Name}에서 {GlobalKeywords.Coffin}을 찾으세요.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 14603972793806849
+    m_Localized: '{db.Dungeon.Dungeon_GalloBelow_01.Name}에서 파괴 가능한 오브젝트 {Achievement.Value:N0}개를 파괴하세요.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 14603972793806850
+    m_Localized: '{db.FCC.FCC_Ambrojoe.FirstName}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 14603972793806851
+    m_Localized: '{db.FCC.FCC_BigTroubler.FirstName}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 14603972793806852
+    m_Localized: '{db.Dungeon.Dungeon_Soda_01.Name}에서 {GlobalKeywords.Coffin}을 찾으세요.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 14603972793806853
+    m_Localized: '{db.FCC.FCC_BigTroubler.FirstName}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 14603972793806854
+    m_Localized: '{db.Cards.Card_A_4_SpiritDisturbance.Name}을 발견하세요'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 14603972793806855
+    m_Localized: '{db.Cards.Card_A_1_UnearthlyBolt.Name}를 진화시키세요.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 15650607699275776
+    m_Localized: 달빛촤라라
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15650607741218816
+    m_Localized: 의자 뺏기
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15650607741218817
+    m_Localized: 턴당 한 번, {GlobalKeywords.Hand}에 있는 카드로 {GlobalKeywords.Combo}를 이어갈 수 없을 때 스위치 {Arcana.EffectValue.0:N0}를 활성화합니다.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 15650607741218818
+    m_Localized: '{GlobalKeywords.Hand}에 있는 카드로 {GlobalKeywords.Combo}를 이어갈 수 없을 때 스위치 {Arcana.EffectValue.0:N0}를 활성화합니다.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 15650607741218819
+    m_Localized: '{db.Dungeon.Dungeon_Madforest_01.Name} 잠금 해제'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 15650607741218820
+    m_Localized: 튜토리얼을 완료하세요.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15650607741218821
+    m_Localized: '{db.Dungeon.Dungeon_Madforest_01.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 15650607741218822
+    m_Localized: '잠금 해제: {db.Cards.Card_E_Rosary.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 15650607741218823
+    m_Localized: 던전에 {db.Cards.Card_E_Rosary.Name}가 추가되었습니다.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 15650607741218824
+    m_Localized: '{db.Cards.Card_E_Rosary.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 15665453325037568
+    m_Localized: '{db.Cards.Card_E_Orologion.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 15665453325037569
+    m_Localized: '잠금 해제: {Achievement.RewardName}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 15678690565238784
+    m_Localized: 보석 팩 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15678690611376128
+    m_Localized: 기본 보석
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15678690611376129
+    m_Localized: 능력치 보석
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15678690611376130
+    m_Localized: 광기의 숲 2층을 완료하세요.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377280
+    m_Localized: 상점에 새로운 파워업이 추가되었습니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377281
+    m_Localized: '{db.Cards.Card_D_0_Armor.Name} 카드를 {Achievement.Value:N0}번 플레이하세요.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 15705243441377282
+    m_Localized: '{db.Cards.Card_S_0_Candelabrador.Name} 카드를 {Achievement.Value:N0}번 플레이하세요.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 15705243441377283
+    m_Localized: 치킨 상점
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377284
+    m_Localized: 치킨 상점 이벤트
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377285
+    m_Localized: '{db.Cards.Card_S_1_Crown.Name} 카드를 {Achievement.Value:N0}번 플레이하세요.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 15705243441377286
+    m_Localized: '{db.Cards.Card_B_0_EmptyTome.Name} 카드를 {Achievement.Value:N0}번 플레이하세요.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 15705243441377287
+    m_Localized: '{db.Cards.Card_S_1_Duplicator.Name} 카드를 {Achievement.Value:N0}번 플레이하세요.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 15705243441377288
+    m_Localized: '{db.Cards.Card_S_1_HollowHeart.Name} 카드를 {Achievement.Value:N0}번 플레이하세요.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 15705243441377289
+    m_Localized: '{db.Cards.Card_S_1_Spinach.Name} 카드를 {Achievement.Value:N0}번 플레이하세요.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 15705243441377290
+    m_Localized: '{db.Cards.Card_S_1_Pummarola.Name} 카드를 {Achievement.Value:N0}번 플레이하세요.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 15705243441377291
+    m_Localized: 재굴림 파워업을 구매하세요.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377292
+    m_Localized: 던전에 재굴림 추가
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377293
+    m_Localized: 광원에서 재굴림을 찾을 수 있습니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377294
+    m_Localized: 복제 작업대
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377295
+    m_Localized: 작업대 이벤트 복제
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377296
+    m_Localized: 신비의 거울
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377297
+    m_Localized: 신비의 거울 이벤트
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377298
+    m_Localized: 마나 봉헌대
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377299
+    m_Localized: 마나 봉헌대 이벤트
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377300
+    m_Localized: 용병 총잡이 이벤트
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377301
+    m_Localized: 변소
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377302
+    m_Localized: 변소 이벤트
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377303
+    m_Localized: 모집 부스
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377304
+    m_Localized: 모집 부스 이벤트
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377305
+    m_Localized: '{:color(Keyword):크롤러*}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 15705243441377306
+    m_Localized: 크롤러가 둘 이상의 트리거 능력을 가집니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377307
+    m_Localized: '{:color(Keyword):멀티태스커}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 15705243441377308
+    m_Localized: '{:color(Keyword):크롤러 2}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 15713194147262464
+    m_Localized: '{db.Dungeon.Dungeon_Soda_01.Name}의 깨지는 산호에서 보석 {Achievement.Value:N0}개를 찾으세요.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 15713194185011200
+    m_Localized: '{db.Dungeon.Dungeon_Soda_01.Name}의 파괴 가능한 오브젝트에서 보석 {Achievement.Value:N0}개를 찾으세요.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 17548054428069888
+    m_Localized: 카드가 버려질 때 회수 충전을 획득합니다. 회수 카드는 발사체를 추가로 발사합니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818624
+    m_Localized: 현재 회수 카운터에 따라 투사체를 추가로 발사합니다. 회수는 카드를 버릴 때 증가합니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818625
+    m_Localized: 버린 카드 수에 따라 추가 투사체를 발사합니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818626
+    m_Localized: 정강이 부목
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818627
+    m_Localized: 단단한 뼈
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818628
+    m_Localized: 골드를 {TriggerType.Icon} 획득할 때 {FccAction}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 17548054465818629
+    m_Localized: 코인을 {TriggerType.Icon} 획득할 때 {FccAction}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 17548054465818630
+    m_Localized: 코인을 {TriggerType.Icon} 획득하면 {FccAction}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 17548054465818631
+    m_Localized: 카드를 {TriggerType.Icon} 뽑을 때 {FccAction}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 17548054465818632
+    m_Localized: '{TriggerType.Icon} 버릴 때 {FccAction}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 17548054465818633
+    m_Localized: '{:color(Keyword):주입}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 17548054465818634
+    m_Localized: 카드 1장을 버리고 새 카드를 1장 뽑습니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17085329412534272
+    m_Localized: 마지막 카드를 사용해 콤보가 이어지면 새로운 패를 뽑습니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17085329433505792
+    m_Localized: 콤보 중에 카드가 떨어지면 새로운 패를 뽑습니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17085329433505793
+    m_Localized: 카드로 콤보를 이어가려면 적절한 비용을 지불해야 합니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17118668927217664
+    m_Localized: '{:color(Keyword):{db.Cards.Card_E_CoinPurse.Name}}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 17466142275612672
+    m_Localized: '{:color(Keyword): 지속 시간}: {:color(Keyword):크롤러}효과가 {FccDuration:p:1회|{:N0}회} 발동됩니다.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 17466142313361408
+    m_Localized: 코인 카드를 생성합니다
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17466142313361409
+    m_Localized: 카드 한 장을 무작위로 선택하여 일시적 무료로 만듭니다
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17466142313361410
+    m_Localized: '{GlobalKeywords.Hand}에서 {ActionValue:p:카드 1장을 무작위로|카드 {:N0}장을 무작위로} 버리고, {ActionValue:N0}장을 뽑습니다'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 17872157261377536
+    m_Localized: 버릴 때 이 카드의 평소 효과가 발동됩니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17872157320097792
+    m_Localized: 버릴 때 이 카드의 평소 효과가 발동됩니다. 콤보를 무시합니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17872157320097793
+    m_Localized: '{:color(Keyword):{db.Cards.Card_E_CoinCard.Name}}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 18287377737789440
+    m_Localized: 한 번의 플레이에서 {db.Dungeon.Dungeon_Soda_01.Name} 생물군계에 있으며 파괴 가능한 산호에서 보석 {Achievement.Value:N0}개를 찾으세요.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 18287377779732480
+    m_Localized: 한 번의 플레이에서 {db.Dungeon.Dungeon_Soda_01.Name} 생물군계에 있으며 파괴 가능한 오브젝트에서 보석 {Achievement.Value:N0}개를 찾으세요.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 18287377779732481
+    m_Localized: 동전을 넣으면 상품이 나올지도 몰라요!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732482
+    m_Localized: 동전 = ???
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732483
+    m_Localized: 부딪혀 동전을 던지세요.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732484
+    m_Localized: 관대한 크롤러는 보상을 받습니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732485
+    m_Localized: 운이 없네요.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732486
+    m_Localized: 만족스러운 첨벙 소리일 뿐, 다른 일은 일어나지 않는 것 같습니다...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732487
+    m_Localized: 아무 일도 일어나지 않는 것 같습니다...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732488
+    m_Localized: 소원 우물
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732489
+    m_Localized: 정말 평범한 우물
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732490
+    m_Localized: 우물
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732491
+    m_Localized: '{:color(Keyword):탱커형}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 18287377779732492
+    m_Localized: '{:color(Keyword):탱커}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 18287377779732493
+    m_Localized: '{:color(Keyword):골리앗}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 18287377779732494
+    m_Localized: '{:color(Keyword):타이탄}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 18287377779732495
+    m_Localized: '{:color(Keyword):고기주머니}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 18287377779732496
+    m_Localized: '{:color(Keyword):블롭}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 18287377779732497
+    m_Localized: '{:color(Keyword):살덩어리}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 18287377779732498
+    m_Localized: '{:color(Keyword):미트볼}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 18287377779732499
+    m_Localized: 기본 피해량이 {GlobalKeywords.MaxHealth}에 따라 증가합니다.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 18287377779732500
+    m_Localized: 피해량이 {GlobalKeywords.MaxHealth}에 비례해 증가합니다.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 18287377779732501
+    m_Localized: 피해량이 {GlobalKeywords.MaxHealth}에 따라 증가합니다.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 18287377779732502
+    m_Localized: 기본 피해량이 {GlobalKeywords.MaxHealth}입니다.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 18287377779732503
+    m_Localized: 기본 피해량이 {GlobalKeywords.MaxHealth} ({PLACEHOLDER.NUMBER:N0})에 비례해 증가합니다.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 18287377779732504
+    m_Localized: 피해량이 {GlobalKeywords.MaxHealth} ({PLACEHOLDER.NUMBER:N0})에 비례해 증가합니다.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 18287377779732505
+    m_Localized: 피해량이 {GlobalKeywords.MaxHealth} ({PLACEHOLDER.NUMBER:N0})에 따라 증가합니다.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 18287377779732506
+    m_Localized: 기본 피해량이 {GlobalKeywords.MaxHealth} ({PLACEHOLDER.NUMBER:N0})입니다.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 18287377779732507
+    m_Localized: 레다의 피해량이 {GlobalKeywords.MaxHealth} ({PLACEHOLDER.NUMBER:N0})에 따라 증가합니다.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 18287377779732508
+    m_Localized: 레다의 피해량이 {GlobalKeywords.MaxHealth} ({PLACEHOLDER.NUMBER:N0})에 비례해 증가합니다.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 19994491061481472
+    m_Localized: '{GlobalKeywords.MaxHealth}에 비례하여 피해를 입히는'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 19994491107618816
+    m_Localized: 피해를 입히는
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19994491107618817
+    m_Localized: '{GlobalKeywords.MaxHealth}만큼 피해를 입히는'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 23211258547351552
+    m_Localized: '{GlobalKeywords.Handsize}와 손패 수 {0:combo:} 증가'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 25292387018420224
+    m_Localized: '{:color(Keyword):피로}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 25292387039391744
+    m_Localized: '{GlobalKeywords.Crawler} 능력이 발동될 때마다 발동 비용이 증가합니다.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 25773564396253184
+    m_Localized: 제한된 손패 수
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820091674624
+    m_Localized: 손패 수 제한됨
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006272
+    m_Localized: 고기 덩어리
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006273
+    m_Localized: 수상한 고기
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006274
+    m_Localized: 던전 잡동사니
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006275
+    m_Localized: 벽돌
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006276
+    m_Localized: 고통의 반지
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006277
+    m_Localized: 이힝크로맨서
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006278
+    m_Localized: 갈레지아모르테
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006279
+    m_Localized: 암마자젠테
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006280
+    m_Localized: 풀터가이스트
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33744845264052224
+    m_Localized: 카드 {0:combo:}장을 버립니다. 버린 카드 1장당 코인 카드 1장을 생성합니다
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 34335007136210944
+    m_Localized: 카드 {ActionValue:N0}장을 버립니다. 버린 카드 1장당 코인 카드 1장을 생성합니다
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 34335007102656512
+    m_Localized: '{Plural:p:카드 {0:combo:}장|카드 {0:combo:}장}을 버립니다. 버린 카드 1장당 코인 카드 1장을 생성합니다'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223366
+  - m_Id: 35492381125435392
+    m_Localized: 크롤러 카드는 사용 시 무작위 발동 1회를 추가로 얻습니다. 크롤러가 피로 상태가 됩니다.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 193345922286223366
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        m_SharedEntries:
+        - id: 14603972760252416
+        - id: 2188433089835008
+        - id: 2188433089835009
+        - id: 5085614268473344
+        - id: 5424281531043840
+        - id: 5424281531043841
+        - id: 7251841128587264
+        - id: 7700284548571136
+        - id: 7702454513688576
+        - id: 9476304997965824
+        - id: 10178850515312640
+        - id: 10178850624364544
+        - id: 10178850624364545
+        - id: 10620020227825664
+        - id: 10620020278157312
+        - id: 12369242002284548
+        - id: 12369242002284549
+        - id: 12373404911919104
+        - id: 12373404953862145
+        - id: 12373404953862147
+        - id: 13087326673514500
+        - id: 13087326673514501
+        - id: 13183508871589888
+        - id: 13183508900950016
+        - id: 13183508900950017
+        - id: 13183508900950018
+        - id: 13183508900950019
+        - id: 13183508905144320
+        - id: 13183508905144321
+        - id: 13183508905144322
+        - id: 13183508905144323
+        - id: 13183508905144324
+        - id: 14560062499446784
+        - id: 14560062533001216
+        - id: 14593503580381184
+        - id: 14593503622324225
+        - id: 14593503622324226
+        - id: 14593503622324227
+        - id: 14593503622324228
+        - id: 14593503622324229
+        - id: 14593503622324230
+        - id: 14593503622324231
+        - id: 14593503622324232
+        - id: 14593503622324233
+        - id: 14593503622324234
+        - id: 14593503622324241
+        - id: 14593503622324242
+        - id: 14593503622324243
+        - id: 14593503622324244
+        - id: 14593503622324245
+        - id: 14593503622324246
+        - id: 14593503626518528
+        - id: 14593503626518529
+        - id: 14593503626518530
+        - id: 14593503626518531
+        - id: 14593503626518532
+        - id: 14593503626518533
+        - id: 14603972793806848
+        - id: 14603972793806849
+        - id: 14603972793806850
+        - id: 14603972793806851
+        - id: 14603972793806852
+        - id: 14603972793806853
+        - id: 14603972793806854
+        - id: 14603972793806855
+        - id: 15650607741218817
+        - id: 15650607741218818
+        - id: 15650607741218819
+        - id: 15650607741218821
+        - id: 15650607741218822
+        - id: 15650607741218823
+        - id: 15650607741218824
+        - id: 15665453325037568
+        - id: 15665453325037569
+        - id: 15705243441377281
+        - id: 15705243441377282
+        - id: 15705243441377285
+        - id: 15705243441377286
+        - id: 15705243441377287
+        - id: 15705243441377288
+        - id: 15705243441377289
+        - id: 15705243441377290
+        - id: 15705243441377305
+        - id: 15705243441377307
+        - id: 15705243441377308
+        - id: 15713194147262464
+        - id: 15713194185011200
+        - id: 17548054465818628
+        - id: 17548054465818629
+        - id: 17548054465818630
+        - id: 17548054465818631
+        - id: 17548054465818632
+        - id: 17548054465818633
+        - id: 17118668927217664
+        - id: 17466142275612672
+        - id: 17466142313361410
+        - id: 17872157320097793
+        - id: 18287377737789440
+        - id: 18287377779732480
+        - id: 18287377779732491
+        - id: 18287377779732492
+        - id: 18287377779732493
+        - id: 18287377779732494
+        - id: 18287377779732495
+        - id: 18287377779732496
+        - id: 18287377779732497
+        - id: 18287377779732498
+        - id: 18287377779732499
+        - id: 18287377779732500
+        - id: 18287377779732501
+        - id: 18287377779732502
+        - id: 18287377779732503
+        - id: 18287377779732504
+        - id: 18287377779732505
+        - id: 18287377779732506
+        - id: 18287377779732507
+        - id: 18287377779732508
+        - id: 19994491061481472
+        - id: 19994491107618817
+        - id: 23211258547351552
+        - id: 25292387018420224
+        - id: 25292387039391744
+        - id: 33744845264052224
+        - id: 34335007136210944
+        - id: 34335007102656512
+

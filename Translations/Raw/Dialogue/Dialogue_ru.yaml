@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Dialogue_ru
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: ru
+  m_SharedData: {fileID: 11400000, guid: 554ff93728483c649a696a71169ada09, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 31543236964352
+    m_Localized: Приветствую, герой! Давненько я никого не видел!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518784
+    m_Localized: Лавка Лунасвета ещё не открылась, но я дарую тебе эту реликвию в награду.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518785
+    m_Localized: Если ты ищешь вампира, спешу тебя огорчить. Но возьми в награду эту реликвию.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518786
+    m_Localized: Протруби в этот рупор — и сможешь ходить по подземельям бесконечно... Вот так всё просто, понятно?!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518787
+    m_Localized: Опять ты? Если что, можешь оставить рупор себе...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518788
+    m_Localized: У меня всё равно не получалось трубить в него, а солёная вода, знаешь ли, на пользу ему тоже не шла.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518789
+    m_Localized: Слишком поздно, я уже отдал свою самую ценную реликвию.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518790
+    m_Localized: О! Мой старый рупор! Лишь бы... подержать его в руках в последний раз.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518791
+    m_Localized: Здесь, под водой, может быть очень одиноко.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518792
+    m_Localized: Больше всего я скучаю по зелёному чаю... Я пил его из маленьких фарфоровых чашечек.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518793
+    m_Localized: Я спустился сюда давным-давно в поисках вампира...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518794
+    m_Localized: Я начинаю подозревать, что он лежит в другом гробу.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495296
+    m_Localized: Мой отец был плотником, но ещё он научил меня красоте музыки.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495297
+    m_Localized: Мой старый рупор был вполне неплох, но я мечтал купить синтезатор!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495298
+    m_Localized: Стоп... о чём это я? Что вообще такое синтезатор?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495299
+    m_Localized: Рад тебя видеть снова! Что нового во внешнем мире?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495300
+    m_Localized: Собор в небесах? Ишь чего напридумывали...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495301
+    m_Localized: Магия... темнейшая магия. Моя душа плывёт по ней... разбросанная по времени, заточённая в мире бесформенности...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495302
+    m_Localized: А, это ты. Прошу прощения, я репетировал свои слова.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495303
+    m_Localized: Что делать, когда земля содрогается, с неба падают отравленные стрелы, а небесные столпы сотрясаются?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495304
+    m_Localized: Здесь я, наверное, буду в безопасности, так что мне можно об этом не волноваться.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495305
+    m_Localized: Снова ты? Никак не пойму, чего ты всё время возвращаешься ко мне...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495306
+    m_Localized: А может...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495307
+    m_Localized: Тебе просто нравится со мной видеться?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495308
+    m_Localized: Ты всё возвращаешься ко мне, как будто мне есть что тебе предложить...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495309
+    m_Localized: Кто-то тут постоянно бьёт посуду...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495310
+    m_Localized: Если увидишь его, дай мне знать!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495311
+    m_Localized: Приветствую, герой! Полагаю, твои приключения принесли свои плоды?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495312
+    m_Localized: Не переживай за меня... я из выживших, так что могу за себя постоять.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495313
+    m_Localized: О, обладатель седьмого рупора вернулся, чтобы подразнить его бывшего хозяина...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495314
+    m_Localized: Что-то я приуныл, но кому есть до этого дело?
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
+

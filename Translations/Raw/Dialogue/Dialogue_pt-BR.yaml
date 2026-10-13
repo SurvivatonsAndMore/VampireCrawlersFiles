@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Dialogue_pt-BR
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: pt-BR
+  m_SharedData: {fileID: 11400000, guid: 554ff93728483c649a696a71169ada09, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 31543236964352
+    m_Localized: Saudações, Rastejante, você é a primeira pessoa a me visitar em muito tempo!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518784
+    m_Localized: A loja de Moongolow ainda não está aberta, mas te presenteio esta Relíquia como recompensa por me encontrar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518785
+    m_Localized: Se você estava atrás de vampiros, sinto muito, mas leve esta Relíquia como recompensa por me encontrar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518786
+    m_Localized: Um toque desta Trombeta especial vai permitir que você vagueie por masmorras pra sempre... Simples assim, beleza?!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518787
+    m_Localized: Você de novo? Não precisava devolver a Trombeta...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518788
+    m_Localized: Nunca fui muito bom com ela, e dava muito trabalho manter funcionando com essa água salgada toda por aqui.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518789
+    m_Localized: Chegou tarde. Já doei a minha Relíquia mais valiosa.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518790
+    m_Localized: Ah! Minha antiga Trombeta! Queria... segurar ela de novo, uma última vez.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518791
+    m_Localized: É um pouco solitário aqui embaixo do mar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518792
+    m_Localized: O que eu mais sinto falta é do chá verde... Eu gostava de beber naquelas xícaras pequenininhas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518793
+    m_Localized: Eu vim pra cá já faz muito tempo, em busca do vampiro...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518794
+    m_Localized: Tô começando a achar que ele tá em outro caixão.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495296
+    m_Localized: Meu pai era carpinteiro, mas também me ensinou a apreciar a música.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495297
+    m_Localized: Minha Trombeta antiga era maneira, mas eu sempre quis comprar um sintetizador!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495298
+    m_Localized: Espera... o que eu tô dizendo? O que é um sintetizador?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495299
+    m_Localized: Você voltou! Que novidades você me traz do mundo lá fora?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495300
+    m_Localized: Uma catedral nos céus?! Caramba, inventam cada coisa...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495301
+    m_Localized: Magia... A magia mais obscura. Minha alma está repleta dela... Espalhada através do tempo, presa em um mundo sem forma...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495302
+    m_Localized: Ah, é você. Foi mal, eu só estava ensaiando algumas falas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495303
+    m_Localized: O que você faz quando a terra treme, flechas venenosas caem do céu e os pilares do Paraíso balançam?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495304
+    m_Localized: Acho que eu estaria seguro aqui embaixo, então não me preocuparia com isso.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495305
+    m_Localized: Você de novo? Não entendo por que sempre volta...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495306
+    m_Localized: A menos que...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495307
+    m_Localized: Você gosta de vir me ver, é?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495308
+    m_Localized: Você fica voltando aqui, como se eu tivesse mais alguma coisa a oferecer...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495309
+    m_Localized: Alguém anda quebrando os meus vasos...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495310
+    m_Localized: Se você vir quem é, por favor, me avise!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495311
+    m_Localized: Saudações, Rastejante. Muitas aventuras emocionantes?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495312
+    m_Localized: Não se preocupe... Eu sou um Sobrevivente.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495313
+    m_Localized: Ah, o senhor da Sétima Trombeta retorna para provocar seu antigo mestre...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495314
+    m_Localized: Sim, era minha predileta, e daí?
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
+

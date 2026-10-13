@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Dialogue_en
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 554ff93728483c649a696a71169ada09, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 31543236964352
+    m_Localized: Greetings Crawler, you are the first person to visit in a very long time!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518784
+    m_Localized: The Moongolow shop is not open yet, but I gift unto you this Relic as a reward for finding me.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518785
+    m_Localized: If you came seeking the Vampire, you are going to be disappointed, but please take this Relic as a reward for finding me.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518786
+    m_Localized: A toot from this special Trumpet will let you loop Endlessly through dungeons... It's that simple, understand?!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518787
+    m_Localized: You again?  I don't want that Trumpet back, you know...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518788
+    m_Localized: I was never very good, and it was a lot of effort to keep it working when there's so much salt water here.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518789
+    m_Localized: You're too late, I have already given away my most treasured Relic.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518790
+    m_Localized: Oh! My old Trumpet! I should... very much like to hold it again, one last time.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518791
+    m_Localized: It can be lonely, living here beneath the sea.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518792
+    m_Localized: The thing I miss the most is green tea... I used to drink it in little china cups.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518793
+    m_Localized: I came down here long ago, looking for the Vampire...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518794
+    m_Localized: I'm starting to think he might be in another coffin.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495296
+    m_Localized: My father was a carpenter, but he also taught me the beauty of music.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495297
+    m_Localized: My old Trumpet was pretty cool, but I dreamed of buying a Synthesizer!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495298
+    m_Localized: Wait... what am I talking about?  What's a Synthesizer?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495299
+    m_Localized: You're back!   What news do you bring of the outside world?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495300
+    m_Localized: A cathedral in the sky??  What will they think of next...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495301
+    m_Localized: Magic... The darkest magic. My soul swims in it... Scattered across time, trapped in the world of formlessness...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495302
+    m_Localized: Oh it's you, sorry I was just practicing some lines.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495303
+    m_Localized: What do you do, when the earth quakes, and the poison arrows fall from the sky, and the pillars of Heaven shake?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495304
+    m_Localized: I'd probably be safe down here, so I wouldn't worry about it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495305
+    m_Localized: You again?  I can't understand what brings you back down here...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495306
+    m_Localized: Unless....
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495307
+    m_Localized: You just like coming to see me?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495308
+    m_Localized: You return here, as if there is anything else I have to offer...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495309
+    m_Localized: Somebody keeps smashing my pots...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495310
+    m_Localized: If you see who it is, please let me know!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495311
+    m_Localized: Greetings Crawler, I trust your adventures have been bountiful?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495312
+    m_Localized: Don't worry about me... I am a Survivor.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495313
+    m_Localized: Ahh, the holder of the Seventh Trumpet returns to taunt its former master...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495314
+    m_Localized: I feel kind of blue, but so what?
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
+

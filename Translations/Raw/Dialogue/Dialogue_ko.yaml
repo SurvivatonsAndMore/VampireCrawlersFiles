@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Dialogue_ko
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: ko
+  m_SharedData: {fileID: 11400000, guid: 554ff93728483c649a696a71169ada09, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 31543236964352
+    m_Localized: 안녕하세요, 크롤러님! 정말 오랜만에 나타난 첫 방문자시군요!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518784
+    m_Localized: 달빛 상점은 아직 문을 열지 않았지만, 저를 찾아주신 것에 대한 보상으로 이 유물을 선물합니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518785
+    m_Localized: 뱀파이어를 찾으러 오셨다면 실망하시겠지만, 이 유물을 받아가세요. 저를 찾아주신 것에 대한 보상으로 드리는 거예요.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518786
+    m_Localized: 이 특별한 나팔을 불면 던전을 끝없이 반복해서 탐험할 수 있답니다... 참 쉽죠, 잉?!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518787
+    m_Localized: 또 오셨네요?  전 그 나팔을 다시 돌려받고 싶지 않아요, 알면서...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518788
+    m_Localized: 저는 원래 잘 다루지 못했고, 여기처럼 바닷물이 많은 곳에서는 변함 없이 제대로 작동하게 하려면 많은 노력이 필요했어요.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518789
+    m_Localized: 너무 늦었어요. 저는 이미 가장 소중한 유물을 다른 사람에게 줘버렸거든요.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518790
+    m_Localized: 아! 내 오래된 나팔! 그것을... 한 번 더 꼭 안아보고 싶어요. 마지막으로.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518791
+    m_Localized: 바닷속 삶은 외로울 수 있습니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518792
+    m_Localized: 가장 그리운 건 녹차고요... 예전에 작은 도자기 컵에 녹차를 마시곤 했죠.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518793
+    m_Localized: 저는 오래전에 뱀파이어를 찾으러 이곳에 왔었죠...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518794
+    m_Localized: 다른 관에 있을지도 모른다는 생각이 들기 시작했어요.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495296
+    m_Localized: 제 아버지는 목수셨지만, 제게 음악의 아름다움도 가르쳐 주셨습니다.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495297
+    m_Localized: 예전에 있던 나팔도 꽤 멋졌지만, 신시사이저를 사는 게 꿈이었죠!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495298
+    m_Localized: 잠깐... 무슨 말을 하고 있는 거죠?  신디사이저란 무엇인가요?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495299
+    m_Localized: 돌아오셨군요!   바깥세상 소식으로 어떤 것을 전해주시겠습니까?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495300
+    m_Localized: 하늘에 있는 성당이라고요??  다음엔 또 무슨 기발한 생각을 떠올릴까요...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495301
+    m_Localized: 마법... 가장 어두운 마법이죠. 제 영혼이 그 속에서 헤엄치네요... 시간 속에 흩어져, 형체가 없는 세계에 갇혀...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495302
+    m_Localized: 아, 당신이군요. 미안해요, 대사 연습 중이었어요.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495303
+    m_Localized: 땅이 흔들리고, 하늘에서 독화살이 쏟아지고, 천주가 흔들리면 어떻게 하시겠어요?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495304
+    m_Localized: 여기 아래 세상은 안전할 것 같으니 걱정하지 않아도 될 것 같아요.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495305
+    m_Localized: 또 오셨네요?  왜 다시 여기로 내려왔는지 이해가 안 되네요...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495306
+    m_Localized: 저를 만나러 오는 걸....
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495307
+    m_Localized: 좋아하시는 것이 아니라면요?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495308
+    m_Localized: 마치 내가 당신에게 해줄 수 있는 무언가가 더 있는 것처럼 이곳으로 돌아오셨어요...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495309
+    m_Localized: 누군가 자꾸 저의 냄비를 깨뜨려요...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495310
+    m_Localized: 누구인지 알게 되시면 저에게 알려주세요!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495311
+    m_Localized: 크롤러님, 안녕하세요. 모험에서 풍성한 결실을 얻으셨나요?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495312
+    m_Localized: 저는 걱정하지 마시고요... 전 서바이버니까요.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495313
+    m_Localized: 아, 일곱 번째 나팔의 주인이 돌아와 옛 주인을 조롱하는군요...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495314
+    m_Localized: 좀 우울하기는 하지만, 뭐 어때요?
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
+

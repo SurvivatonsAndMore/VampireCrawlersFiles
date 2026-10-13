@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Dialogue_ja
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: ja
+  m_SharedData: {fileID: 11400000, guid: 554ff93728483c649a696a71169ada09, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 31543236964352
+    m_Localized: ようこそ、クロウラー！ここを訪れてくれたのはあなたが初めてです！
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518784
+    m_Localized: ムーンゴロウの店はまだ開いていませんが、見つけてくれたお礼として、このレリックを差し上げます。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518785
+    m_Localized: もしヴァンパイアを捜しに来たのなら、がっかりすると思いますが…見つけてくれたお礼として、このレリックをどうぞ。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518786
+    m_Localized: この特別なラッパをひと吹きすれば、ダンジョンをエンドレスにループできるんです…わかりましたか？！
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518787
+    m_Localized: またあなたですか？あのラッパは返してほしくないのです、ご存知ですよね…
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518788
+    m_Localized: もともと得意な方ではなかったのですが、この辺りは塩分が濃いので、機能させ続けるのにとても手間が掛かりました。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518789
+    m_Localized: 間に合いませんよ、一番大切なレリックは、もう人にあげちゃいました。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518790
+    m_Localized: あぁ！愛用のラッパ！もう一度……最後にもう一度だけ、握ってみたいものです
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518791
+    m_Localized: 海の底で暮らすのは、寂しい時もあります。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518792
+    m_Localized: 一番恋しいのは緑茶……昔は中国陶器のカップで飲んでいたものです。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518793
+    m_Localized: ずっと昔、ヴァンパイアを捜しにここへやって来ました……
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518794
+    m_Localized: もしかしたら、別の棺に入っているのかもしれないと思い始めてきました。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495296
+    m_Localized: 私の父はカーペンター（大工）でしたが、同時に音楽の美しさも教えてくれました。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495297
+    m_Localized: 昔使っていたラッパもなかなか良かったですが、シンセサイザーを買うのが夢だったんです！
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495298
+    m_Localized: えーっと…何の話でしたっけ？シンセサイザー？
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495299
+    m_Localized: 戻って来たんですね！外の世界はどうでしたか？
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495300
+    m_Localized: 空に建つ大聖堂？？　次は一体何を思いつくんだろう…
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495301
+    m_Localized: 魔法……暗黒の魔法。私の魂はその中に漂い…時を超えて断片と化し、形なき世界に囚われている…
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495302
+    m_Localized: ああ、あなたですか。すみません、セリフの練習をしていました。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495303
+    m_Localized: 大地が揺れて空から毒矢が降り注ぎ、天の柱が揺れるとき…あなたならどうしますか？
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495304
+    m_Localized: ここならおそらく安全だと思うので、心配しないでください。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495305
+    m_Localized: また？どうしてまたここに戻ってきたのか、さっぱり見当もつきません……
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495306
+    m_Localized: ただし…
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495307
+    m_Localized: ただ私に会いに来たんですか？
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495308
+    m_Localized: また戻ってくるなんて、私が他に何かできることがあるというのですか…
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495309
+    m_Localized: 何者かが私のポットを壊し続けている…
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495310
+    m_Localized: 誰か判明したら、教えてくださいね！
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495311
+    m_Localized: こんにちは、クロウラー！冒険は順調に進んでいるみたいですね？
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495312
+    m_Localized: 心配しないでください…私はサバイバーですから。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495313
+    m_Localized: あぁ、第七のラッパ吹きが、かつての主を嘲るために戻ってきた…
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495314
+    m_Localized: 少しブルーな気分ですが、それが何か？
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
+

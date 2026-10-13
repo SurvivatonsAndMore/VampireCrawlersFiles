@@ -1,0 +1,1248 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Blueberries_zh-Hans
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: zh-Hans
+  m_SharedData: {fileID: 11400000, guid: 9f007cf6483f831498f17fb571079813, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 193345922286223360
+  m_TableData:
+  - m_Id: 14603972760252416
+    m_Localized: '{db.FCC.FCC_Ambrojoe.FirstName}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 2284044935168
+    m_Localized: 圣徒精华
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2284095266816
+    m_Localized: 投掷家具。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2188433052086272
+    m_Localized: 多彩探索者
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2188433089835008
+    m_Localized: 打出探索者卡牌时，其会额外获得一个随机颜色触发条件。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2188433089835009
+    m_Localized: 打出探索者卡牌时，其会额外获得一个随机颜色触发条件。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4416592655011840
+    m_Localized: 无尽连击
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4416592684371968
+    m_Localized: 当你手中最后一张卡牌继续连击时，抽取一组新的手牌。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4416592684371969
+    m_Localized: 当你手中最后一张卡牌继续连击时，抽取一组新的手牌。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5085614268473344
+    m_Localized: 从{GlobalKeywords.Hand}中弃置{Count:p:1张卡牌|{:N0}张卡牌}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 5424281531043840
+    m_Localized: '{:color(Keyword):调度}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 5424281531043841
+    m_Localized: 从{GlobalKeywords.Hand}中弃置{ActionValue:p:1张随机卡牌|{:N0}张随机卡牌}，然后抽取{ActionValue:N0}张。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 7251841128587264
+    m_Localized: '{:color(Keyword):适应力}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 7251841162141696
+    m_Localized: 此卡牌的法力消耗正好能延续连击。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7604875813707776
+    m_Localized: 赋予此卡牌适应力。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7634092110635008
+    m_Localized: 手牌数上限
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7700284548571136
+    m_Localized: '{effectString:disabled:}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 7702454513688576
+    m_Localized: '{:color(Keyword):轮回}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 7702454547243008
+    m_Localized: 弃置时，触发此卡牌的常规效果。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7963983708413952
+    m_Localized: 卡牌被弃置时触发其效果。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7967692785967104
+    m_Localized: 轮回
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7967692815327232
+    m_Localized: 适应力
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8024049274839040
+    m_Localized: 塞子
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8024049308393472
+    m_Localized: 阻止水鬼在遭遇战中出现。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8024049308393473
+    m_Localized: 推迟水鬼在遭遇战中出现的时间。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476304997965824
+    m_Localized: '{:color(Keyword):拾荒}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 9476305031520256
+    m_Localized: 每弃置一张卡牌，获得1点拾荒充能。含有此效果的卡牌会额外发射等同于当前拾荒点数的飞射物。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476305031520257
+    m_Localized: 异界霹雳
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476305031520258
+    m_Localized: 暴击时可引发爆炸。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476305031520259
+    m_Localized: 精神干扰
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476305031520260
+    m_Localized: 进化后的异界霹雳。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9928406866014208
+    m_Localized: 浮动股骨
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9928406907957248
+    m_Localized: 金币
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10178850515312640
+    m_Localized: 抽取{TriggerType.Icon}卡牌时：{FccAction}。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 10178850624364544
+    m_Localized: 获得金币{TriggerType.Icon}时：{FccAction}。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 10178850624364545
+    m_Localized: 弃置{TriggerType.Icon}卡牌时：{FccAction}。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 10333246305808384
+    m_Localized: 落月城
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10333246343557120
+    m_Localized: 最诡异的水域静候在最神秘的深渊中，湿漉漉的冒险者们或许会在此溅起水花。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10333246343557121
+    m_Localized: 在月光难以企及的更深之处，绝望的拾荒者会被任何能动的东西所吸引。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10620020227825664
+    m_Localized: '{:color(Keyword):赋予效果}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 10620020278157312
+    m_Localized: 随机向一张{CardType.Icon}卡牌添加效果：{CardEffect.KeywordName}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 12369241960341504
+    m_Localized: 打出探索者卡牌时，其会额外获得一个随机的卡牌类型触发条件。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284544
+    m_Localized: 打出探索者卡牌时，其会额外获得一个随机的触发条件。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284545
+    m_Localized: 你？不对……我！
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284546
+    m_Localized: 我，我，我，我，我……
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284547
+    m_Localized: ……难道海底卡出bug了？
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284548
+    m_Localized: 解锁{db.Dungeon.Dungeon_Soda_01.Name}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 12369242002284549
+    m_Localized: 解锁{db.Dungeon.Dungeon_Soda_02.Name}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 12369242002284550
+    m_Localized: (Porbably not going to be used but needs to be assigned just in case)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284551
+    m_Localized: 使一张随机卡牌暂时免费。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12373404911919104
+    m_Localized: '{:color(Keyword):弹跳}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 12373404953862144
+    m_Localized: 有几率弹跳至额外目标。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12373404953862145
+    m_Localized: '{:color(Keyword):暴击爆炸}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 12373404953862146
+    m_Localized: 暴击时引发爆炸，对相邻敌人造成伤害。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12373404953862147
+    m_Localized: '{:color(Keyword):咆哮}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 12373404953862148
+    m_Localized: 范围伤害有几率造成暴击，且伤害值会随着范围扩散而增加。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940801093632
+    m_Localized: PLACEHOLDER<br>Troubler Bio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259456
+    m_Localized: PLACEHOLDER<br>Trouser Bio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259457
+    m_Localized: 调度
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259458
+    m_Localized: 弃置卡牌并抽取新牌。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259459
+    m_Localized: 拾荒
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259460
+    m_Localized: 基于已弃置卡牌发射额外飞射物。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259461
+    m_Localized: 法力
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259462
+    m_Localized: 获得法力。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13087326673514497
+    m_Localized: 加洛地下城
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13087326673514498
+    m_Localized: 在巫师塔之下，隐藏着一座无名迷宫，其间遍布失败的试验和不可告人的秘密。我甚至敢说，我还有一箱不错的法袍就藏在那下面。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13087326673514499
+    m_Localized: 连击潮汐
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13087326673514500
+    m_Localized: 弃置卡牌时，有几率增加{GlobalKeywords.Combo}。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 13087326673514501
+    m_Localized: 弃置卡牌时，有{Arcana.EffectValue.0:N0}%的几率增加{GlobalKeywords.Combo}。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 13087326673514502
+    m_Localized: (NOT USING)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13091003727556608
+    m_Localized: 昇月海沟
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13108134305280000
+    m_Localized: 勒达
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13108134305280001
+    m_Localized: 勒达
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13108134305280002
+    m_Localized: (not used yet)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13183508871589888
+    m_Localized: 解锁{db.Dungeon.Dungeon_GalloBelow_01.Name}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 13183508900950016
+    m_Localized: '{db.Dungeon.Dungeon_Soda_01.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 13183508900950017
+    m_Localized: '{db.Dungeon.Dungeon_Soda_02.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 13183508900950018
+    m_Localized: '{db.Dungeon.Dungeon_GalloBelow_01.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 13183508900950019
+    m_Localized: 解锁{db.relic.RelicConfig_Tappo.Name}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 13183508905144320
+    m_Localized: 找到{db.relic.RelicConfig_Tappo.Name}{GlobalKeywords.Relic}。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 13183508905144321
+    m_Localized: '{db.relic.RelicConfig_Tappo.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 13183508905144322
+    m_Localized: '解锁{db.relic.RelicConfig_GalileosHand.Name} '
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 13183508905144323
+    m_Localized: 找到{db.relic.RelicConfig_GalileosHand.Name}{GlobalKeywords.Relic}。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 13183508905144324
+    m_Localized: '{db.relic.RelicConfig_GalileosHand.Name} '
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 14537641012703232
+    m_Localized: 伽利略之手
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537641063034880
+    m_Localized: 在世界地图上添加“手牌数上限”按钮。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14560062499446784
+    m_Localized: 解锁{db.Dungeon.Dungeon_Moongolow_teaser.Name}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 14560062533001216
+    m_Localized: '{db.Dungeon.Dungeon_Moongolow_teaser.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 14560062533001217
+    m_Localized: 击败灭煞。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14560062533001218
+    m_Localized: 通关普通游戏模式。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503580381184
+    m_Localized: '{db.Gems.GemConfig_SetCostType_Adaptability.Name}{GlobalKeywords.Gem}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 14593503622324224
+    m_Localized: 击败水鬼。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503622324225
+    m_Localized: 在{db.Dungeon.Dungeon_GalloBelow_01.Name}中击败水鬼。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 14593503622324226
+    m_Localized: '{db.Gems.GemConfig_Switch.Name}{GlobalKeywords.Gem}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 14593503622324227
+    m_Localized: 在{db.Dungeon.Dungeon_Soda_01.Name}区域中找到{db.Gems.GemConfig_Switch.Name}{GlobalKeywords.Gem}。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 14593503622324228
+    m_Localized: 找到{db.Gems.GemConfig_Switch.Name}{GlobalKeywords.Gem}。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 14593503622324229
+    m_Localized: '{db.Gems.GemConfig_Afterlife.Name}{GlobalKeywords.Gem}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 14593503622324230
+    m_Localized: 在{db.Dungeon.Dungeon_Soda_01.Name}区域中找到{db.Gems.GemConfig_Afterlife.Name}{GlobalKeywords.Gem}。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 14593503622324231
+    m_Localized: 找到{db.Gems.GemConfig_Afterlife.Name}{GlobalKeywords.Gem}。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 14593503622324232
+    m_Localized: '{db.Gems.GemConfig_Scavenge.Name}{GlobalKeywords.Gem}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 14593503622324233
+    m_Localized: 在{db.Dungeon.Dungeon_Soda_01.Name}区域中找到{db.Gems.GemConfig_Scavenge.Name}{GlobalKeywords.Gem}。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 14593503622324234
+    m_Localized: 找到{db.Gems.GemConfig_Scavenge.Name}{GlobalKeywords.Gem}。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 14593503622324241
+    m_Localized: '{db.Arcana.ArcanaConfig_InfiniteCombo.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 14593503622324242
+    m_Localized: 在手牌清零的情况下结束{Achievement.Value:N0}个回合。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 14593503622324243
+    m_Localized: '{db.Arcana.ArcanaConfig_InfiniteCombo.Name}{GlobalKeywords.Arcana}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 14593503622324244
+    m_Localized: '{db.Arcana.ArcanaConfig_ChairGame.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 14593503622324245
+    m_Localized: 调度{Achievement.Value:N0}张卡牌。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 14593503622324246
+    m_Localized: '{db.Arcana.ArcanaConfig_ChairGame.Name}{GlobalKeywords.Arcana}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 14593503626518528
+    m_Localized: '{db.Arcana.ArcanaConfig_CrawlerBrawler.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 14593503626518529
+    m_Localized: 在{db.Dungeon.Dungeon_GalloBelow_01.Name}中使用加洛击败幻灵加洛。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 14593503626518530
+    m_Localized: '{db.Arcana.ArcanaConfig_CrawlerBrawler.Name}{GlobalKeywords.Arcana}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 14593503626518531
+    m_Localized: '{db.Arcana.ArcanaConfig_EbbAndCombo.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 14593503626518532
+    m_Localized: 在{db.Dungeon.Dungeon_Soda_01.Name}中达成{Achievement.Value:N0}次连击。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 14593503626518533
+    m_Localized: '{db.Arcana.ArcanaConfig_EbbAndCombo.Name}{GlobalKeywords.Arcana}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 14603972793806848
+    m_Localized: 在{db.Dungeon.Dungeon_GalloBelow_01.Name}中找到{GlobalKeywords.Coffin}。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 14603972793806849
+    m_Localized: 在{db.Dungeon.Dungeon_GalloBelow_01.Name}中摧毁{Achievement.Value:N0}个可破坏物。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 14603972793806850
+    m_Localized: '{db.FCC.FCC_Ambrojoe.FirstName}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 14603972793806851
+    m_Localized: '{db.FCC.FCC_BigTroubler.FirstName}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 14603972793806852
+    m_Localized: 在{db.Dungeon.Dungeon_Soda_01.Name}中找到{GlobalKeywords.Coffin}。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 14603972793806853
+    m_Localized: '{db.FCC.FCC_BigTroubler.FirstName}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 14603972793806854
+    m_Localized: 发现{db.Cards.Card_A_4_SpiritDisturbance.Name}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 14603972793806855
+    m_Localized: 进化{db.Cards.Card_A_1_UnearthlyBolt.Name}。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 15650607699275776
+    m_Localized: 昇月城·渊
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15650607741218816
+    m_Localized: 抢椅子
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15650607741218817
+    m_Localized: 当{GlobalKeywords.Hand}中没有卡牌能继续{GlobalKeywords.Combo}时，触发调度{Arcana.EffectValue.0:N0}，每回合一次。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 15650607741218818
+    m_Localized: 当{GlobalKeywords.Hand}中没有卡牌能继续{GlobalKeywords.Combo}时，触发调度{Arcana.EffectValue.0:N0}。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 15650607741218819
+    m_Localized: 解锁{db.Dungeon.Dungeon_Madforest_01.Name}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 15650607741218820
+    m_Localized: 完成教程。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15650607741218821
+    m_Localized: '{db.Dungeon.Dungeon_Madforest_01.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 15650607741218822
+    m_Localized: 解锁{db.Cards.Card_E_Rosary.Name}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 15650607741218823
+    m_Localized: '{db.Cards.Card_E_Rosary.Name}已添加到地下城'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 15650607741218824
+    m_Localized: '{db.Cards.Card_E_Rosary.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 15665453325037568
+    m_Localized: '{db.Cards.Card_E_Orologion.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 15665453325037569
+    m_Localized: 解锁{Achievement.RewardName}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 15678690565238784
+    m_Localized: 宝石礼包1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15678690611376128
+    m_Localized: 基础宝石
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15678690611376129
+    m_Localized: 属性宝石
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15678690611376130
+    m_Localized: 通关疯狂森林第二层。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377280
+    m_Localized: 全新强化项已加入商店
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377281
+    m_Localized: 打出{db.Cards.Card_D_0_Armor.Name}卡牌{Achievement.Value:N0}次。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 15705243441377282
+    m_Localized: 打出{db.Cards.Card_S_0_Candelabrador.Name}卡牌{Achievement.Value:N0}次。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 15705243441377283
+    m_Localized: 鸡肉店
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377284
+    m_Localized: 鸡肉店事件
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377285
+    m_Localized: 打出{db.Cards.Card_S_1_Crown.Name}卡牌{Achievement.Value:N0}次。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 15705243441377286
+    m_Localized: 打出{db.Cards.Card_B_0_EmptyTome.Name}卡牌{Achievement.Value:N0}次。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 15705243441377287
+    m_Localized: 打出{db.Cards.Card_S_1_Duplicator.Name}卡牌{Achievement.Value:N0}次。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 15705243441377288
+    m_Localized: 打出{db.Cards.Card_S_1_HollowHeart.Name}卡牌{Achievement.Value:N0}次。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 15705243441377289
+    m_Localized: 打出{db.Cards.Card_S_1_Spinach.Name}卡牌{Achievement.Value:N0}次。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 15705243441377290
+    m_Localized: 打出{db.Cards.Card_S_1_Pummarola.Name}卡牌{Achievement.Value:N0}次。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 15705243441377291
+    m_Localized: 购买重选强化。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377292
+    m_Localized: “重选”已添加到地下城
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377293
+    m_Localized: 可在光源中找到“重选”
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377294
+    m_Localized: 复制桌
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377295
+    m_Localized: 复制桌事件
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377296
+    m_Localized: 神秘魔镜
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377297
+    m_Localized: 神秘魔镜事件
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377298
+    m_Localized: 法力祭坛
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377299
+    m_Localized: 法力祭坛事件
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377300
+    m_Localized: 雇佣兵事件
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377301
+    m_Localized: 户外厕所
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377302
+    m_Localized: 户外厕所事件
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377303
+    m_Localized: 招募亭
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377304
+    m_Localized: 招募亭事件
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377305
+    m_Localized: '{:color(Keyword):探索者*}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 15705243441377306
+    m_Localized: 探索者拥有的触发能力不止一个。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377307
+    m_Localized: '{:color(Keyword):多面手}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 15705243441377308
+    m_Localized: '{:color(Keyword):探索者2}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 15713194147262464
+    m_Localized: 在{db.Dungeon.Dungeon_Soda_01.Name}区域的可破坏珊瑚中找到{Achievement.Value:N0}颗宝石。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 15713194185011200
+    m_Localized: 在{db.Dungeon.Dungeon_Soda_01.Name}区域的可破坏物中找到{Achievement.Value:N0}颗宝石。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 17548054428069888
+    m_Localized: 每当卡牌被弃置时获得拾荒充能。含有拾荒效果的卡牌会发射额外飞射物。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818624
+    m_Localized: 基于当前拾荒点数发射额外飞射物。弃置卡牌可增加拾荒充能。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818625
+    m_Localized: 基于已弃置卡牌的数量发射额外飞射物。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818626
+    m_Localized: 胫骨夹板
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818627
+    m_Localized: 密质骨
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818628
+    m_Localized: 获得金币{TriggerType.Icon}时：{FccAction}。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 17548054465818629
+    m_Localized: 获得金币{TriggerType.Icon}时：{FccAction}。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 17548054465818630
+    m_Localized: 获得金币{TriggerType.Icon}时：{FccAction}。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 17548054465818631
+    m_Localized: 抽取{TriggerType.Icon}卡牌时：{FccAction}。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 17548054465818632
+    m_Localized: 弃置{TriggerType.Icon}卡牌时：{FccAction}。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 17548054465818633
+    m_Localized: '{:color(Keyword):注魔}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 17548054465818634
+    m_Localized: 弃置一张卡牌并抽取一张新牌。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17085329412534272
+    m_Localized: 当你手中最后一张卡牌继续连击时，立即抽取一组新的手牌。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17085329433505792
+    m_Localized: 如果在连击时卡牌耗尽，抽取更多卡牌。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17085329433505793
+    m_Localized: 此卡牌的法力消耗正好能延续连击。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17118668927217664
+    m_Localized: '{:color(Keyword):{db.Cards.Card_E_CoinPurse.Name}}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 17466142275612672
+    m_Localized: '{:color(Keyword):持续时间}：{:color(Keyword):探索者}效果触发{FccDuration:p:1次|{:N0}次}。'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 17466142313361408
+    m_Localized: 生成一张金币卡牌
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17466142313361409
+    m_Localized: 使一张随机卡牌暂时免费
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17466142313361410
+    m_Localized: 从{GlobalKeywords.Hand}中弃置{ActionValue:p:1张随机卡牌|{:N0}张随机卡牌}，然后抽取{ActionValue:N0}张
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 17872157261377536
+    m_Localized: 弃置卡牌时，触发其效果。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17872157320097792
+    m_Localized: 弃置卡牌时，触发其效果。无视连击。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17872157320097793
+    m_Localized: '{:color(Keyword):{db.Cards.Card_E_CoinCard.Name}}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 18287377737789440
+    m_Localized: 在一局游戏中，在{db.Dungeon.Dungeon_Soda_01.Name}区域的可破坏珊瑚中找到{Achievement.Value:N0}颗宝石。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 18287377779732480
+    m_Localized: 在一局游戏中，在{db.Dungeon.Dungeon_Soda_01.Name}区域的可破坏物中找到{Achievement.Value:N0}颗宝石。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 18287377779732481
+    m_Localized: 扔几枚金币，万一显灵中大奖了呢？
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732482
+    m_Localized: 金币 = ???
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732483
+    m_Localized: 撞击可投币。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732484
+    m_Localized: 慷慨的探索者定有回报。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732485
+    m_Localized: 手气不好。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732486
+    m_Localized: 下方传来“噗通”的落水声，但好像什么都没发生……
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732487
+    m_Localized: 好像什么都没发生……
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732488
+    m_Localized: 许愿井
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732489
+    m_Localized: 完全正常的水井
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732490
+    m_Localized: 水井
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732491
+    m_Localized: '{:color(Keyword):铁壳}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 18287377779732492
+    m_Localized: '{:color(Keyword):坦克}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 18287377779732493
+    m_Localized: '{:color(Keyword):巨无霸}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 18287377779732494
+    m_Localized: '{:color(Keyword):泰坦}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 18287377779732495
+    m_Localized: '{:color(Keyword):大肉墩}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 18287377779732496
+    m_Localized: '{:color(Keyword):大块头}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 18287377779732497
+    m_Localized: '{:color(Keyword):肉团}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 18287377779732498
+    m_Localized: '{:color(Keyword):肉球}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 18287377779732499
+    m_Localized: 基础伤害随{GlobalKeywords.MaxHealth}提升。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 18287377779732500
+    m_Localized: 伤害随{GlobalKeywords.MaxHealth}提升。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 18287377779732501
+    m_Localized: '{GlobalKeywords.MaxHealth}越高，伤害越高。'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 18287377779732502
+    m_Localized: 基础伤害等同于{GlobalKeywords.MaxHealth}。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 18287377779732503
+    m_Localized: 基础伤害随{GlobalKeywords.MaxHealth}提升（当前生命上限：{PLACEHOLDER.NUMBER:N0}）。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 18287377779732504
+    m_Localized: 伤害随{GlobalKeywords.MaxHealth}提升（当前生命上限：{PLACEHOLDER.NUMBER:N0}）。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 18287377779732505
+    m_Localized: '{GlobalKeywords.MaxHealth}越高，伤害越高（当前生命上限：{PLACEHOLDER.NUMBER:N0}）。'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 18287377779732506
+    m_Localized: 基础伤害等同于{GlobalKeywords.MaxHealth}（当前生命上限：{PLACEHOLDER.NUMBER:N0}）。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 18287377779732507
+    m_Localized: 勒达的{GlobalKeywords.MaxHealth}越高，伤害越高（当前生命上限：{PLACEHOLDER.NUMBER:N0}）。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 18287377779732508
+    m_Localized: 勒达的伤害随{GlobalKeywords.MaxHealth}提升（当前生命上限：{PLACEHOLDER.NUMBER:N0}）。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 19994491061481472
+    m_Localized: 基于你的{GlobalKeywords.MaxHealth}造成伤害
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 19994491107618816
+    m_Localized: 造成伤害
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19994491107618817
+    m_Localized: 造成等同于{GlobalKeywords.MaxHealth}的伤害
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 23211258547351552
+    m_Localized: '{GlobalKeywords.Handsize}和手牌上限+{0:combo:}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 25292387018420224
+    m_Localized: '{:color(Keyword):疲劳}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 25292387039391744
+    m_Localized: 触发{GlobalKeywords.Crawler}能力的消耗随着每次触发而增加。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 25773564396253184
+    m_Localized: 有限手牌数
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820091674624
+    m_Localized: 手牌数有限
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006272
+    m_Localized: 肉丸
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006273
+    m_Localized: 可疑的肉
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006274
+    m_Localized: 地下城杂物
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006275
+    m_Localized: 砖头
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006276
+    m_Localized: 折磨圈
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006277
+    m_Localized: 嘶灵法师
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006278
+    m_Localized: 赐死浮具
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006279
+    m_Localized: 夺命圈
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006280
+    m_Localized: 泳池顽灵
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33744845264052224
+    m_Localized: 弃置{0:combo:}张卡牌，每弃置一张便生成一张金币卡牌
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 34335007136210944
+    m_Localized: 弃置{ActionValue:N0}张卡牌，每弃置一张便生成一张金币卡牌
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 34335007102656512
+    m_Localized: 弃置{Plural:p:{0:combo:}张|{0:combo:}张}卡牌，每弃置一张便生成一张金币卡牌
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223360
+  - m_Id: 35492381125435392
+    m_Localized: 打出探索者卡牌时，其会额外获得一个随机的触发条件。探索者进入疲劳状态。
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 193345922286223360
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        m_SharedEntries:
+        - id: 14603972760252416
+        - id: 5085614268473344
+        - id: 5424281531043840
+        - id: 5424281531043841
+        - id: 7251841128587264
+        - id: 7700284548571136
+        - id: 7702454513688576
+        - id: 9476304997965824
+        - id: 10178850515312640
+        - id: 10178850624364544
+        - id: 10178850624364545
+        - id: 10620020227825664
+        - id: 10620020278157312
+        - id: 12369242002284548
+        - id: 12369242002284549
+        - id: 12373404911919104
+        - id: 12373404953862145
+        - id: 12373404953862147
+        - id: 13087326673514500
+        - id: 13087326673514501
+        - id: 13183508871589888
+        - id: 13183508900950016
+        - id: 13183508900950017
+        - id: 13183508900950018
+        - id: 13183508900950019
+        - id: 13183508905144320
+        - id: 13183508905144321
+        - id: 13183508905144322
+        - id: 13183508905144323
+        - id: 13183508905144324
+        - id: 14560062499446784
+        - id: 14560062533001216
+        - id: 14593503580381184
+        - id: 14593503622324225
+        - id: 14593503622324226
+        - id: 14593503622324227
+        - id: 14593503622324228
+        - id: 14593503622324229
+        - id: 14593503622324230
+        - id: 14593503622324231
+        - id: 14593503622324232
+        - id: 14593503622324233
+        - id: 14593503622324234
+        - id: 14593503622324241
+        - id: 14593503622324242
+        - id: 14593503622324243
+        - id: 14593503622324244
+        - id: 14593503622324245
+        - id: 14593503622324246
+        - id: 14593503626518528
+        - id: 14593503626518529
+        - id: 14593503626518530
+        - id: 14593503626518531
+        - id: 14593503626518532
+        - id: 14593503626518533
+        - id: 14603972793806848
+        - id: 14603972793806849
+        - id: 14603972793806850
+        - id: 14603972793806851
+        - id: 14603972793806852
+        - id: 14603972793806853
+        - id: 14603972793806854
+        - id: 14603972793806855
+        - id: 15650607741218817
+        - id: 15650607741218818
+        - id: 15650607741218819
+        - id: 15650607741218821
+        - id: 15650607741218822
+        - id: 15650607741218823
+        - id: 15650607741218824
+        - id: 15665453325037568
+        - id: 15665453325037569
+        - id: 15705243441377281
+        - id: 15705243441377282
+        - id: 15705243441377285
+        - id: 15705243441377286
+        - id: 15705243441377287
+        - id: 15705243441377288
+        - id: 15705243441377289
+        - id: 15705243441377290
+        - id: 15705243441377305
+        - id: 15705243441377307
+        - id: 15705243441377308
+        - id: 15713194147262464
+        - id: 15713194185011200
+        - id: 17548054465818628
+        - id: 17548054465818629
+        - id: 17548054465818630
+        - id: 17548054465818631
+        - id: 17548054465818632
+        - id: 17548054465818633
+        - id: 17118668927217664
+        - id: 17466142275612672
+        - id: 17466142313361410
+        - id: 17872157320097793
+        - id: 18287377737789440
+        - id: 18287377779732480
+        - id: 18287377779732491
+        - id: 18287377779732492
+        - id: 18287377779732493
+        - id: 18287377779732494
+        - id: 18287377779732495
+        - id: 18287377779732496
+        - id: 18287377779732497
+        - id: 18287377779732498
+        - id: 18287377779732499
+        - id: 18287377779732500
+        - id: 18287377779732501
+        - id: 18287377779732502
+        - id: 18287377779732503
+        - id: 18287377779732504
+        - id: 18287377779732505
+        - id: 18287377779732506
+        - id: 18287377779732507
+        - id: 18287377779732508
+        - id: 19994491061481472
+        - id: 19994491107618817
+        - id: 23211258547351552
+        - id: 25292387018420224
+        - id: 25292387039391744
+        - id: 33744845264052224
+        - id: 34335007136210944
+        - id: 34335007102656512
+

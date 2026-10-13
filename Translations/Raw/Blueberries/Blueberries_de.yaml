@@ -1,0 +1,1248 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Blueberries_de
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 9f007cf6483f831498f17fb571079813, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 193345922286223372
+  m_TableData:
+  - m_Id: 14603972760252416
+    m_Localized: '{db.FCC.FCC_Ambrojoe.FirstName}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 2284044935168
+    m_Localized: La Robba
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2284095266816
+    m_Localized: Wirft Möbel.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2188433052086272
+    m_Localized: Vielseitige Crawler
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2188433089835008
+    m_Localized: Crawler-Karten erhalten beim Ausspielen einen zusätzlichen Auslöser einer zufälligen Farbe.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2188433089835009
+    m_Localized: Crawler-Karten erhalten beim Ausspielen einen zusätzlichen Auslöser einer zufälligen Farbe.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4416592655011840
+    m_Localized: Unendliche Kombo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4416592684371968
+    m_Localized: Füll deine Hand wieder auf, wenn deine letzte Karte eine Kombo fortsetzt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4416592684371969
+    m_Localized: Füll deine Hand wieder auf, wenn deine letzte Karte eine Kombo fortsetzt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5085614268473344
+    m_Localized: Wirf {Count:p:eine Karte|{:N0} Karten} aus deiner {GlobalKeywords.Hand} ab.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 5424281531043840
+    m_Localized: '{:color(Keyword):Austauschen}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 5424281531043841
+    m_Localized: Wirf {ActionValue:p:eine zufällige Karte|{:N0} zufällige Karten} aus deiner {GlobalKeywords.Hand} ab und ziehe anschließend {ActionValue:p:eine neue Karte|{:N0} neue Karten}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 7251841128587264
+    m_Localized: '{:color(Keyword):Flexibilität}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 7251841162141696
+    m_Localized: Diese Karte kostet immer genau so viel, dass du deine Kombo fortsetzen kannst.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7604875813707776
+    m_Localized: Diese Karte erhält Flexibilität.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7634092110635008
+    m_Localized: Handgröße begrenzen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7700284548571136
+    m_Localized: '{effectString:disabled:}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 7702454513688576
+    m_Localized: '{:color(Keyword):Nachwirkung}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 7702454547243008
+    m_Localized: Beim Abwerfen werden die normalen Effekte der Karte ausgelöst.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7963983708413952
+    m_Localized: Abwerfen löst Karteneffekte aus.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7967692785967104
+    m_Localized: Nachwirkung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7967692815327232
+    m_Localized: Flexibilität
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8024049274839040
+    m_Localized: Tappo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8024049308393472
+    m_Localized: Verhindert, dass der Ersäufer in Kämpfen auftaucht.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8024049308393473
+    m_Localized: Zögert das Erscheinen des Ersäufers heraus.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476304997965824
+    m_Localized: '{:color(Keyword):Improvisieren}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 9476305031520256
+    m_Localized: Du erhältst beim Abwerfen einer Karte 1 Improvisieren-Stapel. Improvisieren-Karten feuern ein zusätzliches Geschoss für jeden Improvisieren-Stapel.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476305031520257
+    m_Localized: Geisterblitz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476305031520258
+    m_Localized: Kritische Treffer können Explosionen verursachen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476305031520259
+    m_Localized: Geisteraufruhr
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476305031520260
+    m_Localized: Verbesserter Geisterblitz.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9928406866014208
+    m_Localized: Schwebender Knochen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9928406907957248
+    m_Localized: Münze
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10178850515312640
+    m_Localized: '{FccAction}, wenn du eine Karte ziehst {TriggerType.Icon}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 10178850624364544
+    m_Localized: '{FccAction}, wenn du Gold erhältst {TriggerType.Icon}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 10178850624364545
+    m_Localized: '{FccAction}, wenn du eine Karte abwirfst {TriggerType.Icon}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 10333246305808384
+    m_Localized: Moongohigh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10333246343557120
+    m_Localized: In den mysteriösesten Meerestiefen, wo die See am seltsamsten ist, können durchnässte Draufgänger vielleicht große Wellen schlagen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10333246343557121
+    m_Localized: 'In den tiefsten Tiefen, die selbst der Mondschein kaum erhellt, stürzen sich verzweifelte Aasfresser auf alles, was sich bewegt.  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10620020227825664
+    m_Localized: '{:color(Keyword):Effekt geben}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 10620020278157312
+    m_Localized: Eine zufällige {CardType.Icon}-Karte erhält „{CardEffect.KeywordName}“
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 12369241960341504
+    m_Localized: Crawler-Karten erhalten beim Ausspielen einen zusätzlichen Auslöser eines zufälligen Kartentyps.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284544
+    m_Localized: Crawler-Karten erhalten beim Ausspielen einen zusätzlichen zufälligen Auslöser.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284545
+    m_Localized: Du? Ich meine … Ich!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284546
+    m_Localized: Ich, ich, ich!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284547
+    m_Localized: Das ist sicher eine Art Tiefseezauber?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284548
+    m_Localized: „{db.Dungeon.Dungeon_Soda_01.Name}“ freigeschaltet
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 12369242002284549
+    m_Localized: „{db.Dungeon.Dungeon_Soda_02.Name}“ freigeschaltet
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 12369242002284550
+    m_Localized: (Porbably not going to be used but needs to be assigned just in case)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284551
+    m_Localized: Eine zufällige Karte wird für eine begrenzte Zeit kostenlos.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12373404911919104
+    m_Localized: '{:color(Keyword):Abpraller}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 12373404953862144
+    m_Localized: Chance auf einen Abpraller zu weiteren Zielen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12373404953862145
+    m_Localized: '{:color(Keyword):Krit-Explosion}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 12373404953862146
+    m_Localized: Explodiert bei einem kritischen Treffer und fügt angrenzenden Gegnern Schaden zu.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12373404953862147
+    m_Localized: '{:color(Keyword):Gebrüll}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 12373404953862148
+    m_Localized: Kritische Treffer mit Flächenschaden möglich. Flächenschaden erhöht sich bei der Ausbreitung.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940801093632
+    m_Localized: PLATZHALTER<br>Troubler-Biografie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259456
+    m_Localized: PLACEHOLDER<br>Trouser-Biografie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259457
+    m_Localized: Austausch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259458
+    m_Localized: Wirf Karten ab und ziehe neue.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259459
+    m_Localized: Improvisieren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259460
+    m_Localized: Feuere für abgeworfene Karten zusätzliche Geschosse ab.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259461
+    m_Localized: Mana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259462
+    m_Localized: Erhalte Mana.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13087326673514497
+    m_Localized: Gallo-Dungeons
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13087326673514498
+    m_Localized: Unter dem Magierturm wartet ein Labyrinth voll fehlgeschlagener Experimente und dunkler Geheimnisse darauf, erkundet zu werden. Und irgendwo habe ich da auch eine Kiste voll schicker Mäntel verstaut.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13087326673514499
+    m_Localized: Ebbe und Kombo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13087326673514500
+    m_Localized: Chance auf Erhöhung der {GlobalKeywords.Combo}, wenn du eine Karte abwirfst.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 13087326673514501
+    m_Localized: Chance von {Arcana.EffectValue.0:N0}% auf Erhöhung der {GlobalKeywords.Combo}, wenn du eine Karte abwirfst.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 13087326673514502
+    m_Localized: (NOT USING)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13091003727556608
+    m_Localized: Moongolow-Graben
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13108134305280000
+    m_Localized: Leda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13108134305280001
+    m_Localized: Leda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13108134305280002
+    m_Localized: (not used yet)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13183508871589888
+    m_Localized: „{db.Dungeon.Dungeon_GalloBelow_01.Name}“ freigeschaltet
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 13183508900950016
+    m_Localized: '{db.Dungeon.Dungeon_Soda_01.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 13183508900950017
+    m_Localized: '{db.Dungeon.Dungeon_Soda_02.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 13183508900950018
+    m_Localized: '{db.Dungeon.Dungeon_GalloBelow_01.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 13183508900950019
+    m_Localized: „{db.relic.RelicConfig_Tappo.Name}“ freigeschaltet
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 13183508905144320
+    m_Localized: Finde das {GlobalKeywords.Relic} „{db.relic.RelicConfig_Tappo.Name}“.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 13183508905144321
+    m_Localized: '{db.relic.RelicConfig_Tappo.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 13183508905144322
+    m_Localized: '„{db.relic.RelicConfig_GalileosHand.Name}“ freigeschaltet '
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 13183508905144323
+    m_Localized: Finde das {GlobalKeywords.Relic} „{db.relic.RelicConfig_GalileosHand.Name}“.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 13183508905144324
+    m_Localized: '{db.relic.RelicConfig_GalileosHand.Name} '
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 14537641012703232
+    m_Localized: Galileos Hand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537641063034880
+    m_Localized: Fügt einen „Handgröße begrenzen“-Button auf der Weltkarte hinzu.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14560062499446784
+    m_Localized: „{db.Dungeon.Dungeon_Moongolow_teaser.Name}“ freigeschaltet
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 14560062533001216
+    m_Localized: '{db.Dungeon.Dungeon_Moongolow_teaser.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 14560062533001217
+    m_Localized: Besiege den Beender.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14560062533001218
+    m_Localized: Schließe das normale Spiel ab.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503580381184
+    m_Localized: '{db.Gems.GemConfig_SetCostType_Adaptability.Name}-{GlobalKeywords.Gem}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 14593503622324224
+    m_Localized: Besiege den Ersäufer.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503622324225
+    m_Localized: Besiege den Ersäufer im Dungeon „{db.Dungeon.Dungeon_GalloBelow_01.Name}“.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 14593503622324226
+    m_Localized: '{db.Gems.GemConfig_Switch.Name}-{GlobalKeywords.Gem}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 14593503622324227
+    m_Localized: Finde das {db.Gems.GemConfig_Switch.Name}-{GlobalKeywords.Gem} im Dungeon „{db.Dungeon.Dungeon_Soda_01.Name}“.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 14593503622324228
+    m_Localized: Finde das {db.Gems.GemConfig_Switch.Name}-{GlobalKeywords.Gem}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 14593503622324229
+    m_Localized: '{db.Gems.GemConfig_Afterlife.Name}-{GlobalKeywords.Gem}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 14593503622324230
+    m_Localized: Finde das {db.Gems.GemConfig_Afterlife.Name}-{GlobalKeywords.Gem} im Dungeon „{db.Dungeon.Dungeon_Soda_01.Name}“.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 14593503622324231
+    m_Localized: Finde das {db.Gems.GemConfig_Afterlife.Name}-{GlobalKeywords.Gem}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 14593503622324232
+    m_Localized: '{db.Gems.GemConfig_Scavenge.Name}-{GlobalKeywords.Gem}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 14593503622324233
+    m_Localized: Finde das {db.Gems.GemConfig_Scavenge.Name}-{GlobalKeywords.Gem} im Dungeon „{db.Dungeon.Dungeon_Soda_01.Name}“.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 14593503622324234
+    m_Localized: Finde das {db.Gems.GemConfig_Scavenge.Name}-{GlobalKeywords.Gem}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 14593503622324241
+    m_Localized: '{db.Arcana.ArcanaConfig_InfiniteCombo.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 14593503622324242
+    m_Localized: Beende {Achievement.Value:N0} Runden ohne Karten in der Hand.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 14593503622324243
+    m_Localized: „{db.Arcana.ArcanaConfig_InfiniteCombo.Name}“-{GlobalKeywords.Arcana}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 14593503622324244
+    m_Localized: '{db.Arcana.ArcanaConfig_ChairGame.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 14593503622324245
+    m_Localized: Tausche {Achievement.Value:N0} Karten aus.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 14593503622324246
+    m_Localized: „{db.Arcana.ArcanaConfig_ChairGame.Name}“-{GlobalKeywords.Arcana}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 14593503626518528
+    m_Localized: '{db.Arcana.ArcanaConfig_CrawlerBrawler.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 14593503626518529
+    m_Localized: Besiege den Geister-Gallo als Gallo im Dungeon „{db.Dungeon.Dungeon_GalloBelow_01.Name}“.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 14593503626518530
+    m_Localized: „{db.Arcana.ArcanaConfig_CrawlerBrawler.Name}“-{GlobalKeywords.Arcana}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 14593503626518531
+    m_Localized: '{db.Arcana.ArcanaConfig_EbbAndCombo.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 14593503626518532
+    m_Localized: ' Erreiche eine Kombo von {Achievement.Value:N0} im Dungeon „{db.Dungeon.Dungeon_Soda_01.Name}“.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 14593503626518533
+    m_Localized: „{db.Arcana.ArcanaConfig_EbbAndCombo.Name}“-{GlobalKeywords.Arcana}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 14603972793806848
+    m_Localized: Finde den {GlobalKeywords.Coffin} im Dungeon „{db.Dungeon.Dungeon_GalloBelow_01.Name}“.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 14603972793806849
+    m_Localized: Zerstöre {Achievement.Value:N0} zerstörbare Gegenstände im Dungeon „{db.Dungeon.Dungeon_GalloBelow_01.Name}“.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 14603972793806850
+    m_Localized: '{db.FCC.FCC_Ambrojoe.FirstName}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 14603972793806851
+    m_Localized: '{db.FCC.FCC_BigTroubler.FirstName}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 14603972793806852
+    m_Localized: Finde den {GlobalKeywords.Coffin} im Dungeon „{db.Dungeon.Dungeon_Soda_01.Name}“.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 14603972793806853
+    m_Localized: '{db.FCC.FCC_BigTroubler.FirstName}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 14603972793806854
+    m_Localized: '{db.cards.Card_A_4_SpiritDisturbance.Name} entdeckt'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 14603972793806855
+    m_Localized: Verbessere den {db.Cards.Card_A_1_UnearthlyBolt.Name}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 15650607699275776
+    m_Localized: Moongolower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15650607741218816
+    m_Localized: Stuhltanz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15650607741218817
+    m_Localized: '{Arcana.EffectValue.0:N0} Austausch, wenn keine der Karten in deiner {GlobalKeywords.Hand} die {GlobalKeywords.Combo} fortsetzen kann (einmal pro Runde).'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 15650607741218818
+    m_Localized: '{Arcana.EffectValue.0:N0} Austausch, wenn keine der Karten in deiner {GlobalKeywords.Hand} die {GlobalKeywords.Combo} fortsetzen kann.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 15650607741218819
+    m_Localized: „{db.Dungeon.Dungeon_Madforest_01.Name}“ freigeschaltet
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 15650607741218820
+    m_Localized: Schließe das Tutorial ab.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15650607741218821
+    m_Localized: '{db.Dungeon.Dungeon_Madforest_01.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 15650607741218822
+    m_Localized: '{db.Cards.Card_E_Rosary.Name} freigeschaltet'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 15650607741218823
+    m_Localized: '{db.Cards.Card_E_Rosary.Name} zu Dungeons hinzugefügt.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 15650607741218824
+    m_Localized: '{db.Cards.Card_E_Rosary.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 15665453325037568
+    m_Localized: '{db.Cards.Card_E_Orologion.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 15665453325037569
+    m_Localized: „{Achievement.RewardName}“ freigeschaltet
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 15678690565238784
+    m_Localized: Juwelenpaket 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15678690611376128
+    m_Localized: Einfache Juwelen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15678690611376129
+    m_Localized: Werte-Juwelen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15678690611376130
+    m_Localized: Schließe die 2. Ebene im Verrückten Wald ab.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377280
+    m_Localized: Neue Power-ups im Laden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377281
+    m_Localized: Spiele {Achievement.Value:N0}-mal „{db.Cards.Card_D_0_Armor.Name}“-Karten aus.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 15705243441377282
+    m_Localized: Spiele {Achievement.Value:N0}-mal „{db.Cards.Card_S_0_Candelabrador.Name}“-Karten aus.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 15705243441377283
+    m_Localized: Hähnchenläden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377284
+    m_Localized: Hähnchenläden-Ereignisse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377285
+    m_Localized: Spiele {Achievement.Value:N0}-mal „{db.Cards.Card_S_1_Crown.Name}“-Karten aus.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 15705243441377286
+    m_Localized: Spiele {Achievement.Value:N0}-mal „{db.Cards.Card_B_0_EmptyTome.Name}“-Karten aus.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 15705243441377287
+    m_Localized: Spiele {Achievement.Value:N0}-mal „{db.Cards.Card_S_1_Duplicator.Name}“-Karten aus.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 15705243441377288
+    m_Localized: Spiele {Achievement.Value:N0}-mal „{db.Cards.Card_S_1_Duplicator.Name}“-Karten aus.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 15705243441377289
+    m_Localized: Spiele {Achievement.Value:N0}-mal „{db.Cards.Card_S_1_Spinach.Name}“-Karten aus.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 15705243441377290
+    m_Localized: Spiele {Achievement.Value:N0}-mal „{db.Cards.Card_S_1_Pummarola.Name}“-Karten aus.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 15705243441377291
+    m_Localized: Erwirb ein Neuwahl-Power-up.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377292
+    m_Localized: Neuwahl zu Dungeons hinzugefügt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377293
+    m_Localized: Neuwahl kann in Lichtquellen gefunden werden.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377294
+    m_Localized: Verdopplertische
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377295
+    m_Localized: Verdopplertische-Ereignisse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377296
+    m_Localized: Seltsame Spiegel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377297
+    m_Localized: Seltsame-Spiegel-Ereignisse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377298
+    m_Localized: Manatauschtisch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377299
+    m_Localized: Manatauschtisch-Ereignisse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377300
+    m_Localized: Mietklo-Ereignisse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377301
+    m_Localized: Plumpsklo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377302
+    m_Localized: Plumpsklo-Ereignisse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377303
+    m_Localized: Anwerbekabine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377304
+    m_Localized: Anwerbekabine-Ereignisse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377305
+    m_Localized: '{:color(Keyword):Crawler*}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 15705243441377306
+    m_Localized: Der Crawler hat mehrere auslösbare Fähigkeiten.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377307
+    m_Localized: '{:color(Keyword):Multitasker}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 15705243441377308
+    m_Localized: '{:color(Keyword):Crawler 2}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 15713194147262464
+    m_Localized: Finde {Achievement.Value:N0} Juwelen in zerstörbaren Korallen im Dungeon „{db.Dungeon.Dungeon_Soda_01.Name}“.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 15713194185011200
+    m_Localized: Finde {Achievement.Value:N0} Juwelen in zerstörbaren Objekten im Dungeon „{db.Dungeon.Dungeon_Soda_01.Name}“.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 17548054428069888
+    m_Localized: Du erhältst beim Abwerfen einer Karte Improvisieren-Stapel. Improvisieren-Karten feuern zusätzliche Geschosse ab Improvisieren.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818624
+    m_Localized: Feuert auf Grundlage deiner Improvisieren-Stapel zusätzliche Geschosse ab. Jede abgeworfene Karte generiert einen Stapel.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818625
+    m_Localized: Feuert für abgeworfene Karten zusätzliche Geschosse ab.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818626
+    m_Localized: Schienbeinschiene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818627
+    m_Localized: Kräftige Knochen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818628
+    m_Localized: '{FccAction}, wenn du Gold erhältst {TriggerType.Icon}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 17548054465818629
+    m_Localized: '{FccAction}, wenn du Münzen erhältst {TriggerType.Icon}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 17548054465818630
+    m_Localized: '{FccAction}, wenn du Münzen erhältst {TriggerType.Icon}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 17548054465818631
+    m_Localized: '{FccAction}, wenn du Karten ziehst {TriggerType.Icon}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 17548054465818632
+    m_Localized: '{FccAction}, wenn du Karten abwirfst {TriggerType.Icon}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 17548054465818633
+    m_Localized: '{:color(Keyword):Durchtränken}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 17548054465818634
+    m_Localized: Wirf eine Karte ab und ziehe eine neue.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17085329412534272
+    m_Localized: Wenn deine letzte Karte eine Kombo fortsetzt, füll deine Hand sofort wieder auf.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17085329433505792
+    m_Localized: Wenn dir bei aktiver Kombo die Karten ausgehen, zieh neue Karten.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17085329433505793
+    m_Localized: Diese Karte kostet immer genau so viel, dass du deine Kombo fortsetzen kannst.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17118668927217664
+    m_Localized: '{:color(Keyword):{db.Cards.Card_E_CoinPurse.Name}}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 17466142275612672
+    m_Localized: '{:color(Keyword):Dauer}: {:color(Keyword):Crawler}-Effekte werden {FccDuration:p:einmal|{:N0}-mal} ausgelöst.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 17466142313361408
+    m_Localized: Erschaffe eine Münzkarte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17466142313361409
+    m_Localized: Eine zufällige Karte wird für eine begrenzte Zeit kostenlos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17466142313361410
+    m_Localized: Wirf {ActionValue:p:eine zufällige Karte|{:N0} zufällige Karten} aus deiner {GlobalKeywords.Hand} ab und ziehe anschließend {ActionValue:p:eine neue Karte|{:N0} neue Karten}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 17872157261377536
+    m_Localized: Die Karte wird beim Abwerfen aktiviert.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17872157320097792
+    m_Localized: Die Karte wird beim Abwerfen aktiviert. Ignoriert die Kombo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17872157320097793
+    m_Localized: '{:color(Keyword):{db.Cards.Card_E_CoinCard.Name}}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 18287377737789440
+    m_Localized: Finde in einem einzigen Durchlauf {Achievement.Value:N0} Juwelen in zerstörbaren Korallen im Dungeon „{db.Dungeon.Dungeon_Soda_01.Name}“.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 18287377779732480
+    m_Localized: Finde in einem einzigen Durchlauf {Achievement.Value:N0} Juwelen in zerstörbaren Objekten im Dungeon „{db.Dungeon.Dungeon_Soda_01.Name}“.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 18287377779732481
+    m_Localized: Wirf ein paar Münzen hinein, vielleicht erhältst du einen Preis!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732482
+    m_Localized: Münzen = ???
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732483
+    m_Localized: Anrempeln, um Münzen hineinzuwerfen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732484
+    m_Localized: Großzügige Crawler werden belohnt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732485
+    m_Localized: Pech gehabt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732486
+    m_Localized: Platsch! Ein herrliches Geräusch. Doch mehr passiert nicht …
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732487
+    m_Localized: Nichts rührt sich …
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732488
+    m_Localized: Wunschbrunnen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732489
+    m_Localized: Total normaler Brunnen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732490
+    m_Localized: Brunnen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732491
+    m_Localized: '{:color(Keyword):Tanky}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 18287377779732492
+    m_Localized: '{:color(Keyword):Tank}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 18287377779732493
+    m_Localized: '{:color(Keyword):Gigant}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 18287377779732494
+    m_Localized: '{:color(Keyword):Riese}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 18287377779732495
+    m_Localized: '{:color(Keyword):Fleischsack}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 18287377779732496
+    m_Localized: '{:color(Keyword):Blob}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 18287377779732497
+    m_Localized: '{:color(Keyword):Fleischklops}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 18287377779732498
+    m_Localized: '{:color(Keyword):Klops}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 18287377779732499
+    m_Localized: Der Grundschaden ist von {GlobalKeywords.MaxHealth} abhängig.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 18287377779732500
+    m_Localized: Der Schaden ist von {GlobalKeywords.MaxHealth} abhängig.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 18287377779732501
+    m_Localized: Der Schaden erhöht sich mit {GlobalKeywords.MaxHealth}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 18287377779732502
+    m_Localized: Der Schaden entspricht {GlobalKeywords.MaxHealth}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 18287377779732503
+    m_Localized: Der Grundschaden ist von {GlobalKeywords.MaxHealth} abhängig. ({PLACEHOLDER.NUMBER:N0})
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 18287377779732504
+    m_Localized: Der Schaden ist von {GlobalKeywords.MaxHealth} abhängig. ({PLACEHOLDER.NUMBER:N0})
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 18287377779732505
+    m_Localized: Der Schaden erhöht sich mit {GlobalKeywords.MaxHealth}. ({PLACEHOLDER.NUMBER:N0})
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 18287377779732506
+    m_Localized: Der Schaden entspricht {GlobalKeywords.MaxHealth}. ({PLACEHOLDER.NUMBER:N0})
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 18287377779732507
+    m_Localized: Ledas Schaden erhöht sich mit ihren {GlobalKeywords.MaxHealth}. ({PLACEHOLDER.NUMBER:N0})
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 18287377779732508
+    m_Localized: Ledas Schaden ist von ihren {GlobalKeywords.MaxHealth} abhängig. ({PLACEHOLDER.NUMBER:N0})
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 19994491061481472
+    m_Localized: Verursacht Schaden in Abhängigkeit von deiner {GlobalKeywords.MaxHealth}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 19994491107618816
+    m_Localized: Verursacht Schaden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19994491107618817
+    m_Localized: Verursacht {GlobalKeywords.MaxHealth} als Schaden
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 23211258547351552
+    m_Localized: Vergrößert die {GlobalKeywords.Handsize} und die Anzahl an Handkarten um {0:combo:}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 25292387018420224
+    m_Localized: '{:color(Keyword):Erschöpfung}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 25292387039391744
+    m_Localized: Die Kosten der {GlobalKeywords.Crawler}-Fähigkeiten erhöhen sich beim Auslösen.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 25773564396253184
+    m_Localized: Begrenzte Handgröße
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820091674624
+    m_Localized: Handgröße begrenzt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006272
+    m_Localized: Fleischbällchen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006273
+    m_Localized: Seltsames Fleisch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006274
+    m_Localized: Verliesgerümpel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006275
+    m_Localized: Ziegel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006276
+    m_Localized: Ring der Qualen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006277
+    m_Localized: Nee-kromant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006278
+    m_Localized: Galleggiamorte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006279
+    m_Localized: Ammazzagente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006280
+    m_Localized: Pool-tergeist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33744845264052224
+    m_Localized: Wirf {0:combo:} Karten ab. Du erhältst eine Münze für jede abgeworfene Karte
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 34335007136210944
+    m_Localized: Wirf {ActionValue:N0} Karten ab. Du erhältst eine Münze für jede abgeworfene Karte
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 34335007102656512
+    m_Localized: Wirf  {Plural:p:{0:combo:} Karte|{0:combo:} Karten} ab. Du erhältst eine Münze für jede abgeworfene Karte
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223372
+  - m_Id: 35492381125435392
+    m_Localized: Crawler-Karten erhalten beim Ausspielen einen zusätzlichen zufälligen Auslöser. Crawler sind ermüdet.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 193345922286223372
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        m_SharedEntries:
+        - id: 14603972760252416
+        - id: 5085614268473344
+        - id: 5424281531043840
+        - id: 5424281531043841
+        - id: 7251841128587264
+        - id: 7700284548571136
+        - id: 7702454513688576
+        - id: 9476304997965824
+        - id: 10178850515312640
+        - id: 10178850624364544
+        - id: 10178850624364545
+        - id: 10620020227825664
+        - id: 10620020278157312
+        - id: 12369242002284548
+        - id: 12369242002284549
+        - id: 12373404911919104
+        - id: 12373404953862145
+        - id: 12373404953862147
+        - id: 13087326673514500
+        - id: 13087326673514501
+        - id: 13183508871589888
+        - id: 13183508900950016
+        - id: 13183508900950017
+        - id: 13183508900950018
+        - id: 13183508900950019
+        - id: 13183508905144320
+        - id: 13183508905144321
+        - id: 13183508905144322
+        - id: 13183508905144323
+        - id: 13183508905144324
+        - id: 14560062499446784
+        - id: 14560062533001216
+        - id: 14593503580381184
+        - id: 14593503622324225
+        - id: 14593503622324226
+        - id: 14593503622324227
+        - id: 14593503622324228
+        - id: 14593503622324229
+        - id: 14593503622324230
+        - id: 14593503622324231
+        - id: 14593503622324232
+        - id: 14593503622324233
+        - id: 14593503622324234
+        - id: 14593503622324241
+        - id: 14593503622324242
+        - id: 14593503622324243
+        - id: 14593503622324244
+        - id: 14593503622324245
+        - id: 14593503622324246
+        - id: 14593503626518528
+        - id: 14593503626518529
+        - id: 14593503626518530
+        - id: 14593503626518531
+        - id: 14593503626518532
+        - id: 14593503626518533
+        - id: 14603972793806848
+        - id: 14603972793806849
+        - id: 14603972793806850
+        - id: 14603972793806851
+        - id: 14603972793806852
+        - id: 14603972793806853
+        - id: 14603972793806854
+        - id: 14603972793806855
+        - id: 15650607741218817
+        - id: 15650607741218818
+        - id: 15650607741218819
+        - id: 15650607741218821
+        - id: 15650607741218822
+        - id: 15650607741218823
+        - id: 15650607741218824
+        - id: 15665453325037568
+        - id: 15665453325037569
+        - id: 15705243441377281
+        - id: 15705243441377282
+        - id: 15705243441377285
+        - id: 15705243441377286
+        - id: 15705243441377287
+        - id: 15705243441377288
+        - id: 15705243441377289
+        - id: 15705243441377290
+        - id: 15705243441377305
+        - id: 15705243441377307
+        - id: 15705243441377308
+        - id: 15713194147262464
+        - id: 15713194185011200
+        - id: 17548054465818628
+        - id: 17548054465818629
+        - id: 17548054465818630
+        - id: 17548054465818631
+        - id: 17548054465818632
+        - id: 17548054465818633
+        - id: 17118668927217664
+        - id: 17466142275612672
+        - id: 17466142313361410
+        - id: 17872157320097793
+        - id: 18287377737789440
+        - id: 18287377779732480
+        - id: 18287377779732491
+        - id: 18287377779732492
+        - id: 18287377779732493
+        - id: 18287377779732494
+        - id: 18287377779732495
+        - id: 18287377779732496
+        - id: 18287377779732497
+        - id: 18287377779732498
+        - id: 18287377779732499
+        - id: 18287377779732500
+        - id: 18287377779732501
+        - id: 18287377779732502
+        - id: 18287377779732503
+        - id: 18287377779732504
+        - id: 18287377779732505
+        - id: 18287377779732506
+        - id: 18287377779732507
+        - id: 18287377779732508
+        - id: 19994491061481472
+        - id: 19994491107618817
+        - id: 23211258547351552
+        - id: 25292387018420224
+        - id: 25292387039391744
+        - id: 33744845264052224
+        - id: 34335007136210944
+        - id: 34335007102656512
+

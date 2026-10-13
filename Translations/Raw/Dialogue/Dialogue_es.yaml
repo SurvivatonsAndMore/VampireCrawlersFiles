@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Dialogue_es
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 554ff93728483c649a696a71169ada09, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 31543236964352
+    m_Localized: Saludos, cruzamazmorras, ¡eres la primera persona en visitarme en mucho tiempo!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518784
+    m_Localized: La tienda de Ciudad lunar aún no está abierta, pero te obsequiaré con esta reliquia como recompensa por encontrarme.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518785
+    m_Localized: Si has venido en busca del vampiro, te vas a llevar una decepción, pero acepta esta reliquia como recompensa por encontrarme.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518786
+    m_Localized: Con solo tocar una nota, esta trompeta te permitirá cruzar cualquier mazmorra en bucle... Es así de simple, ¿lo entiendes?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518787
+    m_Localized: ¿Otra vez tú? No quiero que me traigas la trompeta de vuelta, ¿sabes?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518788
+    m_Localized: Nunca se me ha dado muy bien, y con la de agua salada que hay por aquí, me costaba mucho hacer que siguiera funcionando.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518789
+    m_Localized: Llegas demasiado tarde, ya he regalado mi reliquia más preciada.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518790
+    m_Localized: ¡Ah! ¡Mi vieja trompeta! Me gustaría... poder sujetarla por última vez.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518791
+    m_Localized: La vida bajo el mar es muy solitaria.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518792
+    m_Localized: Lo que más echo de menos es el té verde... Lo tomaba en tazas de porcelana.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518793
+    m_Localized: Ya hace mucho tiempo que vine aquí abajo en busca del vampiro...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518794
+    m_Localized: Empiezo a pensar que está en otro ataúd.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495296
+    m_Localized: A mi padre le gustaba mucho el cine y la carpintería, pero también me enseñó a apreciar la belleza de la música.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495297
+    m_Localized: Mi vieja trompeta era muy guay, pero ¡soñaba con comprarme un sintetizador!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495298
+    m_Localized: Espera... ¿Qué digo? ¿Qué es un sintetizador?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495299
+    m_Localized: ¡Has vuelto! ¿Qué nuevas traes del mundo exterior?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495300
+    m_Localized: ¿Una catedral en el cielo? ¿Qué será lo próximo?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495301
+    m_Localized: Magia... Magia negra. Mi alma flota dispersa a través del tiempo...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495302
+    m_Localized: Ah, eres tú. Perdona, estaba practicando un diálogo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495303
+    m_Localized: ¿Qué haces cuando la tierra tiembla, caen del cielo flechas envenenadas y tiemblan los cimientos del cielo?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495304
+    m_Localized: Probablemente esté a salvo aquí abajo, así que no me preocuparía mucho.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495305
+    m_Localized: ¿Otra vez tú? No entiendo para qué vuelves aquí abajo...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495306
+    m_Localized: A menos que...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495307
+    m_Localized: ¿Te gusta venir a verme?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495308
+    m_Localized: Otra vez por aquí, como si tuviera algo más que ofrecerte...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495309
+    m_Localized: Alguien sigue rompiéndome las vasijas...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495310
+    m_Localized: Si ves quién es, ¡avísame!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495311
+    m_Localized: Saludos, cruzamazmorras, ¿intuyo que tus aventuras han sido gratificantes?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495312
+    m_Localized: No te preocupes por mí, soy un superviviente.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495313
+    m_Localized: Ah, la persona portadora de la séptima trompeta vuelve a provocar a su antiguo dueño...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495314
+    m_Localized: Estoy un poco triste, pero ¿qué más da?
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
+

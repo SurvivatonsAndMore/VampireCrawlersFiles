@@ -1,0 +1,1029 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -299433217, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Blueberries Shared Data
+  m_EditorClassIdentifier:
+  m_TableCollectionName: Blueberries
+  m_TableCollectionNameGuidString: de5cbd3393db2e94ca2d2ff852b58ecc
+  m_Entries:
+  - m_Id: 14603972760252416
+    m_Key: ACHIEVEMENT_AMBROJOE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2284044935168
+    m_Key: LA_ROBBA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2284095266816
+    m_Key: LA_ROBBA_L0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2188433052086272
+    m_Key: ARCANA_NAME_CRAWLER_BRAWLER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2188433089835008
+    m_Key: ARCANA_DESCRIPTION_CRAWLER_BRAWLER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2188433089835009
+    m_Key: ARCANA_SHORT_DESC_CRAWLER_BRAWLER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4416592655011840
+    m_Key: ARCANA_NAME_INFINITE_COMBO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4416592684371968
+    m_Key: ARCANA_DESCRIPTION_INFINITE_COMBO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4416592684371969
+    m_Key: ARCANA_SHORT_DESC_INFINITE_COMBO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5085614268473344
+    m_Key: DISCARD_X_EFFECT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5424281531043840
+    m_Key: SWITCH_X_EFFECT_KEYWORD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5424281531043841
+    m_Key: SWITCH_X_EFFECT_KEYWORD_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7251841128587264
+    m_Key: ADAPTABILITY_KEYWORD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7251841162141696
+    m_Key: ADAPTABILITY_KEYWORD_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7604875813707776
+    m_Key: GEM_DESC_ADAPTABILITY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7634092110635008
+    m_Key: HAND_SIZE_LIMIT_MODE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7700284548571136
+    m_Key: EFFECT_DISABLED_WRAPPER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7702454513688576
+    m_Key: AFTERLIFE_KEYWORD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7702454547243008
+    m_Key: AFTERLIFE_KEYWORD_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7963983708413952
+    m_Key: GEM_DESC_AFTERLIFE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7967692785967104
+    m_Key: GEM_NAME_AFTERLIFE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7967692815327232
+    m_Key: GEM_NAME_ADAPTABILITY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8024049274839040
+    m_Key: RELIC_TAPPO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8024049308393472
+    m_Key: RELIC_TAPPO_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8024049308393473
+    m_Key: RELIC_TAPPO_DESC_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476304997965824
+    m_Key: SCAVENGE_KEYWORD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476305031520256
+    m_Key: SCAVENGE_KEYWORD_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476305031520257
+    m_Key: UNEARTHLY_BOLT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476305031520258
+    m_Key: UNEARTHLY_BOLT_L0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476305031520259
+    m_Key: SPIRIT_DISTURBANCE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476305031520260
+    m_Key: SPIRIT_DISTURBANCE_L0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9928406866014208
+    m_Key: CARD_PICKUP_BONE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9928406907957248
+    m_Key: CARD_PICKUP_SMALLER_COIN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10178850515312640
+    m_Key: FCC_ACTION_ON_DRAW_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10178850624364544
+    m_Key: FCC_ACTION_ON_GOLD_GAINED_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10178850624364545
+    m_Key: FCC_ACTION_ON_DISCARD_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10333246305808384
+    m_Key: MOONGOLOW_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10333246343557120
+    m_Key: MOONGOLOW_2_DESC_VS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10333246343557121
+    m_Key: MOONGOLOW_2_DESC_ALT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10620020227825664
+    m_Key: GIVE_CARD_EFFECT_EFFECT_KEYWORD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10620020278157312
+    m_Key: GIVE_CARD_EFFECT_EFFECT_KEYWORD_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369241960341504
+    m_Key: ARCANA_DESCRIPTION_CRAWLER_BRAWLER_NEW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284544
+    m_Key: ARCANA_SHORT_DESC_CRAWLER_BRAWLER_NEW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284545
+    m_Key: TROUBLER_CHAT_IDLE_TROUBLER_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284546
+    m_Key: TROUBLER_CHAT_IDLE_TROUBLER_B
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284547
+    m_Key: TROUBLER_CHAT_IDLE_TROUBLER_C
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284548
+    m_Key: ACHIEVEMENT_UNLOCK_MG_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284549
+    m_Key: ACHIEVEMENT_UNLOCK_MG_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284550
+    m_Key: TEMPORARILY_FREE_KEYWORD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284551
+    m_Key: TEMPORARILY_FREE_KEYWORD_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12373404911919104
+    m_Key: BOUNCY_KEYWORD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12373404953862144
+    m_Key: BOUNCY_KEYWORD_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12373404953862145
+    m_Key: CRIT_EXPLOSION_KEYWORD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12373404953862146
+    m_Key: CRIT_EXPLOSION_KEYWORD_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12373404953862147
+    m_Key: ROARING_KEYWORD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12373404953862148
+    m_Key: ROARING_KEYWORD_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940801093632
+    m_Key: TROUBLER_BIO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259456
+    m_Key: TROUSER_BIO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259457
+    m_Key: GEM_NAME_SWITCH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259458
+    m_Key: GEM_DESC_SWITCH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259459
+    m_Key: GEM_NAME_SCAVENGE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259460
+    m_Key: GEM_DESC_SCAVENGE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259461
+    m_Key: GEM_NAME_MANA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259462
+    m_Key: GEM_DESC_MANA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13087326673514497
+    m_Key: GALLO_TOWER_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13087326673514498
+    m_Key: GALLO_TOWER_02_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13087326673514499
+    m_Key: ARCANA_NAME_COMBO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13087326673514500
+    m_Key: ARCANA_DESCRIPTION_COMBO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13087326673514501
+    m_Key: ARCANA_SHORT_DESC_COMBO_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13087326673514502
+    m_Key: ARCANA_SHORT_DESC_COMBO_B
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13091003727556608
+    m_Key: MOONGOLOW_2 _ALT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13108134305280000
+    m_Key: LEDA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13108134305280001
+    m_Key: LEDA_FN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13108134305280002
+    m_Key: LEDA_BIO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13183508871589888
+    m_Key: ACHIEVEMENT_UNLOCK_GT_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13183508900950016
+    m_Key: REWARD_UNLOCK_MG_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13183508900950017
+    m_Key: REWARD_UNLOCK_MG_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13183508900950018
+    m_Key: REWARD_UNLOCK_GT_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13183508900950019
+    m_Key: ACHIEVEMENT_TAPPO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13183508905144320
+    m_Key: ACHIEVEMENT_TAPPO_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13183508905144321
+    m_Key: REWARD_TAPPO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13183508905144322
+    m_Key: ACHIEVEMENT_RELICHANDSIZE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13183508905144323
+    m_Key: ACHIEVEMENT_RELICHANDSIZE_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13183508905144324
+    m_Key: REWARD_RELICHANDSIZE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537641012703232
+    m_Key: RELIC_HANDSIZE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537641063034880
+    m_Key: RELIC_HANDSIZE_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14560062499446784
+    m_Key: ACHIEVEMENT_UNLOCK_MG_00
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14560062533001216
+    m_Key: REWARD_UNLOCK_MG_00
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14560062533001217
+    m_Key: ACHIEVEMENT_UNLOCK_MG_00_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14560062533001218
+    m_Key: ACHIEVEMENT_UNLOCK_MG_00_DESC_ALT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503580381184
+    m_Key: ACHIEVEMENT_GEM_ADAPTABILITY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503622324224
+    m_Key: ACHIEVEMENT_GEM_ADAPTABILITY_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503622324225
+    m_Key: ACHIEVEMENT_GEM_ADAPTABILITY_DESC_GENERAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503622324226
+    m_Key: ACHIEVEMENT_GEM_SWITCH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503622324227
+    m_Key: ACHIEVEMENT_GEM_SWITCH_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503622324228
+    m_Key: ACHIEVEMENT_GEM_SWITCH_DESC_GENERAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503622324229
+    m_Key: ACHIEVEMENT_GEM_AFTERLIFE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503622324230
+    m_Key: ACHIEVEMENT_GEM_AFTERLIFE_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503622324231
+    m_Key: ACHIEVEMENT_GEM_AFTERLIFE_DESC_GENERAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503622324232
+    m_Key: ACHIEVEMENT_GEM_SCAVENGE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503622324233
+    m_Key: ACHIEVEMENT_GEM_SCAVENGE_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503622324234
+    m_Key: ACHIEVEMENT_GEM_SCAVENGE_DESC_GENERAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503622324241
+    m_Key: ACHIEVEMENT_INFINITECOMBO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503622324242
+    m_Key: ACHIEVEMENT_INFINITECOMBO_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503622324243
+    m_Key: REWARD_INFINITECOMBO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503622324244
+    m_Key: ACHIEVEMENT_CHAIRGAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503622324245
+    m_Key: ACHIEVEMENT_CHAIRGAME_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503622324246
+    m_Key: REWARD_CHAIRGAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503626518528
+    m_Key: ACHIEVEMENT_CRAWLERBRAWLER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503626518529
+    m_Key: ACHIEVEMENT_CRAWLERBRAWLER_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503626518530
+    m_Key: REWARD_CRAWLERBRAWLER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503626518531
+    m_Key: ACHIEVEMENT_EBBCOMBO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503626518532
+    m_Key: ACHIEVEMENT_EBBCOMBO_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503626518533
+    m_Key: REWARD_EBBCOMBO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603972793806848
+    m_Key: ACHIEVEMENT_AMBROJOE_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603972793806849
+    m_Key: ACHIEVEMENT_AMBROJOE_DESC_ALT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603972793806850
+    m_Key: REWARD_AMBROJOE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603972793806851
+    m_Key: ACHIEVEMENT_TROUBLER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603972793806852
+    m_Key: ACHIEVEMENT_TROUBLER_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603972793806853
+    m_Key: REWARD_TROUBLER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603972793806854
+    m_Key: ACHIEVEMENT_EVO_SPIRIT_DISTURBANCE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14603972793806855
+    m_Key: ACHIEVEMENT_EVO_SPIRIT_DISTURBANCE_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15650607699275776
+    m_Key: MOONGOLOW_2 _ALT2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15650607741218816
+    m_Key: ARCANA_NAME_CHAIR_GAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15650607741218817
+    m_Key: ARCANA_DESCRIPTION_CHAIR_GAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15650607741218818
+    m_Key: ARCANA_SHORT_DESC_CHAIR_GAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15650607741218819
+    m_Key: ACHIEVEMENT_UNLOCK_MF_01_NEW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15650607741218820
+    m_Key: ACHIEVEMENT_UNLOCK_MF_01_DESC_NEW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15650607741218821
+    m_Key: REWARD_UNLOCK_MF_01_NEW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15650607741218822
+    m_Key: ACHIEVEMENT_ROSARY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15650607741218823
+    m_Key: REWARD_ROSARY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15650607741218824
+    m_Key: REWARD_ROSARY_ALT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15665453325037568
+    m_Key: REWARD_OROLOGION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15665453325037569
+    m_Key: REWARD_UNLOCK_DESC_GENERAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15678690565238784
+    m_Key: REWARD_GEMS01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15678690611376128
+    m_Key: REWARD_GEMS01_ALT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15678690611376129
+    m_Key: REWARD_GEMS01_ALT2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15678690611376130
+    m_Key: ACHIEVEMENT_GEMS01_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377280
+    m_Key: REWARD_SHOPTIER_GENERIC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377281
+    m_Key: ACHIEVEMENT_PASSIVE_UPGRADES_ARMOR_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377282
+    m_Key: ACHIEVEMENT_PASSIVE_UPGRADES_CANDLE_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377283
+    m_Key: REWARD_CHICKENSHOPS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377284
+    m_Key: REWARD_CHICKENSHOPS_ALT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377285
+    m_Key: ACHIEVEMENT_PASSIVE_UPGRADES_CROWN_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377286
+    m_Key: ACHIEVEMENT_PASSIVE_UPGRADES_TOME_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377287
+    m_Key: ACHIEVEMENT_PASSIVE_UPGRADES_DUPLICATOR_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377288
+    m_Key: ACHIEVEMENT_PASSIVE_UPGRADES_HOLLOW_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377289
+    m_Key: ACHIEVEMENT_PASSIVE_UPGRADES_SPINACH_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377290
+    m_Key: ACHIEVEMENT_PASSIVE_UPGRADES_PUMMAROLA_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377291
+    m_Key: ACHIEVEMENT_REROLL_DROP_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377292
+    m_Key: REWARD_REROLL_DROP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377293
+    m_Key: REWARD_REROLL_DROP_ALT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377294
+    m_Key: REWARD_DUPLICATION_TABLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377295
+    m_Key: REWARD_DUPLICATION_TABLE_ALT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377296
+    m_Key: REWARD_DUPLICATION_TABLE_ALT2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377297
+    m_Key: REWARD_DUPLICATION_TABLE_ALT3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377298
+    m_Key: REWARD_MANA_TABLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377299
+    m_Key: REWARD_MANA_TABLE_ALT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377300
+    m_Key: REWARD_GFH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377301
+    m_Key: REWARD_GFH_ALT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377302
+    m_Key: REWARD_GFH_ALT2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377303
+    m_Key: REWARD_GFH_ALT3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377304
+    m_Key: REWARD_GFH_ALT4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377305
+    m_Key: CRAWLER_KEYWORD_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377306
+    m_Key: CRAWLER_KEYWORD_2_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377307
+    m_Key: CRAWLER_KEYWORD_2_ALT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377308
+    m_Key: CRAWLER_KEYWORD_2_ALT2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15713194147262464
+    m_Key: ACHIEVEMENT_GENERAL_GEM_CORAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15713194185011200
+    m_Key: ACHIEVEMENT_GENERAL_GEM_GENERAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054428069888
+    m_Key: SCAVENGE_KEYWORD_DESC_ALT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818624
+    m_Key: SCAVENGE_KEYWORD_DESC_ALT2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818625
+    m_Key: SCAVENGE_KEYWORD_DESC_ALT3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818626
+    m_Key: CARD_PICKUP_BONE_ALT2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818627
+    m_Key: CARD_PICKUP_BONE_ALT3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818628
+    m_Key: FCC_ACTION_ON_GOLD_GAINED_DESC_ALT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818629
+    m_Key: FCC_ACTION_ON_GOLD_GAINED_DESC_ALT2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818630
+    m_Key: FCC_ACTION_ON_GOLD_GAINED_DESC_ALT3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818631
+    m_Key: FCC_ACTION_ON_DRAW_DESC_ALT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818632
+    m_Key: FCC_ACTION_ON_DISCARD_DESC_ALT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818633
+    m_Key: GIVE_CARD_EFFECT_EFFECT_KEYWORD_ALT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818634
+    m_Key: GEM_DESC_SWITCH_SINGLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17085329412534272
+    m_Key: ARCANA_DESCRIPTION_INFINITE_COMBO_ALT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17085329433505792
+    m_Key: ARCANA_SHORT_DESC_INFINITE_COMBO_ALT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17085329433505793
+    m_Key: GEM_DESC_ADAPTABILITY_ALT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17118668927217664
+    m_Key: ADD_PURSE_KEYWORD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17466142275612672
+    m_Key: DURATION_CARD_DESC_SEPARATED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17466142313361408
+    m_Key: ADD_CARD_EFFECT_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17466142313361409
+    m_Key: TEMPORARILY_FREE_EFFECT_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17466142313361410
+    m_Key: SWITCH_X_EFFECT_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17872157261377536
+    m_Key: AFTERLIFE_KEYWORD_DESC_ALT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17872157320097792
+    m_Key: AFTERLIFE_KEYWORD_DESC_ALT2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17872157320097793
+    m_Key: ADD_COIN_CARD_KEYWORD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377737789440
+    m_Key: ACHIEVEMENT_GENERAL_GEM_CORAL_ONE_RUN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732480
+    m_Key: ACHIEVEMENT_GENERAL_GEM_GENERAL_ONE_RUN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732481
+    m_Key: WELL_WELL_EXPLANATION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732482
+    m_Key: WELL_WELL_EXPLANATION1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732483
+    m_Key: WELL_WELL_EXPLANATION2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732484
+    m_Key: WELL_WELL_EXPLANATION3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732485
+    m_Key: WELL_WELL_NEGATIVE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732486
+    m_Key: WELL_WELL_NEGATIVE1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732487
+    m_Key: WELL_WELL_NEGATIVE2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732488
+    m_Key: WELL_WELL_TITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732489
+    m_Key: WELL_WELL_TITLE1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732490
+    m_Key: WELL_WELL_TITLE2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732491
+    m_Key: TANKY_KEYWORD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732492
+    m_Key: TANKY_KEYWORD1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732493
+    m_Key: TANKY_KEYWORD2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732494
+    m_Key: TANKY_KEYWORD3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732495
+    m_Key: TANKY_LEDA_KEYWORD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732496
+    m_Key: TANKY_LEDA_KEYWORD1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732497
+    m_Key: TANKY_LEDA_KEYWORD2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732498
+    m_Key: TANKY_LEDA_KEYWORD3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732499
+    m_Key: TANKY_KEYWORD_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732500
+    m_Key: TANKY_KEYWORD_DESC1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732501
+    m_Key: TANKY_KEYWORD_DESC2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732502
+    m_Key: TANKY_KEYWORD_DESC3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732503
+    m_Key: TANKY_KEYWORD_DESC4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732504
+    m_Key: TANKY_KEYWORD_DESC5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732505
+    m_Key: TANKY_KEYWORD_DESC6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732506
+    m_Key: TANKY_KEYWORD_DESC7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732507
+    m_Key: TANKY_LEDA_KEYWORD_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732508
+    m_Key: TANKY_LEDA_KEYWORD_DESC1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19623048880533504
+    m_Key: ACHIEVEMENT_GENERAL_GEM_CORAL_ONE_DUNGEON
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19623048922476544
+    m_Key: ACHIEVEMENT_GENERAL_GEM_GENERAL_ONE_DUNGEON
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19994491061481472
+    m_Key: LEDA_UNIQUE_FCC_INN_LOC1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19994491107618816
+    m_Key: LEDA_UNIQUE_FCC_INN_LOC2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19994491107618817
+    m_Key: LEDA_UNIQUE_FCC_INN_LOC3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23211258547351552
+    m_Key: HAND_SIZE_CAP_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25292387018420224
+    m_Key: FATIGUE_KEYWORD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25292387039391744
+    m_Key: FATIGUE_KEYWORD_DESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25773564396253184
+    m_Key: HAND_SIZE_CAP_MAP_CALLOUT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820091674624
+    m_Key: HAND_SIZE_CAP_MAP_CALLOUT1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006272
+    m_Key: DUNGEON_CARD1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006273
+    m_Key: DUNGEON_CARD2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006274
+    m_Key: DUNGEON_CARD3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006275
+    m_Key: DUNGEON_CARD4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006276
+    m_Key: DUNGEON_CARD5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006277
+    m_Key: DUNGEON_CARD6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006278
+    m_Key: DUNGEON_CARD7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006279
+    m_Key: DUNGEON_CARD8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006280
+    m_Key: DUNGEON_CARD9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33736980159717376
+    m_Key: NEW_TROUBLER_EFFECT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33736980193271808
+    m_Key: NEW_TROUBLER_EFFECT2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33736980193271809
+    m_Key: NEW_TROUBLER_EFFECT3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33736980193271810
+    m_Key: NEW_TROUBLER_TOOLTIP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33736980193271811
+    m_Key: NEW_TROUBLER_TOOLTIP2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33744845264052224
+    m_Key: NEW_TROUBLER_DESCRIPTION_G
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34335007102656512
+    m_Key: NEW_TROUBLER_DESCRIPTION_G_PLURAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34335007136210944
+    m_Key: NEW_TROUBLER_FCC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35492381125435392
+    m_Key: ARCANA_DESC_CRAWLER_BRAWLER_FATIGUE
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3986381855948275866
+  references:
+    version: 2
+    RefIds:
+    - rid: 3986381855948275866
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1780931475867
+

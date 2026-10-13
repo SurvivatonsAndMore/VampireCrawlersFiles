@@ -1,0 +1,1248 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Blueberries_pt-BR
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: pt-BR
+  m_SharedData: {fileID: 11400000, guid: 9f007cf6483f831498f17fb571079813, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 193345922286223364
+  m_TableData:
+  - m_Id: 14603972760252416
+    m_Localized: '{db.FCC.FCC_Ambrojoe.FirstName}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 2284044935168
+    m_Localized: La Robba
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2284095266816
+    m_Localized: Joga móveis.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2188433052086272
+    m_Localized: Rastejante Combatente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2188433089835008
+    m_Localized: Cartas de Rastejante ganham um gatilho colorido aleatório extra quando jogadas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2188433089835009
+    m_Localized: Cartas de Rastejante ganham um gatilho colorido aleatório extra quando jogadas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4416592655011840
+    m_Localized: Combo Infinito
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4416592684371968
+    m_Localized: Compre uma mão nova quando a última carta da mão continuar um Combo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4416592684371969
+    m_Localized: Compre uma mão nova quando a última carta da mão continuar um Combo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5085614268473344
+    m_Localized: Descarte {Count:p:1 carta|{:N0} cartas} da {GlobalKeywords.Hand}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 5424281531043840
+    m_Localized: '{:color(Keyword):Switch}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 5424281531043841
+    m_Localized: Descarte {ActionValue:p:1 carta aleatória|{:N0} cartas aleatórias} da {GlobalKeywords.Hand}, depois compre {ActionValue:N0}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 7251841128587264
+    m_Localized: '{:color(Keyword):Adaptabilidade}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 7251841162141696
+    m_Localized: Esta carta custa a quantidade correta para continuar um combo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7604875813707776
+    m_Localized: Concede Adaptabilidade a esta carta.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7634092110635008
+    m_Localized: Limite do tamanho da mão
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7700284548571136
+    m_Localized: '{effectString:disabled:}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 7702454513688576
+    m_Localized: '{:color(Keyword):Pós-vida}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 7702454547243008
+    m_Localized: Ao ser descartada, os efeitos desta carta continuam.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7963983708413952
+    m_Localized: O efeito da carta é ativado no descarte.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7967692785967104
+    m_Localized: Pós-vida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7967692815327232
+    m_Localized: Adaptabilidade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8024049274839040
+    m_Localized: Tampinha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8024049308393472
+    m_Localized: Impede o surgimento do Afogador.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8024049308393473
+    m_Localized: Atrasa o surgimento do Afogador.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476304997965824
+    m_Localized: '{:color(Keyword):Reciclagem}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 9476305031520256
+    m_Localized: Ganhe 1 Reciclagem sempre que uma carta for descartada. As cartas de Reciclagem disparam projéteis adicionais em número igual ao seu valor de Reciclagem.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476305031520257
+    m_Localized: Raio Etéreo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476305031520258
+    m_Localized: Acertos críticos podem explodir.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476305031520259
+    m_Localized: Distúrbio Espiritual
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476305031520260
+    m_Localized: Evolução do Raio Etéreo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9928406866014208
+    m_Localized: Fêmur Flutuante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9928406907957248
+    m_Localized: Moeda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10178850515312640
+    m_Localized: '{FccAction} quando uma carta é comprada {TriggerType.Icon}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 10178850624364544
+    m_Localized: '{FccAction} ao receber ouro {TriggerType.Icon}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 10178850624364545
+    m_Localized: '{FccAction} quando uma carta é descartada {TriggerType.Icon}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 10333246305808384
+    m_Localized: Moongohigh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10333246343557120
+    m_Localized: Nas profundezas mais misteriosas, onde as águas mais estranhas estão à espera, aventureiros encharcados podem causar um grande rebuliço.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10333246343557121
+    m_Localized: 'Quanto mais fundo, onde menos a luz da lua alcança, aventureiros desesperados são atraídos por qualquer coisa que se mova.  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10620020227825664
+    m_Localized: '{:color(Keyword):Causar Efeito}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 10620020278157312
+    m_Localized: Adicione {CardEffect.KeywordName} a uma carta {CardType.Icon} aleatória
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 12369241960341504
+    m_Localized: Cartas de Rastejante ganham um gatilho de tipo de carta aleatório extra ao serem jogadas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284544
+    m_Localized: Cartas de Rastejante ganham um gatilho aleatório extra ao serem jogadas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284545
+    m_Localized: Você?   Quer dizer... eu!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284546
+    m_Localized: Eu, eu, eu, eu, eu...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284547
+    m_Localized: Será que isso é algum tipo de magia?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284548
+    m_Localized: Desbloqueie a {db.Dungeon.Dungeon_Soda_01.Name}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 12369242002284549
+    m_Localized: Desbloqueie a {db.Dungeon.Dungeon_Soda_02.Name}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 12369242002284550
+    m_Localized: (Porbably not going to be used but needs to be assigned just in case)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284551
+    m_Localized: Deixa uma carta aleatória grátis temporariamente.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12373404911919104
+    m_Localized: '{:color(Keyword):Saltitante}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 12373404953862144
+    m_Localized: Chance de saltar para alvos extras.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12373404953862145
+    m_Localized: '{:color(Keyword):Explosão Crítica}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 12373404953862146
+    m_Localized: Explode ao fazer acertos críticos, causando dano a inimigos adjacentes.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12373404953862147
+    m_Localized: '{:color(Keyword):Rugido}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 12373404953862148
+    m_Localized: O dano de Área pode causar um acerto crítico e aumenta à medida que se espalha.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940801093632
+    m_Localized: PLACEHOLDER<br>Troubler Bio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259456
+    m_Localized: PLACEHOLDER<br>Trouser Bio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259457
+    m_Localized: Troca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259458
+    m_Localized: Descarta cartas e compra novas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259459
+    m_Localized: Reciclagem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259460
+    m_Localized: Dispara projéteis adicionais com base nas cartas descartadas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259461
+    m_Localized: Mana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259462
+    m_Localized: Receba Mana.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13087326673514497
+    m_Localized: Masmorras de Gallo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13087326673514498
+    m_Localized: Sob a torre do feiticeiro, um labirinto inexplorado, cheio de experimentos fracassados e segredos vergonhosos. Ué, jurava que tinha deixado um baú de casacos bonitos aqui embaixo...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13087326673514499
+    m_Localized: Fluxo e Combo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13087326673514500
+    m_Localized: Chance de aumentar o {GlobalKeywords.Combo} quando uma carta é descartada.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 13087326673514501
+    m_Localized: '{Arcana.EffectValue.0:N0}% de chance de aumentar o {GlobalKeywords.Combo} quando uma carta é descartada.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 13087326673514502
+    m_Localized: (NOT USING)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13091003727556608
+    m_Localized: Fossa de Moongolow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13108134305280000
+    m_Localized: Leda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13108134305280001
+    m_Localized: Leda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13108134305280002
+    m_Localized: (not used yet)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13183508871589888
+    m_Localized: Desbloqueie a {db.Dungeon.Dungeon_GalloBelow_01.Name}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 13183508900950016
+    m_Localized: '{db.Dungeon.Dungeon_Soda_01.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 13183508900950017
+    m_Localized: '{db.Dungeon.Dungeon_Soda_02.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 13183508900950018
+    m_Localized: '{db.Dungeon.Dungeon_GalloBelow_01.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 13183508900950019
+    m_Localized: Desbloqueie {db.relic.RelicConfig_Tappo.Name}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 13183508905144320
+    m_Localized: Encontre a {GlobalKeywords.Relic} {db.relic.RelicConfig_Tappo.Name}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 13183508905144321
+    m_Localized: '{db.relic.RelicConfig_Tappo.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 13183508905144322
+    m_Localized: 'Desbloqueie {db.relic.RelicConfig_GalileosHand.Name} '
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 13183508905144323
+    m_Localized: Encontre a {GlobalKeywords.Relic} {db.relic.RelicConfig_GalileosHand.Name}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 13183508905144324
+    m_Localized: '{db.relic.RelicConfig_GalileosHand.Name} '
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 14537641012703232
+    m_Localized: Mão de Galileu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537641063034880
+    m_Localized: Adiciona um botão de limite de tamanho de mão no mapa do mundo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14560062499446784
+    m_Localized: Desbloqueie {db.Dungeon.Dungeon_Moongolow_teaser.Name}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 14560062533001216
+    m_Localized: '{db.Dungeon.Dungeon_Moongolow_teaser.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 14560062533001217
+    m_Localized: Derrote o Finalizador.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14560062533001218
+    m_Localized: Conclua o jogo normal.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503580381184
+    m_Localized: '{GlobalKeywords.Gem} {db.Gems.GemConfig_SetCostType_Adaptability.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 14593503622324224
+    m_Localized: Derrote o Afogador.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503622324225
+    m_Localized: Derrote o Afogador na {db.Dungeon.Dungeon_GalloBelow_01.Name}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 14593503622324226
+    m_Localized: '{GlobalKeywords.Gem} {db.Gems.GemConfig_Switch.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 14593503622324227
+    m_Localized: Encontre a {GlobalKeywords.Gem} {db.Gems.GemConfig_Switch.Name} no bioma {db.Dungeon.Dungeon_Soda_01.Name}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 14593503622324228
+    m_Localized: Encontre a {GlobalKeywords.Gem} {db.Gems.GemConfig_Switch.Name}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 14593503622324229
+    m_Localized: '{GlobalKeywords.Gem} {db.Gems.GemConfig_Afterlife.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 14593503622324230
+    m_Localized: Encontre a {GlobalKeywords.Gem} {db.Gems.GemConfig_Afterlife.Name} no bioma {db.Dungeon.Dungeon_Soda_01.Name}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 14593503622324231
+    m_Localized: Encontre a {GlobalKeywords.Gem} {db.Gems.GemConfig_Afterlife.Name}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 14593503622324232
+    m_Localized: '{GlobalKeywords.Gem} {db.Gems.GemConfig_Scavenge.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 14593503622324233
+    m_Localized: Encontre a {GlobalKeywords.Gem} {db.Gems.GemConfig_Scavenge.Name} no bioma {db.Dungeon.Dungeon_Soda_01.Name}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 14593503622324234
+    m_Localized: Encontre a {GlobalKeywords.Gem} {db.Gems.GemConfig_Scavenge.Name}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 14593503622324241
+    m_Localized: '{db.Arcana.ArcanaConfig_InfiniteCombo.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 14593503622324242
+    m_Localized: Finalize {Achievement.Value:N0} turnos sem cartas na mão.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 14593503622324243
+    m_Localized: '{GlobalKeywords.Arcana} {db.Arcana.ArcanaConfig_InfiniteCombo.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 14593503622324244
+    m_Localized: '{db.Arcana.ArcanaConfig_ChairGame.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 14593503622324245
+    m_Localized: Troque {Achievement.Value:N0} cartas.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 14593503622324246
+    m_Localized: '{GlobalKeywords.Arcana} {db.Arcana.ArcanaConfig_ChairGame.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 14593503626518528
+    m_Localized: '{db.Arcana.ArcanaConfig_CrawlerBrawler.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 14593503626518529
+    m_Localized: Derrote o Gallo Espectral com Gallo em {db.Dungeon.Dungeon_GalloBelow_01.Name}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 14593503626518530
+    m_Localized: '{GlobalKeywords.Arcana} {db.Arcana.ArcanaConfig_CrawlerBrawler.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 14593503626518531
+    m_Localized: '{db.Arcana.ArcanaConfig_EbbAndCombo.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 14593503626518532
+    m_Localized: ' Consiga um Combo de {Achievement.Value:N0} na {db.Dungeon.Dungeon_Soda_01.Name}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 14593503626518533
+    m_Localized: '{GlobalKeywords.Arcana} {db.Arcana.ArcanaConfig_EbbAndCombo.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 14603972793806848
+    m_Localized: Encontre o {GlobalKeywords.Coffin} na {db.Dungeon.Dungeon_GalloBelow_01.Name}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 14603972793806849
+    m_Localized: Destrua {Achievement.Value:N0} itens quebráveis na {db.Dungeon.Dungeon_GalloBelow_01.Name}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 14603972793806850
+    m_Localized: '{db.FCC.FCC_Ambrojoe.FirstName}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 14603972793806851
+    m_Localized: '{db.FCC.FCC_BigTroubler.FirstName}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 14603972793806852
+    m_Localized: Encontre o {GlobalKeywords.Coffin} na {db.Dungeon.Dungeon_Soda_01.Name}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 14603972793806853
+    m_Localized: '{db.FCC.FCC_BigTroubler.FirstName}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 14603972793806854
+    m_Localized: Descubra a carta {db.Cards.Card_A_4_SpiritDisturbance.Name}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 14603972793806855
+    m_Localized: Evolua a carta {db.Cards.Card_A_1_UnearthlyBolt.Name}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 15650607699275776
+    m_Localized: Moongolower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15650607741218816
+    m_Localized: Dança das Cadeiras
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15650607741218817
+    m_Localized: Uma vez por turno, quando nenhuma carta na {GlobalKeywords.Hand} puder continuar o {GlobalKeywords.Combo}, ativa a troca {Arcana.EffectValue.0:N0}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 15650607741218818
+    m_Localized: Quando nenhuma carta na {GlobalKeywords.Hand} puder continuar o {GlobalKeywords.Combo}, ativa a troca {Arcana.EffectValue.0:N0}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 15650607741218819
+    m_Localized: Desbloqueie a {db.Dungeon.Dungeon_Madforest_01.Name}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 15650607741218820
+    m_Localized: Conclua o tutorial.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15650607741218821
+    m_Localized: '{db.Dungeon.Dungeon_Madforest_01.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 15650607741218822
+    m_Localized: Desbloqueie a {db.Cards.Card_E_Rosary.Name}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 15650607741218823
+    m_Localized: '{db.Cards.Card_E_Rosary.Name} adicionada às masmorras'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 15650607741218824
+    m_Localized: '{db.Cards.Card_E_Rosary.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 15665453325037568
+    m_Localized: '{db.Cards.Card_E_Orologion.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 15665453325037569
+    m_Localized: Desbloqueie {Achievement.RewardName}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 15678690565238784
+    m_Localized: Pacote de Joias 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15678690611376128
+    m_Localized: Joias Básicas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15678690611376129
+    m_Localized: Joias de Atributos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15678690611376130
+    m_Localized: Conclua o nível 2 da Floresta Insana.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377280
+    m_Localized: Novos Aprimoramentos adicionados ao Empório
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377281
+    m_Localized: Jogue cartas de {db.Cards.Card_D_0_Armor.Name} {Achievement.Value:N0} vezes.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 15705243441377282
+    m_Localized: Jogue cartas de {db.Cards.Card_S_0_Candelabrador.Name} {Achievement.Value:N0} vezes.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 15705243441377283
+    m_Localized: Galeterias
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377284
+    m_Localized: Eventos de Galeterias
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377285
+    m_Localized: Jogue cartas de {db.Cards.Card_S_1_Crown.Name} {Achievement.Value:N0} vezes.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 15705243441377286
+    m_Localized: Jogue cartas de {db.Cards.Card_B_0_EmptyTome.Name} {Achievement.Value:N0} vezes.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 15705243441377287
+    m_Localized: Jogue cartas de {db.Cards.Card_S_1_Duplicator.Name} {Achievement.Value:N0} vezes.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 15705243441377288
+    m_Localized: Jogue cartas de {db.Cards.Card_S_1_HollowHeart.Name} {Achievement.Value:N0} vezes.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 15705243441377289
+    m_Localized: Jogue cartas de {db.Cards.Card_S_1_Spinach.Name} {Achievement.Value:N0} vezes.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 15705243441377290
+    m_Localized: Jogue cartas de {db.Cards.Card_S_1_Pummarola.Name} {Achievement.Value:N0} vezes.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 15705243441377291
+    m_Localized: Compre o Aprimoramento Rolar Nov.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377292
+    m_Localized: Rolar Nov. adicionada às Masmorras
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377293
+    m_Localized: Rolar Nov. pode ser encontrado nas fontes de luz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377294
+    m_Localized: Mesas de Duplicação
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377295
+    m_Localized: Eventos de Mesas de Duplicação
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377296
+    m_Localized: Espelhos Misteriosos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377297
+    m_Localized: Eventos de Espelhos Misteriosos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377298
+    m_Localized: Escambo de Mana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377299
+    m_Localized: Eventos de Escambo de Mana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377300
+    m_Localized: Eventos de Mercenário
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377301
+    m_Localized: Latrina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377302
+    m_Localized: Eventos da Latrina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377303
+    m_Localized: Recrutamento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377304
+    m_Localized: Eventos de Recrutamento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377305
+    m_Localized: '{:color(Keyword):Rastejante*}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 15705243441377306
+    m_Localized: Rastejante com mais de uma habilidade.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377307
+    m_Localized: '{:color(Keyword):Faz-tudo}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 15705243441377308
+    m_Localized: '{:color(Keyword):Rastejante 2}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 15713194147262464
+    m_Localized: Encontre {Achievement.Value:N0} Joias no Coral quebrável do bioma {db.Dungeon.Dungeon_Soda_01.Name}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 15713194185011200
+    m_Localized: Encontre {Achievement.Value:N0} Joias nos itens quebráveis do bioma {db.Dungeon.Dungeon_Soda_01.Name}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 17548054428069888
+    m_Localized: Ganhe cargas de Reciclagem sempre que uma carta for descartada. As cartas de Reciclagem disparam projéteis adicionais.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818624
+    m_Localized: Dispara projéteis adicionais com base na contagem de Reciclagem atual. A Reciclagem aumenta ao descartar cartas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818625
+    m_Localized: Dispara projéteis adicionais com base no número de cartas descartadas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818626
+    m_Localized: Fêmur Flutuante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818627
+    m_Localized: Fêmur Flutuante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818628
+    m_Localized: '{FccAction} ao receber ouro {TriggerType.Icon}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 17548054465818629
+    m_Localized: '{FccAction} ao receber moedas {TriggerType.Icon}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 17548054465818630
+    m_Localized: '{FccAction} ao receber moedas {TriggerType.Icon}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 17548054465818631
+    m_Localized: '{FccAction} ao comprar {TriggerType.Icon}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 17548054465818632
+    m_Localized: '{FccAction} ao descartar {TriggerType.Icon}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 17548054465818633
+    m_Localized: '{:color(Keyword):Imbuir}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 17548054465818634
+    m_Localized: Descarte uma carta e compre uma nova.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17085329412534272
+    m_Localized: Se sua carta final continuar um combo, compre uma nova mão de cartas imediatamente.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17085329433505792
+    m_Localized: Se você ficar sem cartas durante um combo, compre mais.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17085329433505793
+    m_Localized: A carta tem o custo correto para continuar o combo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17118668927217664
+    m_Localized: '{:color(Keyword):{db.Cards.Card_E_CoinPurse.Name}}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 17466142275612672
+    m_Localized: Efeitos de {:color(Keyword):Duração} do :{:color(Keyword):Rastejante} se ativam {FccDuration:p:uma vez|{:N0} vezes}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 17466142313361408
+    m_Localized: Crie uma carta de moeda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17466142313361409
+    m_Localized: Deixa uma carta aleatória grátis temporariamente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17466142313361410
+    m_Localized: Descarte {ActionValue:p:1 carta aleatória|{:N0} cartas aleatórias} da {GlobalKeywords.Hand}, depois compre {ActionValue:N0}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 17872157261377536
+    m_Localized: A carta é ativada quando descartada.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17872157320097792
+    m_Localized: A carta é ativada quando descartada. Ignora o combo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17872157320097793
+    m_Localized: '{:color(Keyword):{db.Cards.Card_E_CoinCard.Name}}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 18287377737789440
+    m_Localized: Encontre {Achievement.Value:N0} Joias no Coral quebrável do bioma {db.Dungeon.Dungeon_Soda_01.Name} em uma só partida.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 18287377779732480
+    m_Localized: Encontre {Achievement.Value:N0} Joias em Corais quebráveis do bioma {db.Dungeon.Dungeon_Soda_01.Name} em uma só partida.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 18287377779732481
+    m_Localized: Jogue algumas moedas e talvez ganhe um prêmio!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732482
+    m_Localized: Moedas = ???
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732483
+    m_Localized: Esbarre para lançar moedas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732484
+    m_Localized: Rastejantes generosos serão recompensados.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732485
+    m_Localized: Que azar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732486
+    m_Localized: Um splash satisfatório, mas nada aconteceu...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732487
+    m_Localized: Nada aconteceu...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732488
+    m_Localized: Poço dos Desejos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732489
+    m_Localized: Poço Totalmente Normal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732490
+    m_Localized: Poço
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732491
+    m_Localized: '{:color(Keyword):Tancona}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 18287377779732492
+    m_Localized: '{:color(Keyword):Tanque}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 18287377779732493
+    m_Localized: '{:color(Keyword):Golias}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 18287377779732494
+    m_Localized: '{:color(Keyword):Titã}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 18287377779732495
+    m_Localized: '{:color(Keyword):Brutamontes}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 18287377779732496
+    m_Localized: '{:color(Keyword):Blob}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 18287377779732497
+    m_Localized: '{:color(Keyword):Bola de Carne}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 18287377779732498
+    m_Localized: '{:color(Keyword):Almondegona}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 18287377779732499
+    m_Localized: Dano base aumenta com {GlobalKeywords.MaxHealth}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 18287377779732500
+    m_Localized: Dano aumenta com {GlobalKeywords.MaxHealth}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 18287377779732501
+    m_Localized: Dano aumenta com {GlobalKeywords.MaxHealth}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 18287377779732502
+    m_Localized: Dano base igual à {GlobalKeywords.MaxHealth}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 18287377779732503
+    m_Localized: Dano base aumenta com {GlobalKeywords.MaxHealth} ({PLACEHOLDER.NUMBER:N0}).
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 18287377779732504
+    m_Localized: Dano aumenta com {GlobalKeywords.MaxHealth} ({PLACEHOLDER.NUMBER:N0}).
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 18287377779732505
+    m_Localized: Dano aumenta com {GlobalKeywords.MaxHealth} ({PLACEHOLDER.NUMBER:N0}).
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 18287377779732506
+    m_Localized: Dano base igual à {GlobalKeywords.MaxHealth} ({PLACEHOLDER.NUMBER:N0}).
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 18287377779732507
+    m_Localized: Dano da Leda aumenta com {GlobalKeywords.MaxHealth} ({PLACEHOLDER.NUMBER:N0}).
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 18287377779732508
+    m_Localized: Dano da Leda aumenta com {GlobalKeywords.MaxHealth} ({PLACEHOLDER.NUMBER:N0}).
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 19994491061481472
+    m_Localized: Cause dano com base na sua {GlobalKeywords.MaxHealth}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 19994491107618816
+    m_Localized: Cause dano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19994491107618817
+    m_Localized: Cause o equivalente à sua {GlobalKeywords.MaxHealth} como dano
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 23211258547351552
+    m_Localized: Aumente a {GlobalKeywords.Handsize} e a mão em {0:combo:}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 25292387018420224
+    m_Localized: '{:color(Keyword):Fatiga}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 25292387039391744
+    m_Localized: O custo para usar as habilidades de {GlobalKeywords.Crawler} aumenta a cada ativação.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 25773564396253184
+    m_Localized: Tamanho de Mão Limitado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820091674624
+    m_Localized: Limite de Tamanho de Mão
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006272
+    m_Localized: Bola Carnuda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006273
+    m_Localized: Carne Suspeita
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006274
+    m_Localized: Bagunça da Masmorra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006275
+    m_Localized: Martelo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006276
+    m_Localized: Anel da Tormenta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006277
+    m_Localized: Cavalocromancer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006278
+    m_Localized: Galleggiamorte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006279
+    m_Localized: Ammazzagente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006280
+    m_Localized: Alma Aquática
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33744845264052224
+    m_Localized: Descarte {0:combo:} cartas. Crie uma Moeda para cada carta descartada
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 34335007136210944
+    m_Localized: Descarte {ActionValue:N0} cartas. Crie uma Moeda para cada carta descartada
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 34335007102656512
+    m_Localized: Descarte {Plural:p:{0:combo:} carta|{0:combo:} cartas}. Crie uma Moeda para cada carta descartada
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223364
+  - m_Id: 35492381125435392
+    m_Localized: Cartas de Rastejante ganham um gatilho aleatório extra ao serem jogadas. Os Rastejantes estão fadigados.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 193345922286223364
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        m_SharedEntries:
+        - id: 14603972760252416
+        - id: 5085614268473344
+        - id: 5424281531043840
+        - id: 5424281531043841
+        - id: 7251841128587264
+        - id: 7700284548571136
+        - id: 7702454513688576
+        - id: 9476304997965824
+        - id: 10178850515312640
+        - id: 10178850624364544
+        - id: 10178850624364545
+        - id: 10620020227825664
+        - id: 10620020278157312
+        - id: 12369242002284548
+        - id: 12369242002284549
+        - id: 12373404911919104
+        - id: 12373404953862145
+        - id: 12373404953862147
+        - id: 13087326673514500
+        - id: 13087326673514501
+        - id: 13183508871589888
+        - id: 13183508900950016
+        - id: 13183508900950017
+        - id: 13183508900950018
+        - id: 13183508900950019
+        - id: 13183508905144320
+        - id: 13183508905144321
+        - id: 13183508905144322
+        - id: 13183508905144323
+        - id: 13183508905144324
+        - id: 14560062499446784
+        - id: 14560062533001216
+        - id: 14593503580381184
+        - id: 14593503622324225
+        - id: 14593503622324226
+        - id: 14593503622324227
+        - id: 14593503622324228
+        - id: 14593503622324229
+        - id: 14593503622324230
+        - id: 14593503622324231
+        - id: 14593503622324232
+        - id: 14593503622324233
+        - id: 14593503622324234
+        - id: 14593503622324241
+        - id: 14593503622324242
+        - id: 14593503622324243
+        - id: 14593503622324244
+        - id: 14593503622324245
+        - id: 14593503622324246
+        - id: 14593503626518528
+        - id: 14593503626518529
+        - id: 14593503626518530
+        - id: 14593503626518531
+        - id: 14593503626518532
+        - id: 14593503626518533
+        - id: 14603972793806848
+        - id: 14603972793806849
+        - id: 14603972793806850
+        - id: 14603972793806851
+        - id: 14603972793806852
+        - id: 14603972793806853
+        - id: 14603972793806854
+        - id: 14603972793806855
+        - id: 15650607741218817
+        - id: 15650607741218818
+        - id: 15650607741218819
+        - id: 15650607741218821
+        - id: 15650607741218822
+        - id: 15650607741218823
+        - id: 15650607741218824
+        - id: 15665453325037568
+        - id: 15665453325037569
+        - id: 15705243441377281
+        - id: 15705243441377282
+        - id: 15705243441377285
+        - id: 15705243441377286
+        - id: 15705243441377287
+        - id: 15705243441377288
+        - id: 15705243441377289
+        - id: 15705243441377290
+        - id: 15705243441377305
+        - id: 15705243441377307
+        - id: 15705243441377308
+        - id: 15713194147262464
+        - id: 15713194185011200
+        - id: 17548054465818628
+        - id: 17548054465818629
+        - id: 17548054465818630
+        - id: 17548054465818631
+        - id: 17548054465818632
+        - id: 17548054465818633
+        - id: 17118668927217664
+        - id: 17466142275612672
+        - id: 17466142313361410
+        - id: 17872157320097793
+        - id: 18287377737789440
+        - id: 18287377779732480
+        - id: 18287377779732491
+        - id: 18287377779732492
+        - id: 18287377779732493
+        - id: 18287377779732494
+        - id: 18287377779732495
+        - id: 18287377779732496
+        - id: 18287377779732497
+        - id: 18287377779732498
+        - id: 18287377779732499
+        - id: 18287377779732500
+        - id: 18287377779732501
+        - id: 18287377779732502
+        - id: 18287377779732503
+        - id: 18287377779732504
+        - id: 18287377779732505
+        - id: 18287377779732506
+        - id: 18287377779732507
+        - id: 18287377779732508
+        - id: 19994491061481472
+        - id: 19994491107618817
+        - id: 23211258547351552
+        - id: 25292387018420224
+        - id: 25292387039391744
+        - id: 33744845264052224
+        - id: 34335007136210944
+        - id: 34335007102656512
+

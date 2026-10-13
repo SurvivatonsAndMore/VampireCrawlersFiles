@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Dialogue_zh-Hant
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: zh-Hant
+  m_SharedData: {fileID: 11400000, guid: 554ff93728483c649a696a71169ada09, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 31543236964352
+    m_Localized: 你好啊，冒險者！你是好久好久以來第一個能夠來到這裡的人呢！
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518784
+    m_Localized: 昇月城的商店還沒正式開張，但為了獎勵你能夠順利找到我，這件遺物就送給你吧。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518785
+    m_Localized: 如果你是來找吸血鬼的話，那很抱歉，可能要讓你失望了⋯不過啊，還請你收下這件遺物，就當作是我們兩個相會的見面禮吧。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518786
+    m_Localized: 只要吹一下這把絕世的小號，你就能夠開始在地城中展開無盡的輪迴冒險囉⋯就是這麼簡單，懂？
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518787
+    m_Localized: 怎麼又是你？我先說好喔，我已經把小號送給你了，不要再把它還給我了⋯⋯
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518788
+    m_Localized: 我以前小號就吹得不怎麼樣，而且這裡海水這麼多，到底是要怎麼好好保養這支小號啦！
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518789
+    m_Localized: 你慢了一步呢，我已經把我最珍貴的遺物送人了。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518790
+    m_Localized: 喔！我的小號寶貝啊！我好想⋯再握住它一次⋯再一次就好。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518791
+    m_Localized: 住在這片深海之下，難免會感到寂寞啊。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518792
+    m_Localized: 我非常想念綠茶的風味⋯在來到這裡之前，我都會用小瓷杯裝好一杯清新的綠茶，然後慢慢地品味茶韻。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518793
+    m_Localized: 我當初是為了尋找吸血鬼而來到這裡的，但那也是很久很久以前的事了⋯⋯
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518794
+    m_Localized: 我都開始懷疑⋯吸血鬼會不會是在另一個棺材裡⋯⋯
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495296
+    m_Localized: 我的父親是名木匠，但他有教導我該如何去心領神會音樂的美妙之處。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495297
+    m_Localized: 我很喜歡我那把老舊的小號沒錯，但我從小啊，就一直夢想能夠擁有一台音樂合成器喔！
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495298
+    m_Localized: 等等⋯我在說些什麼鬼話？什麼是「音樂合成器」啊？
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495299
+    m_Localized: 你回來啦！外面的世界有發生什麼新鮮事嗎？
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495300
+    m_Localized: 懸浮在天空中的大教堂？？到底是哪個天才想出來的設定⋯⋯
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495301
+    m_Localized: 魔法⋯⋯最深沉的黑暗魔法，我的靈魂遊走在其中⋯散落在時間的洪流裡，受困於無形的世界之中⋯⋯
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495302
+    m_Localized: 喔，是你啊？抱歉，我剛剛在對台詞啦。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495303
+    m_Localized: 當大地崩裂、毒箭從天而降且天柱都應聲震顫時，你會怎麼做呢？
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495304
+    m_Localized: 反正我躲在這下面應該挺安全的，沒什麼好擔心的吧～
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495305
+    m_Localized: 又是你？我真搞不懂你為什麼會一直跑回來這裡⋯⋯
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495306
+    m_Localized: 該不會⋯⋯
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495307
+    m_Localized: 你其實是想要來見我一面？
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495308
+    m_Localized: 哪怕我已經沒有任何寶物可以給你了，你卻還是回來了⋯⋯
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495309
+    m_Localized: 到底是誰在打破我的罐子啦⋯⋯
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495310
+    m_Localized: 如果你有看到是誰幹的，拜託你一定要告訴我喔！
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495311
+    m_Localized: 你好啊，冒險者！你的冒險想必是收穫滿滿，對吧？
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495312
+    m_Localized: 不用為我操心⋯我可是名倖存者呢！
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495313
+    m_Localized: 哎呦～第七號角的新任主人回來嘲弄它的前任主人了，是吧⋯⋯
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495314
+    m_Localized: 我是有點鬱卒啦，但不用你管！
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
+

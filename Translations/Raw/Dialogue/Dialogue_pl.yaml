@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Dialogue_pl
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: 554ff93728483c649a696a71169ada09, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 31543236964352
+    m_Localized: Witaj, odkrywco! Od bardzo dawna nikt mnie nie odwiedził!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518784
+    m_Localized: Sklep w Moongolow nie jest jeszcze otwarty, ale chcę podarować ci tę relikwię jako nagrodę za odnalezienie mnie.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518785
+    m_Localized: Jeśli szukasz wampira, czeka na ciebie zawód, ale proszę, przyjmij tę relikwię jako nagrodę za odnalezienie mnie.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518786
+    m_Localized: Zadęcie w specjalną trąbę pozwoli ci eksplorować lochy w Nieskończoność... To takie proste, rozumiesz?!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518787
+    m_Localized: Znowu ty? Nie musisz oddawać mi tej trąby, wiesz...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518788
+    m_Localized: Nigdy nie szło mi to za dobrze, a dbanie o nią przy całej tej słonej wodzie było bardzo wymagające.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518789
+    m_Localized: Przybywasz za późno, już oddałem moją najcenniejszą relikwię.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518790
+    m_Localized: Och! Moja stara trąba! Tak bardzo bym chciał znów ją potrzymać... jeden ostatni raz.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518791
+    m_Localized: Życie tutaj, pod taflą morza, bywa samotne.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518792
+    m_Localized: Najbardziej tęsknię za zieloną herbatą... Kiedyś pijałem ją w małych filiżankach.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518793
+    m_Localized: Przybyłem tu dawno temu, w poszukiwaniu wampira...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518794
+    m_Localized: Zaczynam podejrzewać, że może być w innej trumnie.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495296
+    m_Localized: Mój ojciec był stolarzem, ale nauczył mnie też doceniać piękno muzyki.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495297
+    m_Localized: Moja stara trąba była całkiem fajna, ale marzyłem o syntezatorze!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495298
+    m_Localized: Chwila... o czym ja mówię? Co to jest syntezator?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495299
+    m_Localized: Znów mnie odwiedzasz! Co tam słychać w wielkim świecie?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495300
+    m_Localized: Katedra w powietrzu?? Ciekawe, co teraz wymyślą...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495301
+    m_Localized: Magia? Czarna magia. Moja dusza jest w niej pogrążona. Uwięziona w świecie bez formy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495302
+    m_Localized: Och, to ty, wybacz. Ćwiczyłem tylko swoje kwestie.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495303
+    m_Localized: Co robisz, gdy ziemia drży, zatrute strzały spadają z nieba, a filary Niebios się chwieją?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495304
+    m_Localized: Pewnie byłbym tu bezpieczny, więc nie ma się czym martwić.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495305
+    m_Localized: Znowu ty? Nie rozumiem, po co ciągle tu schodzisz...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495306
+    m_Localized: Chyba że...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495307
+    m_Localized: Po prostu lubisz mnie odwiedzać?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495308
+    m_Localized: Powracasz tu, jakbym miał ci do zaoferowania coś jeszcze....
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495309
+    m_Localized: Ktoś ciągle rozbija moje dzbany...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495310
+    m_Localized: Jeśli dowiesz się, kto to, daj mi znać, proszę!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495311
+    m_Localized: Witaj, odkrywco. Ufam, że nie narzekasz na brak przygód?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495312
+    m_Localized: O mnie się nie martw... Jestem jednym z Ocalałych.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495313
+    m_Localized: Aaach, posiadacz Siódmej trąby powraca, by kpić z jej poprzedniego wirtuoza...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495314
+    m_Localized: Ale ostatnio wolę dmuchać na zimne niż w instrumenty.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
+

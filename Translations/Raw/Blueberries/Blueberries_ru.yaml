@@ -1,0 +1,1240 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Blueberries_ru
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: ru
+  m_SharedData: {fileID: 11400000, guid: 9f007cf6483f831498f17fb571079813, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 193345922286223367
+  m_TableData:
+  - m_Id: 14603972760252416
+    m_Localized: '{db.FCC.FCC_Ambrojoe.FirstName}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 2284044935168
+    m_Localized: Ля Робба
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2284095266816
+    m_Localized: Бросает мебель.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2188433052086272
+    m_Localized: Бродяга-симпатяга
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2188433089835008
+    m_Localized: Карты бродяг получают дополнительный случайный цветной триггер при разыгрывании.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2188433089835009
+    m_Localized: Карты бродяг получают дополнительный случайный цветной триггер при разыгрывании.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4416592655011840
+    m_Localized: Бесконечное комбо
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4416592684371968
+    m_Localized: Вытяните новую руку, когда ваша последняя карта продолжает комбо.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4416592684371969
+    m_Localized: Вытяните новую руку, когда ваша последняя карта продолжает комбо.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5085614268473344
+    m_Localized: Сбросьте {Count:p:1 карту|{:N0} карты|{:N0} карт} из руки
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 5424281531043840
+    m_Localized: '{:color(Keyword):Переброска}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 5424281531043841
+    m_Localized: Сбросьте {ActionValue:p:1 случайную карту|{:N0} случайные карты|{:N0} случайных карт} из руки, а затем вытяните {ActionValue:N0}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 7251841128587264
+    m_Localized: '{:color(Keyword):Приспособляемость}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 7251841162141696
+    m_Localized: Эта карта стоит столько, сколько нужно, чтобы продолжить комбо.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7604875813707776
+    m_Localized: Даёт этой карте «Приспособляемость».
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7634092110635008
+    m_Localized: Ограничить размер руки
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7700284548571136
+    m_Localized: '{effectString:disabled:}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 7702454513688576
+    m_Localized: '{:color(Keyword):Посмертие}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 7702454547243008
+    m_Localized: При сбросе разыграйте обычные эффекты этой карты.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7963983708413952
+    m_Localized: Эффекты карты разыгрываются при сбросе.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7967692785967104
+    m_Localized: Посмертие
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7967692815327232
+    m_Localized: Приспособляемость
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8024049274839040
+    m_Localized: Пробко
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8024049308393472
+    m_Localized: Не даёт Утопцу появиться в бою.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8024049308393473
+    m_Localized: Задерживает появление Утопца в бою.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476304997965824
+    m_Localized: '{:color(Keyword):Утилизация}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 9476305031520256
+    m_Localized: Получите 1 заряд «Утилизации» каждый раз, когда сбрасывается карта. Карты с «Утилизацией» выпускают дополнительные снаряды, число которых равно значению «Утилизации».
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476305031520257
+    m_Localized: Неземной разряд
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476305031520258
+    m_Localized: Критический удар может вызвать взрыв.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476305031520259
+    m_Localized: Духовный порыв
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476305031520260
+    m_Localized: Улучшенный «Неземной разряд».
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9928406866014208
+    m_Localized: Летающая бедренная кость
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9928406907957248
+    m_Localized: Монета
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10178850515312640
+    m_Localized: '{FccAction}, когда вытягивается карта {TriggerType.Icon}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 10178850624364544
+    m_Localized: '{FccAction} при получении монеты {TriggerType.Icon}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 10178850624364545
+    m_Localized: '{FccAction}, когда сбрасывается карта {TriggerType.Icon}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 10333246305808384
+    m_Localized: Лунатьма
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10333246343557120
+    m_Localized: В самых таинственных глубинах, где текут странные воды, промокшие до нитки искатели могут развести волны в тазике.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10333246343557121
+    m_Localized: 'На глубине, куда проникает ещё меньше лунного света, отчаявшиеся сборщики стекаются на всё, что только движется.  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10620020227825664
+    m_Localized: '{:color(Keyword):Передача эффекта}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 10620020278157312
+    m_Localized: Даёт эффект «{CardEffect.KeywordName}» случайной карте {CardType.Icon}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 12369241960341504
+    m_Localized: Карты бродяг получают дополнительный триггер случайного типа карты при разыгрывании.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284544
+    m_Localized: Карты бродяг получают дополнительный случайный триггер при разыгрывании.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284545
+    m_Localized: Ты? То есть... я!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284546
+    m_Localized: Я, я, я... Я тоже.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284547
+    m_Localized: Это что за чары морских глубин?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284548
+    m_Localized: Открытие подземелья «{db.Dungeon.Dungeon_Soda_01.Name}»
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 12369242002284549
+    m_Localized: Открытие подземелья «{db.Dungeon.Dungeon_Soda_02.Name}»
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 12369242002284550
+    m_Localized: (Возможно, не будет использоваться, но нужно назначить на всякий случай.)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284551
+    m_Localized: Сделайте случайную карту временно бесплатной.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12373404911919104
+    m_Localized: '{:color(Keyword):Отскок}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 12373404953862144
+    m_Localized: Шанс отскочить от дополнительных целей.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12373404953862145
+    m_Localized: '{:color(Keyword):Крит. взрыв}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 12373404953862146
+    m_Localized: Взрывается при критическом ударе, нанося урон соседним врагам.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12373404953862147
+    m_Localized: '{:color(Keyword):Рёв}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 12373404953862148
+    m_Localized: Удар по области может быть критическим. Урон по области увеличивается по мере распространения.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940801093632
+    m_Localized: PLACEHOLDER<br>Troubler Bio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259456
+    m_Localized: PLACEHOLDER<br>Trouser Bio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259457
+    m_Localized: Переброска
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259458
+    m_Localized: Сбросьте карты и вытяните новые.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259459
+    m_Localized: Утилизация
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259460
+    m_Localized: Выпускает дополнительные снаряды в зависимости от сброшенных карт.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259461
+    m_Localized: Мана
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259462
+    m_Localized: Получите ману.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13087326673514497
+    m_Localized: Подземелья Галло
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13087326673514498
+    m_Localized: Под Башней Чародея раскинулся неизведанный лабиринт, таящий в себе результаты неудачных экспериментов и постыдные секреты. Где-то в нём точно есть ящик с приличным пальто.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13087326673514499
+    m_Localized: Уход с комбо
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13087326673514500
+    m_Localized: Шанс увеличить комбо, когда сбрасывается карта.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13087326673514501
+    m_Localized: Шанс {Arcana.EffectValue.0:N0}% увеличить комбо, когда сбрасывается карта.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 13087326673514502
+    m_Localized: (NOT USING)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13091003727556608
+    m_Localized: Траншея Лунасвета
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13108134305280000
+    m_Localized: Леда
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13108134305280001
+    m_Localized: Леда
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13108134305280002
+    m_Localized: (not used yet)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13183508871589888
+    m_Localized: Открытие подземелья «{db.Dungeon.Dungeon_GalloBelow_01.Name}»
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 13183508900950016
+    m_Localized: '{db.Dungeon.Dungeon_Soda_01.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 13183508900950017
+    m_Localized: '{db.Dungeon.Dungeon_Soda_02.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 13183508900950018
+    m_Localized: '{db.Dungeon.Dungeon_GalloBelow_01.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 13183508900950019
+    m_Localized: Открытие реликвии «{db.relic.RelicConfig_Tappo.Name}»
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 13183508905144320
+    m_Localized: Найдите реликвию «{db.relic.RelicConfig_Tappo.Name}».
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 13183508905144321
+    m_Localized: '{db.relic.RelicConfig_Tappo.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 13183508905144322
+    m_Localized: 'Открытие реликвии «{db.relic.RelicConfig_GalileosHand.Name}» '
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 13183508905144323
+    m_Localized: Найдите реликвию «{db.relic.RelicConfig_GalileosHand.Name}».
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 13183508905144324
+    m_Localized: '{db.relic.RelicConfig_GalileosHand.Name} '
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 14537641012703232
+    m_Localized: Рука Галилея
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537641063034880
+    m_Localized: Добавляет кнопку ограничения размера руки на карту мира.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14560062499446784
+    m_Localized: Открытие подземелья «{db.Dungeon.Dungeon_Moongolow_teaser.Name}»
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 14560062533001216
+    m_Localized: '{db.Dungeon.Dungeon_Moongolow_teaser.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 14560062533001217
+    m_Localized: Победите Эндера.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14560062533001218
+    m_Localized: Пройдите игру в обычном режиме.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503580381184
+    m_Localized: '{GlobalKeywords.Gem} «{db.Gems.GemConfig_SetCostType_Adaptability.Name}»'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 14593503622324224
+    m_Localized: Победите Утопца.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503622324225
+    m_Localized: Победите Утопца в подземелье «{db.Dungeon.Dungeon_GalloBelow_01.Name}».
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 14593503622324226
+    m_Localized: '{GlobalKeywords.Gem} «{db.Gems.GemConfig_Switch.Name}»'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 14593503622324227
+    m_Localized: Найдите самоцвет «{db.Gems.GemConfig_Switch.Name}» в подземелье «{db.Dungeon.Dungeon_Soda_01.Name}».
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 14593503622324228
+    m_Localized: Найдите самоцвет «{db.Gems.GemConfig_Switch.Name}».
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 14593503622324229
+    m_Localized: '{GlobalKeywords.Gem} «{db.Gems.GemConfig_Afterlife.Name}»'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 14593503622324230
+    m_Localized: Найдите самоцвет «{db.Gems.GemConfig_Afterlife.Name}» в подземелье «{db.Dungeon.Dungeon_Soda_01.Name}».
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 14593503622324231
+    m_Localized: Найдите самоцвет «{db.Gems.GemConfig_Afterlife.Name}».
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 14593503622324232
+    m_Localized: '{GlobalKeywords.Gem} «{db.Gems.GemConfig_Scavenge.Name}»'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 14593503622324233
+    m_Localized: Найдите самоцвет «{db.Gems.GemConfig_Scavenge.Name}» в подземелье «{db.Dungeon.Dungeon_Soda_01.Name}».
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 14593503622324234
+    m_Localized: Найдите самоцвет «{db.Gems.GemConfig_Scavenge.Name}».
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 14593503622324241
+    m_Localized: '{db.Arcana.ArcanaConfig_InfiniteCombo.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 14593503622324242
+    m_Localized: 'Завершите без карт в руке столько ходов: {Achievement.Value:N0}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 14593503622324243
+    m_Localized: '{GlobalKeywords.Arcana} «{db.Arcana.ArcanaConfig_InfiniteCombo.Name}»'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 14593503622324244
+    m_Localized: '{db.Arcana.ArcanaConfig_ChairGame.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 14593503622324245
+    m_Localized: 'Перебросьте столько карт: {Achievement.Value:N0}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 14593503622324246
+    m_Localized: '{GlobalKeywords.Arcana} «{db.Arcana.ArcanaConfig_ChairGame.Name}»'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 14593503626518528
+    m_Localized: '{db.Arcana.ArcanaConfig_CrawlerBrawler.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 14593503626518529
+    m_Localized: Победите Спектрального Галло, играя за Галло, в подземелье «{db.Dungeon.Dungeon_GalloBelow_01.Name}».
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 14593503626518530
+    m_Localized: '{GlobalKeywords.Arcana} «{db.Arcana.ArcanaConfig_CrawlerBrawler.Name}»'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 14593503626518531
+    m_Localized: '{db.Arcana.ArcanaConfig_EbbAndCombo.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 14593503626518532
+    m_Localized: ' Выполните комбо-{Achievement.Value:N0} в подземелье «{db.Dungeon.Dungeon_Soda_01.Name}».'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 14593503626518533
+    m_Localized: '{GlobalKeywords.Arcana} «{db.Arcana.ArcanaConfig_EbbAndCombo.Name}»'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 14603972793806848
+    m_Localized: Найдите гроб в подземелье «{db.Dungeon.Dungeon_GalloBelow_01.Name}».
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 14603972793806849
+    m_Localized: 'В подземелье «{db.Dungeon.Dungeon_GalloBelow_01.Name}» уничтожьте столько разрушаемых объектов: {Achievement.Value:N0}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 14603972793806850
+    m_Localized: '{db.FCC.FCC_Ambrojoe.FirstName}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 14603972793806851
+    m_Localized: '{db.FCC.FCC_BigTroubler.FirstName}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 14603972793806852
+    m_Localized: Найдите гроб в подземелье «{db.Dungeon.Dungeon_Soda_01.Name}».
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 14603972793806853
+    m_Localized: '{db.FCC.FCC_BigTroubler.FirstName}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 14603972793806854
+    m_Localized: Открытие карты «{db.Cards.Card_A_4_SpiritDisturbance.Name}»
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 14603972793806855
+    m_Localized: Улучшите карту «{db.Cards.Card_A_1_UnearthlyBolt.Name}».
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 15650607699275776
+    m_Localized: Лунасветец
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15650607741218816
+    m_Localized: Игра со стульями
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15650607741218817
+    m_Localized: Один раз за ход, когда карты в руке не могут продолжить комбо, активируйте переброску-{Arcana.EffectValue.0:N0}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 15650607741218818
+    m_Localized: Когда карты в руке не могут продолжить комбо, активируйте переброску-{Arcana.EffectValue.0:N0}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 15650607741218819
+    m_Localized: Открытие подземелья «{db.Dungeon.Dungeon_Madforest_01.Name}»
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 15650607741218820
+    m_Localized: Пройдите обучение.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15650607741218821
+    m_Localized: '{db.Dungeon.Dungeon_Madforest_01.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 15650607741218822
+    m_Localized: Открытие карты «{db.Cards.Card_E_Rosary.Name}»
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 15650607741218823
+    m_Localized: Карта «{db.Cards.Card_E_Rosary.Name}» добавлена в подземелья
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 15650607741218824
+    m_Localized: '{db.Cards.Card_E_Rosary.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 15665453325037568
+    m_Localized: '{db.Cards.Card_E_Orologion.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 15665453325037569
+    m_Localized: 'Откройте: {Achievement.RewardName}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 15678690565238784
+    m_Localized: Набор самоцветов 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15678690611376128
+    m_Localized: Базовые самоцветы
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15678690611376129
+    m_Localized: Самоцветы характеристик
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15678690611376130
+    m_Localized: Пройдите второй этаж Безумного леса.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377280
+    m_Localized: Новые усиления добавлены в лавку
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377281
+    m_Localized: 'Разыграйте карты «{db.Cards.Card_D_0_Armor.Name}» столько раз: {Achievement.Value:N0}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 15705243441377282
+    m_Localized: 'Разыграйте карты «{db.Cards.Card_S_0_Candelabrador.Name}» столько раз: {Achievement.Value:N0}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 15705243441377283
+    m_Localized: Куриные лавки
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377284
+    m_Localized: События «Куриная лавка»
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377285
+    m_Localized: 'Разыграйте карты «{db.Cards.Card_S_1_Crown.Name}» столько раз: {Achievement.Value:N0}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 15705243441377286
+    m_Localized: 'Разыграйте карты «{db.Cards.Card_B_0_EmptyTome.Name}» столько раз: {Achievement.Value:N0}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 15705243441377287
+    m_Localized: 'Разыграйте карты «{db.Cards.Card_S_1_Duplicator.Name}» столько раз: {Achievement.Value:N0}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 15705243441377288
+    m_Localized: 'Разыграйте карты «{db.Cards.Card_S_1_HollowHeart.Name}» столько раз: {Achievement.Value:N0}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 15705243441377289
+    m_Localized: 'Разыграйте карты «{db.Cards.Card_S_1_Spinach.Name}» столько раз: {Achievement.Value:N0}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 15705243441377290
+    m_Localized: 'Разыграйте карты «{db.Cards.Card_S_1_Pummarola.Name}» столько раз: {Achievement.Value:N0}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 15705243441377291
+    m_Localized: Купите усиление «Повтор».
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377292
+    m_Localized: «Повтор» добавлен в подземелья
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377293
+    m_Localized: «Повтор» можно найти в источниках света
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377294
+    m_Localized: Столы удвоения
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377295
+    m_Localized: События «Стол удвоения»
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377296
+    m_Localized: Загадочные зеркала
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377297
+    m_Localized: События «Загадочное зеркало»
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377298
+    m_Localized: Стол подношения маны
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377299
+    m_Localized: События «Стол подношения маны»
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377300
+    m_Localized: События «Наёмный бродяга»
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377301
+    m_Localized: Нужник
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377302
+    m_Localized: События «Нужник»
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377303
+    m_Localized: Наёмничья кабинка
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377304
+    m_Localized: События «Наёмничья кабинка»
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377305
+    m_Localized: '{:color(Keyword):Бродяга*}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 15705243441377306
+    m_Localized: У бродяги больше одной способности, активирующейся по триггеру.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377307
+    m_Localized: '{:color(Keyword):Многозадачник}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 15705243441377308
+    m_Localized: '{:color(Keyword):Бродяга 2}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 15713194147262464
+    m_Localized: 'В разрушаемых кораллах подземелья «{db.Dungeon.Dungeon_Soda_01.Name}» найдите столько самоцветов: {Achievement.Value:N0}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 15713194185011200
+    m_Localized: 'В разрушаемых объектах подземелья «{db.Dungeon.Dungeon_Soda_01.Name}» найдите столько самоцветов: {Achievement.Value:N0}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 17548054428069888
+    m_Localized: Получайте заряды «Утилизации», когда сбрасывается какая-либо карта. Карты с «Утилизацией» выпускают дополнительные снаряды.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818624
+    m_Localized: Выпускает дополнительные снаряды в зависимости от текущего счётчика «Утилизации». Этот показатель увеличивается при сбросе карт.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818625
+    m_Localized: Выпускает дополнительные снаряды в зависимости от числа сброшенных карт.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818626
+    m_Localized: Расколотая голень
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818627
+    m_Localized: Твёрдая кость
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818628
+    m_Localized: '{FccAction} при получении золота {TriggerType.Icon}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 17548054465818629
+    m_Localized: '{FccAction} при получении монеты {TriggerType.Icon}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 17548054465818630
+    m_Localized: '{FccAction} при получении монет {TriggerType.Icon}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 17548054465818631
+    m_Localized: '{FccAction} при вытягивании {TriggerType.Icon}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 17548054465818632
+    m_Localized: '{FccAction} при сбросе {TriggerType.Icon}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 17548054465818633
+    m_Localized: '{:color(Keyword):Насыщение}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 17548054465818634
+    m_Localized: Сбросьте карту и вытяните новую.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17085329412534272
+    m_Localized: Если последняя карта продлевает комбо, вы немедленно заменяете все карты в руке.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17085329433505792
+    m_Localized: Если во время розыгрыша комбо у вас заканчиваются карты, вы берете больше карт.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17085329433505793
+    m_Localized: При продлении комбо используется правильная стоимость карт.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17118668927217664
+    m_Localized: '{:color(Keyword):{db.Cards.Card_E_CoinPurse.Name}}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 17466142275612672
+    m_Localized: Эффекты {:color(Keyword):продолжительности} :{:color(Keyword):бродяги} активируются {FccDuration:p:один раз|{:N0} р}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 17466142313361408
+    m_Localized: Создайте карту с монетами
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17466142313361409
+    m_Localized: Сделайте случайную карту временно бесплатной
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17466142313361410
+    m_Localized: Сбросьте {ActionValue:p:1 случайную карту|{:N0} случайные карты|{:N0} случайных карт} из руки, а затем вытяните {ActionValue:N0}
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 17872157261377536
+    m_Localized: Карта активируется при сбрасывании.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17872157320097792
+    m_Localized: Карта активируется при сбрасывании. Комбо игнорируются.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17872157320097793
+    m_Localized: '{:color(Keyword):{db.Cards.Card_E_CoinCard.Name}}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 18287377737789440
+    m_Localized: Найдите самоцветы ({Achievement.Value:N0}) в разрушаемом Коралле в биоме «{db.Dungeon.Dungeon_Soda_01.Name}» за один заход.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 18287377779732480
+    m_Localized: Найдите самоцветы ({Achievement.Value:N0}) в разрушаемых предметах в биоме «{db.Dungeon.Dungeon_Soda_01.Name}» за один заход.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 18287377779732481
+    m_Localized: Бросьте монеты, и, быть может, вы что-нибудь выиграете!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732482
+    m_Localized: Монеты = ???
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732483
+    m_Localized: Толкните, чтобы бросить монеты.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732484
+    m_Localized: Щедрых бродяг ждёт награда.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732485
+    m_Localized: Не повезло.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732486
+    m_Localized: Приятный всплеск, но не более…
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732487
+    m_Localized: Кажется, ничего не происходит…
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732488
+    m_Localized: Колодец желаний
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732489
+    m_Localized: Заурядный колодец желаний
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732490
+    m_Localized: Колодец
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732491
+    m_Localized: '{:color(Keyword):Исполин}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 18287377779732492
+    m_Localized: '{:color(Keyword):Танк}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 18287377779732493
+    m_Localized: '{:color(Keyword):Голиаф}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 18287377779732494
+    m_Localized: '{:color(Keyword):Титан}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 18287377779732495
+    m_Localized: '{:color(Keyword):Мясомасса}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 18287377779732496
+    m_Localized: '{:color(Keyword):Пузыриха}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 18287377779732497
+    m_Localized: '{:color(Keyword):Мясная сфера}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 18287377779732498
+    m_Localized: '{:color(Keyword):Фрикаделька}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 18287377779732499
+    m_Localized: '{GlobalKeywords.MaxHealth} повышает базовый урон.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 18287377779732500
+    m_Localized: '{GlobalKeywords.MaxHealth} повышает урон.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 18287377779732501
+    m_Localized: '{GlobalKeywords.MaxHealth} увеличивает урон.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 18287377779732502
+    m_Localized: 'Основной урон: {GlobalKeywords.MaxHealth}.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 18287377779732503
+    m_Localized: '{GlobalKeywords.MaxHealth} ({PLACEHOLDER.NUMBER:N0}) повышает основной урон.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 18287377779732504
+    m_Localized: '{GlobalKeywords.MaxHealth} ({PLACEHOLDER.NUMBER:N0}) повышает урон.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 18287377779732505
+    m_Localized: '{GlobalKeywords.MaxHealth} ({PLACEHOLDER.NUMBER:N0}) увеличивает урон.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 18287377779732506
+    m_Localized: 'Основной урон: {GlobalKeywords.MaxHealth} ({PLACEHOLDER.NUMBER:N0})'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 18287377779732507
+    m_Localized: '{GlobalKeywords.MaxHealth} ({PLACEHOLDER.NUMBER:N0}) увеличивает урон Леды.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 18287377779732508
+    m_Localized: '{GlobalKeywords.MaxHealth} ({PLACEHOLDER.NUMBER:N0}) повышает урон Леды.'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 19994491061481472
+    m_Localized: Наносит урон в зависимости от вашего макс. здоровья
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19994491107618816
+    m_Localized: Наносит урон
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19994491107618817
+    m_Localized: Наносит урон в размере макс. здоровья
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23211258547351552
+    m_Localized: Увеличивает раздачу и размер руки на {0:combo:}.
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 25292387018420224
+    m_Localized: '{:color(Keyword):Усталость}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 25292387039391744
+    m_Localized: Стоимость активации способностей бродяг повышается с каждой активацией.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25773564396253184
+    m_Localized: Ограниченный размер руки
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820091674624
+    m_Localized: Размер руки ограничен
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006272
+    m_Localized: Мясная фрикаделька
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006273
+    m_Localized: Подозрительное мясо
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006274
+    m_Localized: Хлам подземелья
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006275
+    m_Localized: Кирпич
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006276
+    m_Localized: Кольцо мучений
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006277
+    m_Localized: Ни-го-го-мант
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006278
+    m_Localized: Галледжаморте
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006279
+    m_Localized: Аммаццадженте
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006280
+    m_Localized: Прибассейние
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33744845264052224
+    m_Localized: 'Сбросьте карты: {0:combo:}. Создайте монету за каждую сброшенную карту'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 34335007136210944
+    m_Localized: 'Сбросьте карты: {ActionValue:N0}. Создайте монету за каждую сброшенную карту'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 34335007102656512
+    m_Localized: Сбросьте {Plural:p:{0:combo:} карту|{0:combo:} карты|{0:combo:} карт}. Создайте монету за каждую сброшенную карту
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223367
+  - m_Id: 35492381125435392
+    m_Localized: Карты бродяг получают дополнительный случайный триггер при разыгрывании. Бродяги утомлены.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 193345922286223367
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        m_SharedEntries:
+        - id: 14603972760252416
+        - id: 5085614268473344
+        - id: 5424281531043840
+        - id: 5424281531043841
+        - id: 7251841128587264
+        - id: 7700284548571136
+        - id: 7702454513688576
+        - id: 9476304997965824
+        - id: 10178850515312640
+        - id: 10178850624364544
+        - id: 10178850624364545
+        - id: 10620020227825664
+        - id: 10620020278157312
+        - id: 12369242002284548
+        - id: 12369242002284549
+        - id: 12373404911919104
+        - id: 12373404953862145
+        - id: 12373404953862147
+        - id: 13087326673514501
+        - id: 13183508871589888
+        - id: 13183508900950016
+        - id: 13183508900950017
+        - id: 13183508900950018
+        - id: 13183508900950019
+        - id: 13183508905144320
+        - id: 13183508905144321
+        - id: 13183508905144322
+        - id: 13183508905144323
+        - id: 13183508905144324
+        - id: 14560062499446784
+        - id: 14560062533001216
+        - id: 14593503580381184
+        - id: 14593503622324225
+        - id: 14593503622324226
+        - id: 14593503622324227
+        - id: 14593503622324228
+        - id: 14593503622324229
+        - id: 14593503622324230
+        - id: 14593503622324231
+        - id: 14593503622324232
+        - id: 14593503622324233
+        - id: 14593503622324234
+        - id: 14593503622324241
+        - id: 14593503622324242
+        - id: 14593503622324243
+        - id: 14593503622324244
+        - id: 14593503622324245
+        - id: 14593503622324246
+        - id: 14593503626518528
+        - id: 14593503626518529
+        - id: 14593503626518530
+        - id: 14593503626518531
+        - id: 14593503626518532
+        - id: 14593503626518533
+        - id: 14603972793806848
+        - id: 14603972793806849
+        - id: 14603972793806850
+        - id: 14603972793806851
+        - id: 14603972793806852
+        - id: 14603972793806853
+        - id: 14603972793806854
+        - id: 14603972793806855
+        - id: 15650607741218817
+        - id: 15650607741218818
+        - id: 15650607741218819
+        - id: 15650607741218821
+        - id: 15650607741218822
+        - id: 15650607741218823
+        - id: 15650607741218824
+        - id: 15665453325037568
+        - id: 15665453325037569
+        - id: 15705243441377281
+        - id: 15705243441377282
+        - id: 15705243441377285
+        - id: 15705243441377286
+        - id: 15705243441377287
+        - id: 15705243441377288
+        - id: 15705243441377289
+        - id: 15705243441377290
+        - id: 15705243441377305
+        - id: 15705243441377307
+        - id: 15705243441377308
+        - id: 15713194147262464
+        - id: 15713194185011200
+        - id: 17548054465818628
+        - id: 17548054465818629
+        - id: 17548054465818630
+        - id: 17548054465818631
+        - id: 17548054465818632
+        - id: 17548054465818633
+        - id: 17118668927217664
+        - id: 17466142275612672
+        - id: 17466142313361410
+        - id: 17872157320097793
+        - id: 18287377737789440
+        - id: 18287377779732480
+        - id: 18287377779732491
+        - id: 18287377779732492
+        - id: 18287377779732493
+        - id: 18287377779732494
+        - id: 18287377779732495
+        - id: 18287377779732496
+        - id: 18287377779732497
+        - id: 18287377779732498
+        - id: 18287377779732499
+        - id: 18287377779732500
+        - id: 18287377779732501
+        - id: 18287377779732502
+        - id: 18287377779732503
+        - id: 18287377779732504
+        - id: 18287377779732505
+        - id: 18287377779732506
+        - id: 18287377779732507
+        - id: 18287377779732508
+        - id: 23211258547351552
+        - id: 25292387018420224
+        - id: 33744845264052224
+        - id: 34335007136210944
+        - id: 34335007102656512
+

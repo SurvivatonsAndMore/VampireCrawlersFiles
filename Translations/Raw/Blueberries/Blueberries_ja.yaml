@@ -1,0 +1,1248 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Blueberries_ja
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: ja
+  m_SharedData: {fileID: 11400000, guid: 9f007cf6483f831498f17fb571079813, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 193345922286223368
+  m_TableData:
+  - m_Id: 14603972760252416
+    m_Localized: '{db.FCC.FCC_Ambrojoe.FirstName}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 2284044935168
+    m_Localized: 飛び交う家財道具
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2284095266816
+    m_Localized: 家具を投げつける。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2188433052086272
+    m_Localized: クロウラー・ブロウラー
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2188433089835008
+    m_Localized: クロウラーカードは、プレイすると追加でランダムなカラートリガーを獲得する。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2188433089835009
+    m_Localized: クロウラーカードは、プレイすると追加でランダムなカラートリガーを獲得する。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4416592655011840
+    m_Localized: 無限コンボ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4416592684371968
+    m_Localized: 最後のカードがコンボを継続した場合、新しく手札からカードを1枚引く。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4416592684371969
+    m_Localized: 最後のカードがコンボを継続した場合、新しく手札からカードを1枚引く。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5085614268473344
+    m_Localized: '{GlobalKeywords.Hand}からカードを {Count:p:1枚|{:N0}枚}破棄する。'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 5424281531043840
+    m_Localized: '{:color(Keyword):Switch}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 5424281531043841
+    m_Localized: '{GlobalKeywords.Hand}から{ActionValue:p:ランダムなカード1枚|ランダムなカード{:N0}枚}を破棄し、{ActionValue:N0}枚ドローする。'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 7251841128587264
+    m_Localized: '{:color(Keyword):Adaptability}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 7251841162141696
+    m_Localized: このカードは、コンボ継続に必要なコスト条件を満たしている。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7604875813707776
+    m_Localized: このカードに順応性を付与する。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7634092110635008
+    m_Localized: 手札上限
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7700284548571136
+    m_Localized: '{effectString:disabled:}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 7702454513688576
+    m_Localized: '{:color(Keyword):Afterlife}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 7702454547243008
+    m_Localized: 破棄する際にカードの通常効果が発揮される。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7963983708413952
+    m_Localized: 破棄の際にカードの通常効果が発揮される。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7967692785967104
+    m_Localized: アフターライフ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7967692815327232
+    m_Localized: 順応性
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8024049274839040
+    m_Localized: タッポ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8024049308393472
+    m_Localized: ドロウナーとの遭遇を防ぐ。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8024049308393473
+    m_Localized: ドロウナーとの遭遇を遅らせる。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476304997965824
+    m_Localized: '{:color(Keyword):スカベンジ}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 9476305031520256
+    m_Localized: カードが破棄されるたびにスカベンジを1獲得。持っているスカベンジの数だけ、スカベンジカードが追加で発射物を放つ。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476305031520257
+    m_Localized: 超自然の雷撃
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476305031520258
+    m_Localized: クリティカルヒットになると爆発する可能性あり。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476305031520259
+    m_Localized: 雷帝龍
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9476305031520260
+    m_Localized: 超自然の雷撃の進化系。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9928406866014208
+    m_Localized: 飛行型大腿骨
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9928406907957248
+    m_Localized: コイン
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10178850515312640
+    m_Localized: カードをドロー{TriggerType.Icon}すると{FccAction} 。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 10178850624364544
+    m_Localized: ゴールドを獲得{TriggerType.Icon}すると{FccAction}。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 10178850624364545
+    m_Localized: カードが1枚破棄 {TriggerType.Icon}されると{FccAction}。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 10333246305808384
+    m_Localized: ムーンゴハイ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10333246343557120
+    m_Localized: "最も奇妙な水が眠る、最も神秘に包まれた深淵の奥底。\nそこではびしょ濡れの冒険者が、思わぬ大波を起こすかもしれない。"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10333246343557121
+    m_Localized: 月光さえ届かぬ水底は、動くものすべてを獲物とする飢えた怪物たちの巣窟となっている。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10620020227825664
+    m_Localized: '{:color(Keyword):Give Effect}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 10620020278157312
+    m_Localized: ランダムな{CardType.Icon}カードに {CardEffect.KeywordName}を付与する
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 12369241960341504
+    m_Localized: クロウラーカードは、プレイ時にランダムなカードタイプを追加で獲得する。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284544
+    m_Localized: クロウラーカードは、プレイ時にランダムなトリガーを追加で獲得する。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284545
+    m_Localized: 君？いや…自分か！
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284546
+    m_Localized: 自分、自分、そして自分…
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284547
+    m_Localized: こんなの、海底の魔法か何かに決まってる。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284548
+    m_Localized: '{db.Dungeon.Dungeon_Soda_01.Name}をアンロック'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 12369242002284549
+    m_Localized: '{db.Dungeon.Dungeon_Soda_02.Name}をアンロック'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 12369242002284550
+    m_Localized: (Porbably not going to be used but needs to be assigned just in case)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12369242002284551
+    m_Localized: ランダムなカードのコストを一時的に0にする。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12373404911919104
+    m_Localized: '{:color(Keyword):Bouncy}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 12373404953862144
+    m_Localized: 跳ね返るターゲットが増加。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12373404953862145
+    m_Localized: '{:color(Keyword):Crit Explosion}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 12373404953862146
+    m_Localized: クリティカル攻撃は爆発し、隣接する敵にダメージを与える。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12373404953862147
+    m_Localized: '{:color(Keyword):唸り}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 12373404953862148
+    m_Localized: 範囲攻撃がクリティカルになる可能性あり。さらに、範囲攻撃は拡大するごとに増加する。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940801093632
+    m_Localized: PLACEHOLDER<br>Troubler Bio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259456
+    m_Localized: PLACEHOLDER<br>Trouser Bio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259457
+    m_Localized: 切り替え
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259458
+    m_Localized: カードを破棄して新しくドローする。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259459
+    m_Localized: スカベンジ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259460
+    m_Localized: 破棄したカードの枚数だけ追加の発射物を放つ。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259461
+    m_Localized: マナ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12380940826259462
+    m_Localized: マナを獲得する。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13087326673514497
+    m_Localized: ガロのダンジョン
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13087326673514498
+    m_Localized: 魔術師の塔の地下は、失敗した数々の実験と他言できぬ秘密が眠る迷宮。このどこかに、上質なコートを保管した箱があった気がする。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13087326673514499
+    m_Localized: コンボの満ち引き
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13087326673514500
+    m_Localized: カードが破棄されると {GlobalKeywords.Combo}が増加する可能性あり。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 13087326673514501
+    m_Localized: カードが破棄されると、{Arcana.EffectValue.0:N0}%の確率で {GlobalKeywords.Combo}を増加する。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 13087326673514502
+    m_Localized: (NOT USING)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13091003727556608
+    m_Localized: ムーンゴロウ海溝
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13108134305280000
+    m_Localized: レダ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13108134305280001
+    m_Localized: レダ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13108134305280002
+    m_Localized: (not used yet)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13183508871589888
+    m_Localized: '{db.Dungeon.Dungeon_GalloBelow_01.Name}をアンロック'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 13183508900950016
+    m_Localized: '{db.Dungeon.Dungeon_Soda_01.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 13183508900950017
+    m_Localized: '{db.Dungeon.Dungeon_Soda_02.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 13183508900950018
+    m_Localized: '{db.Dungeon.Dungeon_GalloBelow_01.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 13183508900950019
+    m_Localized: '{db.relic.RelicConfig_Tappo.Name}をアンロック'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 13183508905144320
+    m_Localized: '{db.relic.RelicConfig_Tappo.Name} {GlobalKeywords.Relic}を見つける。'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 13183508905144321
+    m_Localized: '{db.relic.RelicConfig_Tappo.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 13183508905144322
+    m_Localized: '{db.relic.RelicConfig_GalileosHand.Name}をアンロック'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 13183508905144323
+    m_Localized: '{db.relic.RelicConfig_GalileosHand.Name} {GlobalKeywords.Relic}を見つける。'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 13183508905144324
+    m_Localized: '{db.relic.RelicConfig_GalileosHand.Name} '
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 14537641012703232
+    m_Localized: ガリレオの手
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14537641063034880
+    m_Localized: ワールドマップに手札上限ボタンを追加する。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14560062499446784
+    m_Localized: '{db.Dungeon.Dungeon_Moongolow_teaser.Name}をアンロック'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 14560062533001216
+    m_Localized: '{db.Dungeon.Dungeon_Moongolow_teaser.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 14560062533001217
+    m_Localized: エンダーを倒す。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14560062533001218
+    m_Localized: ノーマルゲームをクリアする。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503580381184
+    m_Localized: '{db.Gems.GemConfig_SetCostType_Adaptability.Name} {GlobalKeywords.Gem}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 14593503622324224
+    m_Localized: ドロウナーを倒す。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14593503622324225
+    m_Localized: '{db.Dungeon.Dungeon_GalloBelow_01.Name}でドロウナーを倒す。'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 14593503622324226
+    m_Localized: '{db.Gems.GemConfig_Switch.Name} {GlobalKeywords.Gem}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 14593503622324227
+    m_Localized: '{db.Dungeon.Dungeon_Soda_01.Name}バイオームで{db.Gems.GemConfig_Switch.Name}  {GlobalKeywords.Gem}を見つける。'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 14593503622324228
+    m_Localized: '{db.Gems.GemConfig_Switch.Name}  {GlobalKeywords.Gem}を見つける。'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 14593503622324229
+    m_Localized: '{db.Gems.GemConfig_Afterlife.Name} {GlobalKeywords.Gem}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 14593503622324230
+    m_Localized: '{db.Dungeon.Dungeon_Soda_01.Name}バイオームで{db.Gems.GemConfig_Afterlife.Name} {GlobalKeywords.Gem}を見つける。'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 14593503622324231
+    m_Localized: '{db.Gems.GemConfig_Afterlife.Name} {GlobalKeywords.Gem}を見つける。'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 14593503622324232
+    m_Localized: '{db.Gems.GemConfig_Scavenge.Name} {GlobalKeywords.Gem}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 14593503622324233
+    m_Localized: '{db.Dungeon.Dungeon_Soda_01.Name}バイオームで{db.Gems.GemConfig_Scavenge.Name} {GlobalKeywords.Gem}を見つける。'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 14593503622324234
+    m_Localized: '{db.Gems.GemConfig_Scavenge.Name} {GlobalKeywords.Gem}を見つける。'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 14593503622324241
+    m_Localized: '{db.Arcana.ArcanaConfig_InfiniteCombo.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 14593503622324242
+    m_Localized: 手札にカードがない状態で{Achievement.Value:N0}ターンを完了する。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 14593503622324243
+    m_Localized: '{db.Arcana.ArcanaConfig_InfiniteCombo.Name} {GlobalKeywords.Arcana}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 14593503622324244
+    m_Localized: '{db.Arcana.ArcanaConfig_ChairGame.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 14593503622324245
+    m_Localized: カードを{Achievement.Value:N0}枚切り替える。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 14593503622324246
+    m_Localized: '{db.Arcana.ArcanaConfig_ChairGame.Name} {GlobalKeywords.Arcana}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 14593503626518528
+    m_Localized: '{db.Arcana.ArcanaConfig_CrawlerBrawler.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 14593503626518529
+    m_Localized: '{db.Dungeon.Dungeon_GalloBelow_01.Name}でガロを使ってスペクトラル・ガロを倒す。'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 14593503626518530
+    m_Localized: '{db.Arcana.ArcanaConfig_CrawlerBrawler.Name} {GlobalKeywords.Arcana}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 14593503626518531
+    m_Localized: '{db.Arcana.ArcanaConfig_EbbAndCombo.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 14593503626518532
+    m_Localized: '{db.Dungeon.Dungeon_Soda_01.Name}で{Achievement.Value:N0}コンボ獲得する。'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 14593503626518533
+    m_Localized: '{db.Arcana.ArcanaConfig_EbbAndCombo.Name} {GlobalKeywords.Arcana}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 14603972793806848
+    m_Localized: '{db.Dungeon.Dungeon_GalloBelow_01.Name}で{GlobalKeywords.Coffin}を見つける。'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 14603972793806849
+    m_Localized: '{db.Dungeon.Dungeon_GalloBelow_01.Name}で破壊可能アイテムを{Achievement.Value:N0}個破壊する。'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 14603972793806850
+    m_Localized: '{db.FCC.FCC_Ambrojoe.FirstName}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 14603972793806851
+    m_Localized: '{db.FCC.FCC_BigTroubler.FirstName}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 14603972793806852
+    m_Localized: '{db.Dungeon.Dungeon_Soda_01.Name}で{GlobalKeywords.Coffin}を見つける。'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 14603972793806853
+    m_Localized: '{db.FCC.FCC_BigTroubler.FirstName}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 14603972793806854
+    m_Localized: '{db.Cards.Card_A_4_SpiritDisturbance.Name}を見つける。'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 14603972793806855
+    m_Localized: '{db.Cards.Card_A_1_UnearthlyBolt.Name}を進化させる。'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 15650607699275776
+    m_Localized: ムーンゴロワー
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15650607741218816
+    m_Localized: イス取りゲーム
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15650607741218817
+    m_Localized: 1ターンにつき1回、 {GlobalKeywords.Hand}に{GlobalKeywords.Combo}を継続できるカードがない場合、切り替えを{Arcana.EffectValue.0:N0}発動させる。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 15650607741218818
+    m_Localized: '{GlobalKeywords.Hand}に{GlobalKeywords.Combo}を継続できるカードがない場合、切り替えを{Arcana.EffectValue.0:N0}発動させる。'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 15650607741218819
+    m_Localized: '{db.Dungeon.Dungeon_Madforest_01.Name}をアンロック'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 15650607741218820
+    m_Localized: チュートリアルをクリアする。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15650607741218821
+    m_Localized: '{db.Dungeon.Dungeon_Madforest_01.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 15650607741218822
+    m_Localized: '{db.Cards.Card_E_Rosary.Name}をアンロック'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 15650607741218823
+    m_Localized: '{db.Cards.Card_E_Rosary.Name}をダンジョンに追加'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 15650607741218824
+    m_Localized: '{db.Cards.Card_E_Rosary.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 15665453325037568
+    m_Localized: '{db.Cards.Card_E_Orologion.Name}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 15665453325037569
+    m_Localized: '{Achievement.RewardName}をアンロック'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 15678690565238784
+    m_Localized: ジェムパック1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15678690611376128
+    m_Localized: 基本ジェム
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15678690611376129
+    m_Localized: ステータスジェム
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15678690611376130
+    m_Localized: 狂乱の森でフロア2をクリアする。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377280
+    m_Localized: ショップに新しいパワーアップが追加
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377281
+    m_Localized: '{db.Cards.Card_D_0_Armor.Name}カードを{Achievement.Value:N0}回プレイする。'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 15705243441377282
+    m_Localized: '{db.Cards.Card_S_0_Candelabrador.Name}カードを {Achievement.Value:N0}回プレイする。'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 15705243441377283
+    m_Localized: トリ肉ショップ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377284
+    m_Localized: トリ肉ショップイベント
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377285
+    m_Localized: '{db.Cards.Card_S_1_Crown.Name}カードを{Achievement.Value:N0}回プレイする。'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 15705243441377286
+    m_Localized: '{db.Cards.Card_B_0_EmptyTome.Name}カードを {Achievement.Value:N0}回プレイする。'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 15705243441377287
+    m_Localized: '{db.Cards.Card_S_1_Duplicator.Name}カードを{Achievement.Value:N0}回プレイする。'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 15705243441377288
+    m_Localized: '{db.Cards.Card_S_1_HollowHeart.Name}カードを {Achievement.Value:N0}回プレイする。'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 15705243441377289
+    m_Localized: '{db.Cards.Card_S_1_Spinach.Name}カードを{Achievement.Value:N0}回プレイする。'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 15705243441377290
+    m_Localized: '{db.Cards.Card_S_1_Pummarola.Name}カードを {Achievement.Value:N0}回プレイする。'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 15705243441377291
+    m_Localized: リロール・パワーアップを購入する。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377292
+    m_Localized: ダンジョンにリロール追加
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377293
+    m_Localized: 光源にリロール追加
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377294
+    m_Localized: コピーテーブル
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377295
+    m_Localized: コピーテーブルイベント
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377296
+    m_Localized: 不思議な鏡
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377297
+    m_Localized: 不思議な鏡イベント
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377298
+    m_Localized: マナ供給テーブル
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377299
+    m_Localized: マナ供給テーブルイベント
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377300
+    m_Localized: 傭兵募集イベント
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377301
+    m_Localized: 野外便所
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377302
+    m_Localized: 野外便所イベント
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377303
+    m_Localized: 雇用所
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377304
+    m_Localized: 雇用所イベント
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377305
+    m_Localized: '{:color(Keyword):Crawler*}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 15705243441377306
+    m_Localized: クロウラーは発動状態のアビリティを1つ以上持っている。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15705243441377307
+    m_Localized: '{:color(Keyword):Multitasker}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 15705243441377308
+    m_Localized: '{:color(Keyword):Crawler 2}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 15713194147262464
+    m_Localized: '{db.Dungeon.Dungeon_Soda_01.Name}バイオームで、破壊可能なサンゴからジェムを{Achievement.Value:N0}個見つける。'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 15713194185011200
+    m_Localized: '{db.Dungeon.Dungeon_Soda_01.Name}バイオームで、破壊可能アイテムからジェムを{Achievement.Value:N0}個見つける。'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 17548054428069888
+    m_Localized: カードが破棄されるとスカベンジチャージを獲得する。スカベン自カードは追加の発射物を放つ。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818624
+    m_Localized: 現在のスカベンジ数に基づいて追加の発射物を放つ。また、カードを破棄するたびにスカベンジは増加する。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818625
+    m_Localized: 破棄されたカード数に基づいて追加の発射物を放つ。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818626
+    m_Localized: シン・スプリント
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818627
+    m_Localized: 頑丈ボーン
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17548054465818628
+    m_Localized: ゴールド{TriggerType.Icon}獲得時に{FccAction}。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 17548054465818629
+    m_Localized: コイン{TriggerType.Icon}獲得時に{FccAction}。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 17548054465818630
+    m_Localized: コイン{TriggerType.Icon}獲得時に{FccAction}。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 17548054465818631
+    m_Localized: '{TriggerType.Icon}ドロー時に{FccAction}。'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 17548054465818632
+    m_Localized: 破棄{TriggerType.Icon}すると{FccAction}。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 17548054465818633
+    m_Localized: '{:color(Keyword):Imbue}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 17548054465818634
+    m_Localized: カードを1枚破棄して新しいカードを1枚ドローする。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17085329412534272
+    m_Localized: 最後のカードがコンボを継続する場合、新しく手札のカードを引く。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17085329433505792
+    m_Localized: コンボ中にカードが切れた場合は、追加でさらにカードを引く。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17085329433505793
+    m_Localized: このカードは、コンボ継続に必要なコスト条件を満たしている。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17118668927217664
+    m_Localized: '{:color(Keyword):{db.Cards.Card_E_CoinPurse.Name}}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 17466142275612672
+    m_Localized: '{:color(Keyword):効果時間}：{:color(Keyword):クロウラー}効果は{FccDuration:p:1回|{:N0}回}発動する。'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 17466142313361408
+    m_Localized: コインカードを作成する
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17466142313361409
+    m_Localized: ランダムなカードのコストを一時的に0にする
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17466142313361410
+    m_Localized: '{GlobalKeywords.Hand}から{ActionValue:p:ランダムなカード1枚|ランダムなカード{:N0}枚}を破棄し、{ActionValue:N0}枚ドローする'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 17872157261377536
+    m_Localized: 破棄する際にカードの通常効果が発揮される。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17872157320097792
+    m_Localized: 破棄する際にカードの通常効果が発揮される。これはコンボを無視する。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17872157320097793
+    m_Localized: '{:color(Keyword):{db.Cards.Card_E_CoinCard.Name}}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 18287377737789440
+    m_Localized: 1回のラン中に{db.Dungeon.Dungeon_Soda_01.Name}のバイオームで、破壊可能なサンゴからジェムを{Achievement.Value:N0}個見つける。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 18287377779732480
+    m_Localized: 1回のラン中に{db.Dungeon.Dungeon_Soda_01.Name}のバイオームで、破壊可能なサンゴからジェムを{Achievement.Value:N0}個見つける。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 18287377779732481
+    m_Localized: コインを投げ入れれば、景品が当たるかも！
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732482
+    m_Localized: コイン = ???
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732483
+    m_Localized: ぶつかってコインを投げ入れる。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732484
+    m_Localized: 太っ腹なクロウラーにはご褒美を。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732485
+    m_Localized: アンラッキー。
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732486
+    m_Localized: 豪快な投げっぷりだったが、何も起こらないみたいだ…
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732487
+    m_Localized: 何も起こらないみたいだ…
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732488
+    m_Localized: 願いの井戸
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732489
+    m_Localized: 至って普通の井戸
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732490
+    m_Localized: 井戸
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18287377779732491
+    m_Localized: '{:color(Keyword):タンク系}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 18287377779732492
+    m_Localized: '{:color(Keyword):タンク}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 18287377779732493
+    m_Localized: '{:color(Keyword):ゴライアス}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 18287377779732494
+    m_Localized: '{:color(Keyword):タイタン}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 18287377779732495
+    m_Localized: '{:color(Keyword):歩く肉塊}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 18287377779732496
+    m_Localized: '{:color(Keyword):スライム}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 18287377779732497
+    m_Localized: '{:color(Keyword):肉ダンゴ}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 18287377779732498
+    m_Localized: '{:color(Keyword):ミートボール}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 18287377779732499
+    m_Localized: 基礎ダメージは{GlobalKeywords.MaxHealth}に比例して増加する。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 18287377779732500
+    m_Localized: ダメージは{GlobalKeywords.MaxHealth}に比例して増加する。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 18287377779732501
+    m_Localized: ダメージは{GlobalKeywords.MaxHealth}によって増加する。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 18287377779732502
+    m_Localized: 基礎ダメージは{GlobalKeywords.MaxHealth}。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 18287377779732503
+    m_Localized: 基礎ダメージは{GlobalKeywords.MaxHealth} ({PLACEHOLDER.NUMBER:N0})に比例して増加する。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 18287377779732504
+    m_Localized: ダメージは{GlobalKeywords.MaxHealth} ({PLACEHOLDER.NUMBER:N0})に比例して増加する。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 18287377779732505
+    m_Localized: ダメージは{GlobalKeywords.MaxHealth} ({PLACEHOLDER.NUMBER:N0})によって増加する。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 18287377779732506
+    m_Localized: 基礎ダメージは{GlobalKeywords.MaxHealth} ({PLACEHOLDER.NUMBER:N0})。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 18287377779732507
+    m_Localized: レダのダメージは{GlobalKeywords.MaxHealth} ({PLACEHOLDER.NUMBER:N0})によって増加する。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 18287377779732508
+    m_Localized: レダのダメージは{GlobalKeywords.MaxHealth} ({PLACEHOLDER.NUMBER:N0})によって増加する。
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 19994491061481472
+    m_Localized: '{GlobalKeywords.MaxHealth}に基づいてダメージを与える'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 19994491107618816
+    m_Localized: ダメージを与える
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19994491107618817
+    m_Localized: '{GlobalKeywords.MaxHealth}をダメージとして与える'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 23211258547351552
+    m_Localized: '{GlobalKeywords.Handsize}とディール枚数が{0:combo:}増加'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 25292387018420224
+    m_Localized: '{:color(Keyword):疲労}'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 25292387039391744
+    m_Localized: '{GlobalKeywords.Crawler}の能力を発動させるコストは、発動するたびに増加する。'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 25773564396253184
+    m_Localized: ディール枚数制限あり
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820091674624
+    m_Localized: ディール枚数制限
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006272
+    m_Localized: ミーティ・ボール
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006273
+    m_Localized: 怪しい肉
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006274
+    m_Localized: ダンジョンのガラクタ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006275
+    m_Localized: レンガ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006276
+    m_Localized: 苦痛の輪
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006277
+    m_Localized: ヒヒンクロマンサー
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006278
+    m_Localized: ガレッジアモルテ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006279
+    m_Localized: アンマッザジェンテ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26373820142006280
+    m_Localized: プールターガイスト
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33744845264052224
+    m_Localized: '{0:combo:}カードを破棄する。破棄されたカード1枚につきコインを生成'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 34335007136210944
+    m_Localized: '{ActionValue:N0}カードを破棄する。破棄されたカード1枚につきコインを生成'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 34335007102656512
+    m_Localized: '{Plural:p:{0:combo:}カード|{0:combo:}カード}を破棄する。破棄されたカード1枚につきコインを生成'
+    m_Metadata:
+      m_Items:
+      - rid: 193345922286223368
+  - m_Id: 35492381125435392
+    m_Localized: クロウラーカードは、プレイ時にランダムなトリガーを追加で獲得する。クロウラーは疲労状態になる。
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 193345922286223368
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        m_SharedEntries:
+        - id: 14603972760252416
+        - id: 5085614268473344
+        - id: 5424281531043840
+        - id: 5424281531043841
+        - id: 7251841128587264
+        - id: 7700284548571136
+        - id: 7702454513688576
+        - id: 9476304997965824
+        - id: 10178850515312640
+        - id: 10178850624364544
+        - id: 10178850624364545
+        - id: 10620020227825664
+        - id: 10620020278157312
+        - id: 12369242002284548
+        - id: 12369242002284549
+        - id: 12373404911919104
+        - id: 12373404953862145
+        - id: 12373404953862147
+        - id: 13087326673514500
+        - id: 13087326673514501
+        - id: 13183508871589888
+        - id: 13183508900950016
+        - id: 13183508900950017
+        - id: 13183508900950018
+        - id: 13183508900950019
+        - id: 13183508905144320
+        - id: 13183508905144321
+        - id: 13183508905144322
+        - id: 13183508905144323
+        - id: 13183508905144324
+        - id: 14560062499446784
+        - id: 14560062533001216
+        - id: 14593503580381184
+        - id: 14593503622324225
+        - id: 14593503622324226
+        - id: 14593503622324227
+        - id: 14593503622324228
+        - id: 14593503622324229
+        - id: 14593503622324230
+        - id: 14593503622324231
+        - id: 14593503622324232
+        - id: 14593503622324233
+        - id: 14593503622324234
+        - id: 14593503622324241
+        - id: 14593503622324242
+        - id: 14593503622324243
+        - id: 14593503622324244
+        - id: 14593503622324245
+        - id: 14593503622324246
+        - id: 14593503626518528
+        - id: 14593503626518529
+        - id: 14593503626518530
+        - id: 14593503626518531
+        - id: 14593503626518532
+        - id: 14593503626518533
+        - id: 14603972793806848
+        - id: 14603972793806849
+        - id: 14603972793806850
+        - id: 14603972793806851
+        - id: 14603972793806852
+        - id: 14603972793806853
+        - id: 14603972793806854
+        - id: 14603972793806855
+        - id: 15650607741218817
+        - id: 15650607741218818
+        - id: 15650607741218819
+        - id: 15650607741218821
+        - id: 15650607741218822
+        - id: 15650607741218823
+        - id: 15650607741218824
+        - id: 15665453325037568
+        - id: 15665453325037569
+        - id: 15705243441377281
+        - id: 15705243441377282
+        - id: 15705243441377285
+        - id: 15705243441377286
+        - id: 15705243441377287
+        - id: 15705243441377288
+        - id: 15705243441377289
+        - id: 15705243441377290
+        - id: 15705243441377305
+        - id: 15705243441377307
+        - id: 15705243441377308
+        - id: 15713194147262464
+        - id: 15713194185011200
+        - id: 17548054465818628
+        - id: 17548054465818629
+        - id: 17548054465818630
+        - id: 17548054465818631
+        - id: 17548054465818632
+        - id: 17548054465818633
+        - id: 17118668927217664
+        - id: 17466142275612672
+        - id: 17466142313361410
+        - id: 17872157320097793
+        - id: 18287377737789440
+        - id: 18287377779732480
+        - id: 18287377779732491
+        - id: 18287377779732492
+        - id: 18287377779732493
+        - id: 18287377779732494
+        - id: 18287377779732495
+        - id: 18287377779732496
+        - id: 18287377779732497
+        - id: 18287377779732498
+        - id: 18287377779732499
+        - id: 18287377779732500
+        - id: 18287377779732501
+        - id: 18287377779732502
+        - id: 18287377779732503
+        - id: 18287377779732504
+        - id: 18287377779732505
+        - id: 18287377779732506
+        - id: 18287377779732507
+        - id: 18287377779732508
+        - id: 19994491061481472
+        - id: 19994491107618817
+        - id: 23211258547351552
+        - id: 25292387018420224
+        - id: 25292387039391744
+        - id: 33744845264052224
+        - id: 34335007136210944
+        - id: 34335007102656512
+

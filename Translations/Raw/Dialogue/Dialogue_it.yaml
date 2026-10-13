@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Dialogue_it
+  m_EditorClassIdentifier:
+  m_LocaleId:
+    m_Code: it
+  m_SharedData: {fileID: 11400000, guid: 554ff93728483c649a696a71169ada09, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 31543236964352
+    m_Localized: Salve Crawler, sei la prima persona che vedo da molto tempo!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518784
+    m_Localized: La bottega di Moongolow non è ancora aperta, ma ti farò dono di questa reliquia come ricompensa per avermi trovato.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518785
+    m_Localized: Se sei in cerca del vampiro, temo che ci rimarrai male, ma ho per te questa reliquia come ricompensa per avermi trovato.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518786
+    m_Localized: Uno squillo di questa tromba speciale ti consentirà di errare in eterno nei dungeon... Tutto qui, chiaro?!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518787
+    m_Localized: Di nuovo tu? Guarda che non rivoglio indietro quella tromba, eh...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518788
+    m_Localized: Non me la sono mai cavata granché e richiede una manutenzione folle, vista tutta l'acqua salmastra di questi lidi.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518789
+    m_Localized: Arrivi troppo tardi, ho già dato via la mia reliquia più preziosa.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518790
+    m_Localized: Oh! La mia vecchia tromba! Come... vorrei tenerla in mano ancora una volta.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518791
+    m_Localized: La vita qui in fondo al mare è molto solitaria.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518792
+    m_Localized: La cosa che mi manca di più è il tè verde... Lo sorseggiavo sempre da raffinate tazzine di porcellana.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518793
+    m_Localized: Sono finito qui molto tempo fa, alla ricerca del vampiro...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31543270518794
+    m_Localized: Inizio a pensare che possa trovarsi in un'altra bara.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495296
+    m_Localized: Mio padre era un carpentiere, ma mi ha insegnato anche le meraviglie della musica.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495297
+    m_Localized: La mia vecchia tromba non era male, ma io sognavo di poter comprare un sintetizzatore!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495298
+    m_Localized: Un momento... cosa vado blaterando? Cos'è un sintetizzatore?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495299
+    m_Localized: Oh, rieccoti! Quali nuove porti dal mondo esterno?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495300
+    m_Localized: Una cattedrale nel cielo?! E poi chissà cos’altro s'inventeranno...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495301
+    m_Localized: Magia... La magia più oscura. La mia anima fluttua in essa, disseminata nel tempo, imprigionata nel mondo dell'immateriale...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495302
+    m_Localized: Oh, sei tu. Scusa, stavo ripetendo alcune battute.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495303
+    m_Localized: Che cosa fai quando dal cielo arrivano frecce sotto forma di pioggia e i tuoni fanno tremare i pilastri del cielo?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495304
+    m_Localized: Io probabilmente sarei al sicuro qui sotto, quindi non vale la pena preoccuparmi.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495305
+    m_Localized: Di nuovo tu? Proprio non capisco cosa ti riporti ogni volta quaggiù...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495306
+    m_Localized: A meno che...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495307
+    m_Localized: Vieni solo per farmi visita?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495308
+    m_Localized: Continui a tornare, come se avessi dell'altro da offrirti...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495309
+    m_Localized: Qualcuno continua a rompere i miei vasi...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495310
+    m_Localized: Se scopri chi è, fammelo sapere!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495311
+    m_Localized: Salve Crawler, spero che le tue avventure siano state proficue!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495312
+    m_Localized: Non preoccuparti per me... sono un sopravvissuto.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495313
+    m_Localized: Aaah, ecco l'attuale titolare della Settima tromba che torna a punzecchiare il precedente proprietario...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54767773495314
+    m_Localized: Sono in vena di blues, chissà perché...
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
+
